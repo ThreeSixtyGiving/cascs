@@ -53,7 +53,8 @@ def main():
     parser.add_argument('--prefix', default=CASC_ORG_ID_PREFIX, help='Prefix to use for org ids')
     args = parser.parse_args()
 
-    cascs = sorted(list(fetch_cascs(args.url, args.prefix)), key=lambda x: x.get('name', x.get('id')))
+    cascs = {c['id']: c for c in fetch_cascs(args.url, args.prefix)}
+    cascs = sorted(list(cascs.values()), key=lambda x: x.get('name', x.get('id')))
 
     if args.format == 'csv':
         writer = csv.DictWriter(args.outfile, fieldnames=[
