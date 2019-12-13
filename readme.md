@@ -47,3 +47,6 @@ git commit -m 'Add new cascs'
 git push origin master
 ```
 
+## CASCs registered with Companies House
+
+The file [casc_company_house.csv](casc_company_house.csv) contains a list of CASCs that also appear to be registered with Companies House (based on matching the name). This file is manually created by matching the name of the CASC with the name on Companies House (replacing 'Ltd' with 'Limited' where appropriate, and ignoring the case).
