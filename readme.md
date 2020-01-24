@@ -35,13 +35,19 @@ python cascs /path/to/file.csv
 To create a JSON file with the same data run:
 
 ```sh
-python cascs --format json  /path/to/file.json
+python cascs /path/to/file.json
 ```
 
-The full process to update the CSV file in this repository should be something like:
+To create both files run:
 
 ```sh
-python cascs cascs.csv
+python cascs /path/to/file.csv /path/to/file.json
+```
+
+The full process to update the CSV and JSON files in this repository should be something like:
+
+```sh
+python cascs cascs.csv cascs.json
 git add cascs.csv
 git commit -m 'Add new cascs'
 git push origin master
