@@ -47,8 +47,7 @@ def fetch_cascs(casc_url=CASC_BASE, org_id_prefix=CASC_ORG_ID_PREFIX):
 
 def main():
     parser = argparse.ArgumentParser(description='Extract a list of Community Amateur Sports Clubs from HMRC and add a unique identifier')
-    parser.add_argument('outfile', type=argparse.FileType('w', encoding='UTF-8'), help='Destination file for the data')
-    parser.add_argument('--format', choices=['csv', 'json'], default='csv', help='Format of output')
+    parser.add_argument('outfile', type=argparse.FileType('w', encoding='UTF-8'), nargs='+', help='Destination file for the data')
     parser.add_argument('--url', default=CASC_BASE, help='URL to fetch from')
     parser.add_argument('--prefix', default=CASC_ORG_ID_PREFIX, help='Prefix to use for org ids')
     args = parser.parse_args()
@@ -56,15 +55,16 @@ def main():
     cascs = {c['id']: c for c in fetch_cascs(args.url, args.prefix)}
     cascs = sorted(list(cascs.values()), key=lambda x: x.get('name', x.get('id')))
 
-    if args.format == 'csv':
-        writer = csv.DictWriter(args.outfile, fieldnames=[
-                                'id'] + RECORD_KEYS, lineterminator='\n')
-        writer.writeheader()
-        writer.writerows(cascs)
-    elif args.format == 'json':
-        json.dump({'cascs': cascs}, args.outfile, indent=4)
+    for f in args.outfile:
+        if f.name.endswith('csv'):
+            writer = csv.DictWriter(f, fieldnames=[
+                                    'id'] + RECORD_KEYS, lineterminator='\n')
+            writer.writeheader()
+            writer.writerows(cascs)
+        elif f.name.endswith('json'):
+            json.dump({'cascs': cascs}, f, indent=4)
 
-    args.outfile.close()
+        f.close()
 
 
 if __name__ == "__main__":
