@@ -13315,6 +13315,12 @@
             "id": "GB-CASC-99842562"
         },
         {
+            "name": "Elite Dance Studios Ltd",
+            "address": "218 Sundorne Road, Shrewsbury",
+            "postcode": "SY1 4RG",
+            "id": "GB-CASC-2ea9bd3e"
+        },
+        {
             "name": "Elite Strength and Conditioning",
             "address": "Glee Barn, Acle Road, Lingwood, Norwich",
             "postcode": "NR13 4ER",
@@ -25613,6 +25619,12 @@
             "address": "17 Diamond Court, Moy, County Tyrone",
             "postcode": "BT71 7TZ",
             "id": "GB-CASC-0992b3b8"
+        },
+        {
+            "name": "Muckamore Cricket and Lawn Tennis Club",
+            "address": "c/o Roadsend, 765 Moylena Road, Antrim, Northern Ireland",
+            "postcode": "BT41 4PA",
+            "id": "GB-CASC-4b19c5ca"
         },
         {
             "name": "Mugginton Cricket Club",
@@ -38939,6 +38951,12 @@
             "address": "Royal Docks Adventure, 1012 Dockside Road, London",
             "postcode": "E16 2QD",
             "id": "GB-CASC-c86c45e3"
+        },
+        {
+            "name": "Typhoons RUFC",
+            "address": "Stewards Flat, Preston Grasshopper RFC, Lightfoot Green Lane, Lightfoot Green",
+            "postcode": "PR4 0AP",
+            "id": "GB-CASC-5885524d"
         },
         {
             "name": "UCSC Ltd",
