@@ -6757,6 +6757,12 @@
             "id": "GB-CASC-1aa97b77"
         },
         {
+            "name": "Buxted Park Cricket Club",
+            "address": "Buxted Park Cricket Ground, Buxted Park, Uckfield",
+            "postcode": "TN22 4AY",
+            "id": "GB-CASC-4161446e"
+        },
+        {
             "name": "Buxted Park Cricket and Sports Association",
             "address": "2 The Walled Garden, Five Ash Down, Uckfield",
             "postcode": "TN22 3AJ",
@@ -13955,6 +13961,12 @@
             "address": "20 Richmond Road, Exeter, Devon",
             "postcode": "EX4 4JA",
             "id": "GB-CASC-9cddb5ea"
+        },
+        {
+            "name": "Exeter Rowing Club Limited",
+            "address": "62 Haven Road, Exeter",
+            "postcode": "EX2 8DP",
+            "id": "GB-CASC-87225f8b"
         },
         {
             "name": "Exeter and District Radio Control Club",
