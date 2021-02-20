@@ -3439,6 +3439,12 @@
             "id": "GB-CASC-6f8425c4"
         },
         {
+            "name": "Berkhamsted and Hemel Hempsted Hockey Club Ltd",
+            "address": "Lockhart Field, Lower Kings Road, Berkhampsted, Herts",
+            "postcode": "HP4 2AL",
+            "id": "GB-CASC-cb668741"
+        },
+        {
             "name": "Berkshire Stags Visually Impaired Cricket Club",
             "address": "131 Wilderness Road, Earley, Reading",
             "postcode": "RG6 5RD",
@@ -29807,6 +29813,12 @@
             "address": "38 Richmond Road, Brighton",
             "postcode": "BN2 3RN",
             "id": "GB-CASC-03a57fee"
+        },
+        {
+            "name": "Preston Sports Club Limited",
+            "address": "West Cliff Ground, South Meadow Lane, Preston",
+            "postcode": "PR1 8JP",
+            "id": "GB-CASC-7c787c3a"
         },
         {
             "name": "Preston on Tees Cricket Club",
