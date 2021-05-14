@@ -1444,6 +1444,7 @@ GB-CASC-b3aa3303,Chorleywood Golf Club Ltd,"The Common, Chorleywood, Hertfordshi
 GB-CASC-e2637729,Christ Church Lawn Tennis Club,"14 Taleworth Park, Ashtead",KT21 2NH
 GB-CASC-d5abfd12,Christ The King Football Club,"41 Burton Close, Allesley, Coventry",CV5 9EG
 GB-CASC-ce6f6971,Christchurch Rowing Club,"Riverbank, Wick Lane, Christchurch, Dorset",BH23 1HU
+GB-CASC-a2e9f885,Christchurch Rugby Football Club LTD,"East Christchurch Sports and Social Club, Grange Road, Christchurch",BH23 4JD
 GB-CASC-610b420e,Christchurch Tennis Club,"Iford Sports Complex, Barrack Road, Christchurch",BH23 2BA
 GB-CASC-f6382300,Chudleigh Petanque Club,"Chudleigh Sports Centre, Kate Brook, Chudleigh, Newton Abbot",TQ13 0JX
 GB-CASC-aeb02dfc,Chudleigh Sports Centre,"10 Mackrells Terrace, Wolborough Street, Newton Abbot, Devon",TQ12 1LN
@@ -1709,6 +1710,7 @@ GB-CASC-3a4af809,Craighelen Lawn Tennis and Squash Club,"215 East Clyde Street, 
 GB-CASC-827596a3,Craigmillar Park Tennis Club,"16 Southfield Square, Edinburgh",EH15 1QS
 GB-CASC-0bee6a09,Craignish Boat Club,"Millhouse, Ardfern, By Lochgilphead, Argyll",PA31 8QN
 GB-CASC-bfaa7fa2,Craignure Golf Club,"Craignure Golf Club, Scallastle, Craignure, Isle Of Mull, Argyll",PA65 6BA
+GB-CASC-8895d52b,Crake Valley Croquet Club,"1 Holker Farm Cottages, Cark in Cartmel, Grange Over Sands",LA11 7PS
 GB-CASC-43777981,Cranborne Association Of Sports Clubs,"9 Salisbury Street, Cranborne, Wimborne, Dorset",BH21 5PU
 GB-CASC-08ff1b65,Cranborne Bowling Club,"9 Theodore Place, Gillingham, Kent",ME7 5TL
 GB-CASC-4e7253ba,Cranbrook Bowls Club,"10 Broadcloth, Cranbrook, Kent",TN17 3RG
@@ -2094,6 +2096,7 @@ GB-CASC-8272e44e,Eardisley Tennis and Croquet Club,"The Old Rectory, Letton, Her
 GB-CASC-f01fb48b,Earl Marshall Cricket Club,"142 Scott Road, Sheffield",S4 7BJ
 GB-CASC-92a17687,Earls Barton Bowls and Tennis Club,"36 York Road, Wollaston, Wellingborough",NN29 7SG
 GB-CASC-53b1ee17,Earls Gymnastics Club,"111 Windsor Road, Halesowen",B63 4BH
+GB-CASC-675bf18d,Earlsdon RFC,"Bob Brown Pavillion, Mitchell Avenue, Canley, Coventry",CV4 8DY
 GB-CASC-d94a1b6b,Earlsfield ABC,"109 Garratt Lane, Wandsworth, London",SW18 4DW
 GB-CASC-5174de69,Earlston Tennis Club,"9 Oakbank Road, Earlston, Berwickshire",TD4 6BL
 GB-CASC-af91a4a5,Earlswood Cricket Club,"16 Bills Lane, Shirley, Solihull, West Midlands",B90 2NR
@@ -2758,7 +2761,7 @@ GB-CASC-274b4bc5,Guildford Cricket Club,"1 Old Kiln Barn, Berry Lane, Worplesdon
 GB-CASC-cf7d9acf,Guildford Gators Lacrosse Club,"Kings College, Southway, Guildford",GU2 8DU
 GB-CASC-4b8a15e5,Guildford Hockey Club,"3 Maple Road, Sendmarsh, Ripley",GU23 6JY
 GB-CASC-3a988373,Guildford Rowing Club,"20 Pewley Bank, Guildford",GU1 3PU
-GB-CASC-fc2179c6,Guildford and Godalming Athletic Club,"Old Tannery House, Tannery Lane, Bramley",GU5 0AB
+GB-CASC-4a82f21e,Guildford and Godalming Athletic Club Limited,"Guildford Spectrum, Parkway, Guildford",GU1 1UP
 GB-CASC-27362191,Guildfordians RFC,"4 Hillfield Close, Guildford",GU1 2UR
 GB-CASC-2f6a325b,Guisborough Angling Club Ltd,"9 Redcar Road, Guisborough",TS14 6HH
 GB-CASC-866bd8cc,Guisborough Rugby Union FC,"108 Whitby Avenue, Guisborough",TS14 7BA
@@ -3706,7 +3709,6 @@ GB-CASC-0dc8ff97,Letchworth Garden City RFC Ltd,"Ashleys (Hitchin) Ltd, Invision
 GB-CASC-dd36a5b0,Letcombe Regis Riding Club,"Dower House, South Street, Letcombe Regis, Wantage",OX12 9JY
 GB-CASC-3a354dad,Letcombe Tennis Club,"The Cottages, South Street, Letcombe Regis, Wantage, Oxfordshire",OX12 9JY
 GB-CASC-6db687cf,Leven AFC,"27 Glaisdale Road, Yarm, Stockton",TS15 9RN
-GB-CASC-13f1a1e6,Leven and Crake Valleys Croquet and Lawn Tennis Club,"Bluebell Wood House, Lakeside, Ulverston, Cumbria",LA12 8AS
 GB-CASC-54df6316,Leven and District Smallbore Rifle Club,"Greig Row, Viewforth Place, Leven",KY8 4BE
 GB-CASC-f7185d38,Leverstock Green Cricket Club,"19 Lombardy Close, Leverstock Green, Hemel Hempstead, Herts",HP2 4NG
 GB-CASC-7bfa8dbf,Leverstock Green Lawn Tennis Club,"Grasmere Close, Hemel Hempstead, Herts",HP3 8QZ
@@ -5546,7 +5548,6 @@ GB-CASC-c4af6985,Silhillians Rugby Union Football Club,"Silhillians Rugby Union 
 GB-CASC-56b8fcd0,Silloth Rugby Union Club,"c/o David Allen and Co, Dalmar House, Barras Lane Estate",CA5 7NY
 GB-CASC-c4dd09d0,Silsden Golf Club,"Brunthwaite Lane, Silsden, West Yorkshire",BD20 0NH
 GB-CASC-d541e839,Silver Leys Polo Club,"The Coach House, 9 Water Lane, Bishop’s Stortford",CM23 2JZ
-GB-CASC-49061c9c,Silver Shadoes,"Boldon Comprehensive School, New Road, Boldon Colliery, Boldon",NE35 9DZ
 GB-CASC-a57d4026,Silverbridge Harps Gaelic Football Club,"1 Cully Road, Silverbridge, Co. Armagh",BT35 9LP
 GB-CASC-43d2a1c4,Silverdale (Staffs) Cricket Club,"14 Paris Avenue, Newcastle",ST5 2RQ
 GB-CASC-2be26dba,Silverdale Cricket Club,"22 Castle Park, Lancaster",LA1 1YQ
@@ -5634,6 +5635,7 @@ GB-CASC-906ee8b3,South Shore Cricket and Squash Club(Inc. Scorpions Amateur Rugb
 GB-CASC-ec9966a3,South Skye and Lochalsh Kayak Club,"Rowan Barn, Plockton, Ross-shire",IV52 8TU
 GB-CASC-e0f4e2f5,South Staffordshire Sailing Club,"7 Deepmore Cottages, Wrottesley Road West, Wolverhampton",WU6 7LE
 GB-CASC-7dc0eed7,South Tyneside Indoor Bowls and Social Club Ltd,"Jack Clark Park, Horsley Hill Road, South Shields",NE33 3HE
+GB-CASC-6bcafa58,South Tyneside Jets,"50 Bronte Way, South Shields",NE34 9JY
 GB-CASC-aec9c4c8,South Wales Gliding Club,"12 Rannoch Drive, Lakeside, Cardiff",CF23 6LQ
 GB-CASC-49af198c,South Wales Mountaineering Club,"Unit 4710, PO Box 92, Cardiff",CF11 1NB
 GB-CASC-ee0dab20,South West London Diving,"Putney Leisure Centre, Dryburgh Road, Putney, London",SW15 1BL
@@ -5767,7 +5769,7 @@ GB-CASC-79c27017,St Goran Rowing Club,"Driftwood, Portheast Way, Gorran Haven, S
 GB-CASC-5a097915,St Helens Centre For Gymnastics Club,"Whitnalls, Chartered Accountants, Cotton House, Old Hall Street, Liverpool",L3 9TX
 GB-CASC-246dfa4c,St Helens Gymnastic Academy,"7 Newfields, St Helens",WA10 4JS
 GB-CASC-1f4a586d,St Idloes Golf Club,"Penrallt, Llanidloes",SY18 6LG
-GB-CASC-0bd4356c,St Ishmaels Sports and Social Club,"6 Grove Road, St Ishmaels, Haverfordwest, Pembrokeshire",SA62 3TG
+GB-CASC-f467e2ea,St Ishmaels Sports and Social Club,"2 Trewarren Close, St Ishmaels, Haverdfordwest",SA62 3TA
 GB-CASC-1d3c2122,St Ives Bowls Club,"16 Harvest Court, St Ives, Cambs",PE27 5QZ
 GB-CASC-dbdc036c,St Ives Sailing Club,"5 Menhyr Drive, Carbis Bay, St Ives, Cornwall",TR26 2QR
 GB-CASC-7c2f1e87,St Ives Tennis Club,"Primrose Valley, Porthminster Beach, St Ives",TR26 2EB
@@ -5984,6 +5986,7 @@ GB-CASC-1e954876,Streatham Park Bowling Club,"18 The Alders, Aldrington Road, Lo
 GB-CASC-59a7cae6,Streatham and Marlborough Cricket Club,"8 Bushey Hill Road, Camberwell",SE5 8QJ
 GB-CASC-69c60a8c,Streatham-Croydon Rugby Football Club,"7 Fieldhouse Villas, Kingscroft Road, Banstead, Surrey",SM7 3ND
 GB-CASC-483dc95d,Street Sub Aqua Club,"6 Chesterfield House, High Street, Midsomer Norton",BA3 2DD
+GB-CASC-c36fbd08,Streetly Lawn Tennis Club LTD,"Park View Road, Sutton Coldfield",B74 4PT
 GB-CASC-8383313e,Streets Ahead,"27 Lillywhite Crescent, Andover, Hampshire",SP10 5NA
 GB-CASC-6b1db7ff,Strensall Bowling Club,"4 Thompson Drive, Strensall, York",YO32 5ZN
 GB-CASC-b7cf5854,Stretham Bowls Club,"1 Morton Close, Ely",CB7 4FD

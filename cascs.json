@@ -8671,6 +8671,12 @@
             "id": "GB-CASC-ce6f6971"
         },
         {
+            "name": "Christchurch Rugby Football Club LTD",
+            "address": "East Christchurch Sports and Social Club, Grange Road, Christchurch",
+            "postcode": "BH23 4JD",
+            "id": "GB-CASC-a2e9f885"
+        },
+        {
             "name": "Christchurch Tennis Club",
             "address": "Iford Sports Complex, Barrack Road, Christchurch",
             "postcode": "BH23 2BA",
@@ -10259,6 +10265,12 @@
             "address": "Craignure Golf Club, Scallastle, Craignure, Isle Of Mull, Argyll",
             "postcode": "PA65 6BA",
             "id": "GB-CASC-bfaa7fa2"
+        },
+        {
+            "name": "Crake Valley Croquet Club",
+            "address": "1 Holker Farm Cottages, Cark in Cartmel, Grange Over Sands",
+            "postcode": "LA11 7PS",
+            "id": "GB-CASC-8895d52b"
         },
         {
             "name": "Cranborne Association Of Sports Clubs",
@@ -12569,6 +12581,12 @@
             "address": "111 Windsor Road, Halesowen",
             "postcode": "B63 4BH",
             "id": "GB-CASC-53b1ee17"
+        },
+        {
+            "name": "Earlsdon RFC",
+            "address": "Bob Brown Pavillion, Mitchell Avenue, Canley, Coventry",
+            "postcode": "CV4 8DY",
+            "id": "GB-CASC-675bf18d"
         },
         {
             "name": "Earlsfield ABC",
@@ -16555,10 +16573,10 @@
             "id": "GB-CASC-3a988373"
         },
         {
-            "name": "Guildford and Godalming Athletic Club",
-            "address": "Old Tannery House, Tannery Lane, Bramley",
-            "postcode": "GU5 0AB",
-            "id": "GB-CASC-fc2179c6"
+            "name": "Guildford and Godalming Athletic Club Limited",
+            "address": "Guildford Spectrum, Parkway, Guildford",
+            "postcode": "GU1 1UP",
+            "id": "GB-CASC-4a82f21e"
         },
         {
             "name": "Guildfordians RFC",
@@ -22241,12 +22259,6 @@
             "address": "27 Glaisdale Road, Yarm, Stockton",
             "postcode": "TS15 9RN",
             "id": "GB-CASC-6db687cf"
-        },
-        {
-            "name": "Leven and Crake Valleys Croquet and Lawn Tennis Club",
-            "address": "Bluebell Wood House, Lakeside, Ulverston, Cumbria",
-            "postcode": "LA12 8AS",
-            "id": "GB-CASC-13f1a1e6"
         },
         {
             "name": "Leven and District Smallbore Rifle Club",
@@ -33283,12 +33295,6 @@
             "id": "GB-CASC-d541e839"
         },
         {
-            "name": "Silver Shadoes",
-            "address": "Boldon Comprehensive School, New Road, Boldon Colliery, Boldon",
-            "postcode": "NE35 9DZ",
-            "id": "GB-CASC-49061c9c"
-        },
-        {
             "name": "Silverbridge Harps Gaelic Football Club",
             "address": "1 Cully Road, Silverbridge, Co. Armagh",
             "postcode": "BT35 9LP",
@@ -33809,6 +33815,12 @@
             "address": "Jack Clark Park, Horsley Hill Road, South Shields",
             "postcode": "NE33 3HE",
             "id": "GB-CASC-7dc0eed7"
+        },
+        {
+            "name": "South Tyneside Jets",
+            "address": "50 Bronte Way, South Shields",
+            "postcode": "NE34 9JY",
+            "id": "GB-CASC-6bcafa58"
         },
         {
             "name": "South Wales Gliding Club",
@@ -34610,9 +34622,9 @@
         },
         {
             "name": "St Ishmaels Sports and Social Club",
-            "address": "6 Grove Road, St Ishmaels, Haverfordwest, Pembrokeshire",
-            "postcode": "SA62 3TG",
-            "id": "GB-CASC-0bd4356c"
+            "address": "2 Trewarren Close, St Ishmaels, Haverdfordwest",
+            "postcode": "SA62 3TA",
+            "id": "GB-CASC-f467e2ea"
         },
         {
             "name": "St Ives Bowls Club",
@@ -35909,6 +35921,12 @@
             "address": "6 Chesterfield House, High Street, Midsomer Norton",
             "postcode": "BA3 2DD",
             "id": "GB-CASC-483dc95d"
+        },
+        {
+            "name": "Streetly Lawn Tennis Club LTD",
+            "address": "Park View Road, Sutton Coldfield",
+            "postcode": "B74 4PT",
+            "id": "GB-CASC-c36fbd08"
         },
         {
             "name": "Streets Ahead",
