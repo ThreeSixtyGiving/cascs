@@ -5275,6 +5275,12 @@
             "id": "GB-CASC-6a929e08"
         },
         {
+            "name": "Brancepeth Castle Golf Club Limited",
+            "address": "Brancepeth, Durham",
+            "postcode": "DH7 8EA",
+            "id": "GB-CASC-76b2952f"
+        },
+        {
             "name": "Branksome Park Bowling Club",
             "address": "40 St Leonards Avenue, Blandford Forum",
             "postcode": "DT11 7NY",
@@ -14069,6 +14075,12 @@
             "address": "Junction Road, Stourbridge",
             "postcode": "DY8 1JX",
             "id": "GB-CASC-4560647e"
+        },
+        {
+            "name": "FC Porto of London",
+            "address": "82 Landor Road, Stockwell",
+            "postcode": "SW9 9PE",
+            "id": "GB-CASC-6bdeca96"
         },
         {
             "name": "FC Willow",
@@ -26669,6 +26681,12 @@
             "address": "Meadowfields, Main Street, Skipwith",
             "postcode": "YO8 5SQ",
             "id": "GB-CASC-2aa367f9"
+        },
+        {
+            "name": "North Duffield Dragons Football Club",
+            "address": "North Duffield and Skipwith PFA, York Road, North Duffield, Selby",
+            "postcode": "YO8 5RU",
+            "id": "GB-CASC-b25ac4ef"
         },
         {
             "name": "North Dulwich Lawn Tennis Club",
