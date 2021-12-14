@@ -1383,6 +1383,7 @@ GB-CASC-9a9bbdeb,Chester Sailing and Canoeing Club,"22 Balmoral Park, Chester",C
 GB-CASC-49dbd505,Chester-le-Street Cricket Club,"Ropery Lane, Chester-Le-Street, County Durham",DH3 3PF
 GB-CASC-d584e50c,Chester-le-Street Golf Club Limited,"Lumley Park House, Castle Dene, Chester-Le-Street",DH3 4NS
 GB-CASC-f716e5a3,Chesterfield Barbarians Cricket Club,"17 Brincliffe Close, Walton, Chesterfield",S40 3DU
+GB-CASC-8b08d071,Chesterfield Hockey Club,"Newbold Road, Chesterfield",S41 2DD
 GB-CASC-a8a0ba09,Chesterfield Ladies Football Club,"Hall Corner, Park Avenue, Glapwell, Chesterfield",S44 5PZ
 GB-CASC-ce241a51,Chesterfield Lawn Tennis Club Ltd,"12 Tennyson Avenue, Chesterfield",S40 4SW
 GB-CASC-963f65f5,Chesterfield Panthers RUFC,"62 Wain Avenue, Chesterfield",S41 0FB
@@ -1711,7 +1712,7 @@ GB-CASC-3a4af809,Craighelen Lawn Tennis and Squash Club,"215 East Clyde Street, 
 GB-CASC-827596a3,Craigmillar Park Tennis Club,"16 Southfield Square, Edinburgh",EH15 1QS
 GB-CASC-0bee6a09,Craignish Boat Club,"Millhouse, Ardfern, By Lochgilphead, Argyll",PA31 8QN
 GB-CASC-bfaa7fa2,Craignure Golf Club,"Craignure Golf Club, Scallastle, Craignure, Isle Of Mull, Argyll",PA65 6BA
-GB-CASC-8895d52b,Crake Valley Croquet Club,"1 Holker Farm Cottages, Cark in Cartmel, Grange Over Sands",LA11 7PS
+GB-CASC-3eed2586,Crake Valley Croquet Club,"A5092 Greenood, Ulverston",LA12 7RT
 GB-CASC-43777981,Cranborne Association Of Sports Clubs,"9 Salisbury Street, Cranborne, Wimborne, Dorset",BH21 5PU
 GB-CASC-08ff1b65,Cranborne Bowling Club,"9 Theodore Place, Gillingham, Kent",ME7 5TL
 GB-CASC-4e7253ba,Cranbrook Bowls Club,"10 Broadcloth, Cranbrook, Kent",TN17 3RG
@@ -1863,7 +1864,6 @@ GB-CASC-c8f391a3,Davenport Lawn Tennis Club,"1 Sandringham Road, Hazel Grove, St
 GB-CASC-2cdda697,Daventry Hockey Club,"1 St Hughes Close, Daventry, Northampton",NN11 4TX
 GB-CASC-1b19071c,Daventry Indoor Bowling Club Ltd,"Browns Road, Daventry",NN11 4NS
 GB-CASC-73cc04c6,Daventry Tigers Bowls Club,"Royal Star Drive, Daventry",NN11 9FZ
-GB-CASC-90dc2f20,Daventry and District Amateur Boxing Club,"c/o Weedon Conservative Club, New Street, Weedon, Northampton",NN7 4QS
 GB-CASC-156e7059,Daventry and District Golf Club,"Norton Road, Daventry, Northampton",NN11 5LS
 GB-CASC-945a20ec,Dawlish Lawn Tennis Club,"Sandy Lane, Dawlish, Devon",EX7 0AF
 GB-CASC-b35caa7a,Dawlish and District Indoor Bowls Association Ltd,"High Meadow, 4 Thatcher Drive, Teignmouth, Devon",TQ14 8RL
@@ -6091,6 +6091,7 @@ GB-CASC-0a79a13d,Symington Bowling Club,"4 Townend Place, Symington, Kilmarnock"
 GB-CASC-889fdbac,Symington Caledonian Football Club,"Shaw Park Pavilion, Brewlands Road, Symington, Kilmarnock",KA1 5QX
 GB-CASC-e76eb446,Syston Bowling Club,"19 Caravan Park, Upper Church Street, Syston, Leicester",LE7 1HS
 GB-CASC-2610c319,TD Shipley FC,"23 Ivanhoe Close, Langley Green, Crawley, West Sussex",RH11 7UF
+GB-CASC-0b801230,TWSG Ltd,"St. John’s Road, Tunbridge Wells, Kent",TN4 9UY
 GB-CASC-b31ef3bc,Tadcaster Albion JFC,"100 Aker Wood, Hill Top Close, Stutton, Tadcaster",LS24 9TN
 GB-CASC-2a051073,Tadcaster Bowling Club,"16 Papyrus Villas, Newton Kyme, Tadcaster",LS24 9LX
 GB-CASC-4c25297f,Tadcaster Magnet Sports and Social Club,"c/o PO Box 64, Tadcaster, North Yorkshire",LS24 8DW
@@ -6293,7 +6294,6 @@ GB-CASC-79b6fc59,The Terrace Lawn Tennis Club Boston Spa,"304 High Street, Bosto
 GB-CASC-68eb3373,The Terrace Sports Club,"17 Joselin Court, Priestlands Lane, Sherborne, Dorset",DT9 4EY
 GB-CASC-0cdaa968,The Times Inn Club Ltd,"26 Hawkins Road, Murton, Seaham",SR7 9DQ
 GB-CASC-98479f6b,The Trick Factory,"5 Sunnyside Main Street, Bothenhampton, Bridport, Dorset",DT6 4BL
-GB-CASC-acb91b52,The Tunbridge Wells Bowling and Tennis Grounds Ltd,"141 St Mary’s Road, Tonbridge, Kent",TN9 2NL
 GB-CASC-0975597b,The Unsworth Cricket and Tennis Club Ltd,"Pole Lane, Bury",BL9 8QL
 GB-CASC-06c61f83,The Velo Cafe Magasin Cycling Club,"143 North Street, Belfast",BT1 1NE
 GB-CASC-e2986a3f,The Velo Club Godalming and Haslemere Ltd,"c/o Sysco, The Rickyard, Eashing Lane, Godalming, Surrey",GU7 2QA
@@ -6703,6 +6703,7 @@ GB-CASC-f968a345,Weald Lawn Tennis and Squash Racquets,"South Bank, Hassocks, We
 GB-CASC-042f1c39,Weald Tri Club,"18 Snape View, Wadhurst",TN5 6BZ
 GB-CASC-f1380d33,Wealden Bowls Centre Ltd,"29 Swift Close, Crowborough, East Sussex",TN6 1UN
 GB-CASC-6be48d56,Wear Valley Basketball Club,"9 Trevelyan Place, High Farm Crook, County Durham",DL15 9UY
+GB-CASC-d3dadcf3,Weedon Boxing Academy,"Unit 7, Weedon Ordanance Depot, Weedon, Northampton",NN7 4PS
 GB-CASC-9d74725c,Weekley and Warkton Cricket Club,"Boughton House, Boughton Park, Geddington, Kettering",NN14 1BJ
 GB-CASC-b762c70b,Weir Quay Sailing Club,"South Hooe Cottage, Bere Alston, Yelverton",PL20 7BW
 GB-CASC-468261a2,Weir Wood Sailing Club,"15 Portsmouth Wood Close, Lindfield, Haywards Heath",RH16 2DQ

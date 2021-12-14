@@ -8305,6 +8305,12 @@
             "id": "GB-CASC-f716e5a3"
         },
         {
+            "name": "Chesterfield Hockey Club",
+            "address": "Newbold Road, Chesterfield",
+            "postcode": "S41 2DD",
+            "id": "GB-CASC-8b08d071"
+        },
+        {
             "name": "Chesterfield Ladies Football Club",
             "address": "Hall Corner, Park Avenue, Glapwell, Chesterfield",
             "postcode": "S44 5PZ",
@@ -10274,9 +10280,9 @@
         },
         {
             "name": "Crake Valley Croquet Club",
-            "address": "1 Holker Farm Cottages, Cark in Cartmel, Grange Over Sands",
-            "postcode": "LA11 7PS",
-            "id": "GB-CASC-8895d52b"
+            "address": "A5092 Greenood, Ulverston",
+            "postcode": "LA12 7RT",
+            "id": "GB-CASC-3eed2586"
         },
         {
             "name": "Cranborne Association Of Sports Clubs",
@@ -11183,12 +11189,6 @@
             "address": "Royal Star Drive, Daventry",
             "postcode": "NN11 9FZ",
             "id": "GB-CASC-73cc04c6"
-        },
-        {
-            "name": "Daventry and District Amateur Boxing Club",
-            "address": "c/o Weedon Conservative Club, New Street, Weedon, Northampton",
-            "postcode": "NN7 4QS",
-            "id": "GB-CASC-90dc2f20"
         },
         {
             "name": "Daventry and District Golf Club",
@@ -36553,6 +36553,12 @@
             "id": "GB-CASC-2610c319"
         },
         {
+            "name": "TWSG Ltd",
+            "address": "St. John\u2019s Road, Tunbridge Wells, Kent",
+            "postcode": "TN4 9UY",
+            "id": "GB-CASC-0b801230"
+        },
+        {
             "name": "Tadcaster Albion JFC",
             "address": "100 Aker Wood, Hill Top Close, Stutton, Tadcaster",
             "postcode": "LS24 9TN",
@@ -37763,12 +37769,6 @@
             "address": "5 Sunnyside Main Street, Bothenhampton, Bridport, Dorset",
             "postcode": "DT6 4BL",
             "id": "GB-CASC-98479f6b"
-        },
-        {
-            "name": "The Tunbridge Wells Bowling and Tennis Grounds Ltd",
-            "address": "141 St Mary\u2019s Road, Tonbridge, Kent",
-            "postcode": "TN9 2NL",
-            "id": "GB-CASC-acb91b52"
         },
         {
             "name": "The Unsworth Cricket and Tennis Club Ltd",
@@ -40223,6 +40223,12 @@
             "address": "9 Trevelyan Place, High Farm Crook, County Durham",
             "postcode": "DL15 9UY",
             "id": "GB-CASC-6be48d56"
+        },
+        {
+            "name": "Weedon Boxing Academy",
+            "address": "Unit 7, Weedon Ordanance Depot, Weedon, Northampton",
+            "postcode": "NN7 4PS",
+            "id": "GB-CASC-d3dadcf3"
         },
         {
             "name": "Weekley and Warkton Cricket Club",
