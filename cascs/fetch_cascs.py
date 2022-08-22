@@ -9,8 +9,13 @@ from requests_html import HTMLSession
 from utils import to_titlecase
 
 CASC_BASE = "https://www.gov.uk/government/publications/community-amateur-sports-clubs-casc-registered-with-hmrc--2"
+CASC_ID_LOOKUP = "cascs_id_lookup.csv"
 CASC_ORG_ID_PREFIX = "GB-CASC"
 RECORD_KEYS = ["name", "address", "postcode"]
+
+
+with open(CASC_ID_LOOKUP, "r") as f:
+    id_lookups = {r["new_id"]: r["old_id"] for r in csv.DictReader(f)}
 
 
 def get_org_id(record, org_id_prefix=CASC_ORG_ID_PREFIX):
@@ -34,6 +39,7 @@ def fetch_cascs(casc_url=CASC_BASE, org_id_prefix=CASC_ORG_ID_PREFIX):
     session = HTMLSession()
 
     r = session.get(CASC_BASE)
+    ids_seen = set()
 
     for l in r.html.absolute_links:
         if not l.endswith(".ods"):
@@ -59,7 +65,12 @@ def fetch_cascs(casc_url=CASC_BASE, org_id_prefix=CASC_ORG_ID_PREFIX):
                 "postcode": record.get("Postcode"),
             }
             record["id"] = get_org_id(record, org_id_prefix)
+            record["id"] = id_lookups.get(record["id"], record["id"])
+
+            if record["id"] in ids_seen:
+                continue
             yield record
+            ids_seen.add(record["id"])
 
 
 def main():
