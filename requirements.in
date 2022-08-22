@@ -1,3 +1,5 @@
 requests-html
 black
 isort
+pyexcel-ods3
+titlecase
