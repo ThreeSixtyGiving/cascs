@@ -12,7 +12,7 @@ black==22.6.0
     # via -r requirements.in
 bs4==0.0.1
     # via requests-html
-certifi==2022.6.15
+certifi==2022.12.7
     # via
     #   pyppeteer
     #   requests
@@ -20,10 +20,6 @@ charset-normalizer==2.1.1
     # via requests
 click==8.1.3
     # via black
-colorama==0.4.5
-    # via
-    #   click
-    #   tqdm
 cssselect==1.1.0
     # via pyquery
 fake-useragent==0.1.11
@@ -69,8 +65,6 @@ soupsieve==2.3.2.post1
     # via beautifulsoup4
 titlecase==2.4
     # via -r requirements.in
-tomli==2.0.1
-    # via black
 tqdm==4.64.0
     # via pyppeteer
 urllib3==1.26.11
