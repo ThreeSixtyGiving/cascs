@@ -18,7 +18,6 @@ RECORD_KEYS = ["name", "address", "postcode", "active"]
 with open(CASC_ID_LOOKUP, "r") as f:
     id_lookups = {
         **{r["new_id"]: r["old_id"] for r in csv.DictReader(f)},
-        **{r["old_id"]: r["new_id"] for r in csv.DictReader(f)},
     }
 
 
