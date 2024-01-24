@@ -19,9 +19,12 @@ RECORD_KEYS = ["name", "address", "postcode", "active"]
 
 with open(CASC_ID_LOOKUP, "r") as f:
     id_lookups = {
-        **{r["new_id"]: r["old_id"] for r in csv.DictReader(f)},
-        **{r["old_id"]: r["new_id"] for r in csv.DictReader(f)},
+        r["new_id"]: r["old_id"]
+        for r in csv.DictReader(f)
+        if r["new_id"] != r["old_id"]
     }
+    for k, v in list(id_lookups.items()):
+        id_lookups[v] = k
 
 
 def normalizeString(s: str):
@@ -56,7 +59,9 @@ def get_org_id(record, org_id_prefix=CASC_ORG_ID_PREFIX):
     )
 
 
-def fetch_cascs(casc_url=CASC_BASE, org_id_prefix=CASC_ORG_ID_PREFIX):
+def fetch_cascs(
+    casc_url=CASC_BASE, org_id_prefix=CASC_ORG_ID_PREFIX, existing_casc_ids: set = set()
+):
     session = HTMLSession()
 
     r = session.get(CASC_BASE)
@@ -86,7 +91,21 @@ def fetch_cascs(casc_url=CASC_BASE, org_id_prefix=CASC_ORG_ID_PREFIX):
                 "postcode": record.get("Postcode"),
             }
             record["id"] = get_org_id(record, org_id_prefix)
-            record["id"] = id_lookups.get(record["id"], record["id"])
+            record_id = record["id"]
+            row_ids_seen = set()
+            while True:
+                if record_id in id_lookups:
+                    record_id = id_lookups.get(record_id)
+                    if record_id in row_ids_seen:
+                        break
+                    row_ids_seen.add(record_id)
+                else:
+                    break
+
+            for id in row_ids_seen:
+                if id in existing_casc_ids:
+                    record["id"] = id
+                    break
 
             if record["id"] in ids_seen:
                 continue
@@ -133,7 +152,16 @@ def main():
 
     cascs = {
         **existing_cascs,
-        **{c["id"]: {**c, "active": True} for c in fetch_cascs(args.url, args.prefix)},
+        **{
+            c["id"]: {**c, "active": True}
+            for c in fetch_cascs(
+                args.url,
+                args.prefix,
+                existing_casc_ids={
+                    existing_casc["id"] for existing_casc in existing_cascs.values()
+                },
+            )
+        },
     }
     cascs = sorted(list(cascs.values()), key=lambda x: x.get("name", x.get("id")))
     print(f"Found {len(cascs)} cascs")
@@ -150,7 +178,7 @@ def main():
             writer.writeheader()
             for k, v in name_match.items():
                 if len(v) == 2:
-                    writer.writerow({"id1": list(v)[1], "id2": list(v)[0], "name": k})
+                    writer.writerow({"id1": list(v)[0], "id2": list(v)[1], "name": k})
 
     else:
         for filename in args.outfile:
