@@ -3,6 +3,8 @@ import csv
 import hashlib
 import io
 import json
+import re
+import unicodedata
 from collections import defaultdict
 
 from pyexcel_ods3 import get_data
@@ -18,7 +20,23 @@ RECORD_KEYS = ["name", "address", "postcode", "active"]
 with open(CASC_ID_LOOKUP, "r") as f:
     id_lookups = {
         **{r["new_id"]: r["old_id"] for r in csv.DictReader(f)},
+        **{r["old_id"]: r["new_id"] for r in csv.DictReader(f)},
     }
+
+
+def normalizeString(s: str):
+    s = s.lower()
+    s = re.sub(r"[.,(){}\[\]-]", " ", s)
+    s = re.sub(r"[^0-9a-z ]", "", s)
+    s = s.strip()
+    s = re.sub(r"^the\b", "", s)
+    s = re.sub(r"\b(ltd|limited)$", "", s)
+    s = re.sub(r"\b&\b", " and ", s)
+    s = re.sub(r"\bc[ \.]?i[ \.]?c[ \.]?$", " cic", s)
+    s = re.sub(r" +", " ", s)
+    s = unicodedata.normalize("NFC", s)
+    s = s.strip()
+    return s
 
 
 def get_org_id(record, org_id_prefix=CASC_ORG_ID_PREFIX):
@@ -44,11 +62,11 @@ def fetch_cascs(casc_url=CASC_BASE, org_id_prefix=CASC_ORG_ID_PREFIX):
     r = session.get(CASC_BASE)
     ids_seen = set()
 
-    for l in r.html.absolute_links:
-        if not l.endswith(".ods"):
+    for link in r.html.absolute_links:
+        if not link.endswith(".ods"):
             continue
-        print(l)
-        p = session.get(l)
+        print(link)
+        p = session.get(link)
 
         data = get_data(io.BytesIO(p.content))
         headers = None
@@ -91,6 +109,10 @@ def main():
         nargs="+",
         help="Destination file for the data",
     )
+    parser.add_argument(
+        "--name-match",
+        help="Instead of updating the data produce a list of name matches",
+    )
     parser.add_argument("--url", default=CASC_BASE, help="URL to fetch from")
     parser.add_argument(
         "--prefix", default=CASC_ORG_ID_PREFIX, help="Prefix to use for org ids"
@@ -116,31 +138,33 @@ def main():
     cascs = sorted(list(cascs.values()), key=lambda x: x.get("name", x.get("id")))
     print(f"Found {len(cascs)} cascs")
 
-    name_match = defaultdict(set)
-    for c in cascs:
-        name_match[c["name"]].add(c["id"])
+    if args.name_match:
+        name_match = defaultdict(set)
+        for c in cascs:
+            name_match[normalizeString(c["name"])].add(c["id"])
 
-    with open("name_match.csv", "w") as f:
-        writer = csv.DictWriter(
-            f, fieldnames=["id1", "id2", "name"], lineterminator="\n"
-        )
-        writer.writeheader()
-        for k, v in name_match.items():
-            if len(v) == 2:
-                writer.writerow({"id1": list(v)[0], "id2": list(v)[1], "name": k})
+        with open("name_match.csv", "w") as f:
+            writer = csv.DictWriter(
+                f, fieldnames=["id1", "id2", "name"], lineterminator="\n"
+            )
+            writer.writeheader()
+            for k, v in name_match.items():
+                if len(v) == 2:
+                    writer.writerow({"id1": list(v)[1], "id2": list(v)[0], "name": k})
 
-    for filename in args.outfile:
-        with open(filename, "w", encoding="UTF-8") as f:
-            if filename.endswith("csv"):
-                writer = csv.DictWriter(
-                    f, fieldnames=["id"] + RECORD_KEYS, lineterminator="\n"
-                )
-                writer.writeheader()
-                writer.writerows(cascs)
-            elif filename.endswith("json"):
-                json.dump({"cascs": cascs}, f, indent=4)
+    else:
+        for filename in args.outfile:
+            with open(filename, "w", encoding="UTF-8") as f:
+                if filename.endswith("csv"):
+                    writer = csv.DictWriter(
+                        f, fieldnames=["id"] + RECORD_KEYS, lineterminator="\n"
+                    )
+                    writer.writeheader()
+                    writer.writerows(cascs)
+                elif filename.endswith("json"):
+                    json.dump({"cascs": cascs}, f, indent=4)
 
-        f.close()
+            f.close()
 
 
 if __name__ == "__main__":

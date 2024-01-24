@@ -1,0 +1,7 @@
+*.csv
+!casc_company_house.csv
+!cascs_id_lookup.csv
+!cascs.csv
+
+*.json
+!cascs.json

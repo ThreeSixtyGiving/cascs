@@ -1,5 +1,4 @@
 requests-html
-black
-isort
+ruff
 pyexcel-ods3
 titlecase

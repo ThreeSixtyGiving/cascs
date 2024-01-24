@@ -6,7 +6,7 @@ It takes the [list of clubs published by HMRC](https://www.gov.uk/government/pub
 
 ## Org ID
 
-The reason for adding a unique identifier is to allow CASCs to be listed in  the [org ID scheme](http://org-id.guide/) for Organisation Identifiers.
+The reason for adding a unique identifier is to allow CASCs to be listed in the [org ID scheme](http://org-id.guide/) for Organisation Identifiers.
 
 Because HMRC do not make the identifiers for these organisations public, we have to create one. This identifier is not ideal as it is based on the name and postcode of the club, so will change when either of those change.
 
@@ -44,10 +44,22 @@ To create both files run:
 python cascs /path/to/file.csv /path/to/file.json
 ```
 
+### Check for name matches
+
+To check for name matches (where a CASC has changed address but the name is the same, you can run the following command):
+
+```
+python cascs --name-match name_match.csv cascs.csv cascs.csv cascs.json
+```
+
+This will crate a file called "name_match.csv" which contains IDs with the same name. You can verify these and then add any matches to `cascs_id_lookup.csv` where they will be incorporated into the data rather than creating new IDs.
+
+### Create final data
+
 The full process to update the CSV and JSON files in this repository should be something like:
 
 ```sh
-python cascs cascs.csv cascs.json
+python cascs cascs.csv cascs.csv cascs.json
 git add cascs.csv
 git commit -m 'Add new cascs'
 git push origin master
