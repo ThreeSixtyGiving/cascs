@@ -6588,15 +6588,15 @@
             "active": true
         },
         {
+            "id": "GB-CASC-34c78c8e",
             "name": "Brecon Bowling Club",
             "address": "Mill Green, The Promenade, Brecon, Powys",
             "postcode": "LD3 9BA",
-            "id": "GB-CASC-34c78c8e",
-            "active": true
+            "active": false
         },
         {
-            "name": "Brecon Bowling Club Ltd",
-            "address": "Brecon Bowling Club, MILL GREEN, BRECON",
+            "name": "Brecon Bowling Club",
+            "address": "Mill Green, The Promenade, Brecon, Powys",
             "postcode": "LD3 9BA",
             "id": "GB-CASC-25f5d877",
             "active": true
@@ -9115,18 +9115,18 @@
             "active": true
         },
         {
+            "name": "Carlton Cricket Club",
+            "address": "Town Street, Carlton, Wakefield",
+            "postcode": "WF3 3QU",
             "id": "GB-CASC-63fbffb9",
+            "active": true
+        },
+        {
+            "id": "GB-CASC-c66defe5",
             "name": "Carlton Cricket Club",
             "address": "Town Street, Carlton, Wakefield",
             "postcode": "WF3 3QU",
             "active": false
-        },
-        {
-            "name": "Carlton Cricket Club",
-            "address": "Town Street, Carlton, Wakefield",
-            "postcode": "WF3 3QU",
-            "id": "GB-CASC-c66defe5",
-            "active": true
         },
         {
             "name": "Carlton Squash Club",
@@ -16059,18 +16059,18 @@
             "active": true
         },
         {
-            "name": "East Hanningfield & Great Bursted Cricke T Club",
-            "address": "74 ELM VIEW ROAD, BENFLEET",
-            "postcode": "SS7 5AS",
             "id": "GB-CASC-a5bda8b7",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-f00b0044",
             "name": "East Hanningfield & Great Bursted Cricke T Club",
             "address": "74 ELM VIEW ROAD, BENFLEET",
             "postcode": "SS7 5AS",
             "active": false
+        },
+        {
+            "name": "East Hanningfield & Great Bursted Cricke T Club",
+            "address": "74 ELM VIEW ROAD, BENFLEET",
+            "postcode": "SS7 5AS",
+            "id": "GB-CASC-f00b0044",
+            "active": true
         },
         {
             "name": "East Harlsey Cricket Club",
@@ -16507,18 +16507,18 @@
             "active": true
         },
         {
-            "name": "Edgbaston Croquet Club",
-            "address": "18 RICHMOND HILL ROAD, BIRMINGHAM",
-            "postcode": "B15 3RP",
             "id": "GB-CASC-19bb2ea8",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-4000869b",
             "name": "Edgbaston Croquet Club",
             "address": "18 RICHMOND HILL ROAD, BIRMINGHAM",
             "postcode": "B15 3RP",
             "active": false
+        },
+        {
+            "name": "Edgbaston Croquet Club",
+            "address": "18 RICHMOND HILL ROAD, BIRMINGHAM",
+            "postcode": "B15 3RP",
+            "id": "GB-CASC-4000869b",
+            "active": true
         },
         {
             "name": "Edgehill Gliding Centre Limited",
@@ -16759,18 +16759,18 @@
             "active": true
         },
         {
-            "name": "Elgin Curling Club",
-            "address": "4 LEONACH PLACE, ELGIN",
-            "postcode": "IV30 6JT",
             "id": "GB-CASC-1d8268e1",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-4163577d",
             "name": "Elgin Curling Club",
             "address": "4 LEONACH PLACE, ELGIN",
             "postcode": "IV30 6JT",
             "active": false
+        },
+        {
+            "name": "Elgin Curling Club",
+            "address": "4 LEONACH PLACE, ELGIN",
+            "postcode": "IV30 6JT",
+            "id": "GB-CASC-4163577d",
+            "active": true
         },
         {
             "name": "Elgin Miniature Rifle Club",
@@ -18887,18 +18887,18 @@
             "active": true
         },
         {
+            "name": "Frimley Tennis Club",
+            "address": "WATCHETTS RECREATION GROUND, PARK ROAD, CAMBERLEY",
+            "postcode": "GU15 2SR",
             "id": "GB-CASC-d2aff3ae",
+            "active": true
+        },
+        {
+            "id": "GB-CASC-b05e0b2f",
             "name": "Frimley Tennis Club",
             "address": "WATCHETTS RECREATION GROUND, PARK ROAD, CAMBERLEY",
             "postcode": "GU15 2SR",
             "active": false
-        },
-        {
-            "name": "Frimley Tennis Club",
-            "address": "WATCHETTS RECREATION GROUND, PARK ROAD, CAMBERLEY",
-            "postcode": "GU15 2SR",
-            "id": "GB-CASC-b05e0b2f",
-            "active": true
         },
         {
             "name": "Frindsbury Cricket Club",
@@ -20525,11 +20525,11 @@
             "active": true
         },
         {
+            "id": "GB-CASC-72dd0e44",
             "name": "Greenmount Cricket Club Limited",
             "address": "BRANDLESHOLME ROAD, GREENMOUNT, BURY",
             "postcode": "BL8 4DX",
-            "id": "GB-CASC-72dd0e44",
-            "active": true
+            "active": false
         },
         {
             "name": "Greenock Wanderers Rugby Football Club",
@@ -28960,18 +28960,18 @@
             "active": true
         },
         {
+            "name": "Long Yang Club Badminton London",
+            "address": "FLAT 8, 300 STEPNEY WAY, LONDON",
+            "postcode": "E1 3DW",
             "id": "GB-CASC-fa9297e7",
+            "active": true
+        },
+        {
+            "id": "GB-CASC-589dedfc",
             "name": "Long Yang Club Badminton London",
             "address": "FLAT 8, 300 STEPNEY WAY, LONDON",
             "postcode": "E1 3DW",
             "active": false
-        },
-        {
-            "name": "Long Yang Club Badminton London",
-            "address": "FLAT 8, 300 STEPNEY WAY, LONDON",
-            "postcode": "E1 3DW",
-            "id": "GB-CASC-589dedfc",
-            "active": true
         },
         {
             "name": "Longlevens Rugby Football Club Ltd",
@@ -31662,18 +31662,18 @@
             "active": true
         },
         {
-            "name": "Molesey Boat Club",
-            "address": "BARGE WALK, EAST MOLESEY",
-            "postcode": "KT8 9AJ",
             "id": "GB-CASC-18ba8f07",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-8c1ccfa0",
             "name": "Molesey Boat Club",
             "address": "BARGE WALK, EAST MOLESEY",
             "postcode": "KT8 9AJ",
             "active": false
+        },
+        {
+            "name": "Molesey Boat Club",
+            "address": "BARGE WALK, EAST MOLESEY",
+            "postcode": "KT8 9AJ",
+            "id": "GB-CASC-8c1ccfa0",
+            "active": true
         },
         {
             "name": "Moneyslane Football Club",
@@ -34294,18 +34294,18 @@
             "active": true
         },
         {
-            "name": "Okehampton Golf Club Ltd",
-            "address": "TORS ROAD, OKEHAMPTON",
-            "postcode": "EX20 1EF",
             "id": "GB-CASC-fe48ca6c",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-96e4b653",
             "name": "Okehampton Golf Club Ltd",
             "address": "TORS ROAD, OKEHAMPTON",
             "postcode": "EX20 1EF",
             "active": false
+        },
+        {
+            "name": "Okehampton Golf Club Ltd",
+            "address": "TORS ROAD, OKEHAMPTON",
+            "postcode": "EX20 1EF",
+            "id": "GB-CASC-96e4b653",
+            "active": true
         },
         {
             "name": "Okehampton Rugby Football Club",
@@ -36429,18 +36429,18 @@
             "active": true
         },
         {
+            "name": "Plymouth (Sir Francis Drake) Bowling Clu  B",
+            "address": "Whiteford Road, Mannamead, Plymouth",
+            "postcode": "PL3 5LZ",
             "id": "GB-CASC-43f1a315",
+            "active": true
+        },
+        {
+            "id": "GB-CASC-45c8e233",
             "name": "Plymouth (Sir Francis Drake) Bowling Clu  B",
             "address": "Whiteford Road, Mannamead, Plymouth",
             "postcode": "PL3 5LZ",
             "active": false
-        },
-        {
-            "name": "Plymouth (Sir Francis Drake) Bowling Clu  B",
-            "address": "Whiteford Road, Mannamead, Plymouth",
-            "postcode": "PL3 5LZ",
-            "id": "GB-CASC-45c8e233",
-            "active": true
         },
         {
             "name": "Plymouth Amateur Rowing Club",
@@ -37983,18 +37983,18 @@
             "active": true
         },
         {
-            "name": "Redesmere Sailing Club",
-            "address": "CAPESTHORNE, SIDDINGTON, MACCLESFIELD",
-            "postcode": "SK11 9JU",
             "id": "GB-CASC-e4730665",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-00b8651f",
             "name": "Redesmere Sailing Club",
             "address": "CAPESTHORNE, SIDDINGTON, MACCLESFIELD",
             "postcode": "SK11 9JU",
             "active": false
+        },
+        {
+            "name": "Redesmere Sailing Club",
+            "address": "CAPESTHORNE, SIDDINGTON, MACCLESFIELD",
+            "postcode": "SK11 9JU",
+            "id": "GB-CASC-00b8651f",
+            "active": true
         },
         {
             "name": "Redgrave Rangers Football Club",
@@ -51717,18 +51717,18 @@
             "active": true
         },
         {
+            "name": "Widnes Golf Club",
+            "address": "Highfield Road, Widnes, Cheshire",
+            "postcode": "WA8 7DT",
             "id": "GB-CASC-15e8147f",
+            "active": true
+        },
+        {
+            "id": "GB-CASC-bf68f4ab",
             "name": "Widnes Golf Club",
             "address": "Highfield Road, Widnes, Cheshire",
             "postcode": "WA8 7DT",
             "active": false
-        },
-        {
-            "name": "Widnes Golf Club",
-            "address": "Highfield Road, Widnes, Cheshire",
-            "postcode": "WA8 7DT",
-            "id": "GB-CASC-bf68f4ab",
-            "active": true
         },
         {
             "name": "Widnes R U F C",
@@ -52200,18 +52200,18 @@
             "active": true
         },
         {
-            "name": "Winsley Cricket Club",
-            "address": "93 LACOCK GARDENS, HILPERTON, TROWBRIDGE",
-            "postcode": "BA14 7TG",
             "id": "GB-CASC-03cc2bf6",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-86cce889",
             "name": "Winsley Cricket Club",
             "address": "93 LACOCK GARDENS, HILPERTON, TROWBRIDGE",
             "postcode": "BA14 7TG",
             "active": false
+        },
+        {
+            "name": "Winsley Cricket Club",
+            "address": "93 LACOCK GARDENS, HILPERTON, TROWBRIDGE",
+            "postcode": "BA14 7TG",
+            "id": "GB-CASC-86cce889",
+            "active": true
         },
         {
             "name": "Winsor United Football Club",
