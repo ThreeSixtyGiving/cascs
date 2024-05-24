@@ -1,11 +1,11 @@
 {
     "cascs": [
         {
-            "id": "GB-CASC-9abbf705",
             "name": "1066 Rifle & Pistol Club",
             "address": "Rock Lane, Ore, Hastings, East Sussex",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-9abbf705",
+            "active": true
         },
         {
             "name": "1829 Hockey",
@@ -211,11 +211,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-8f59e11d",
             "name": "Abbotsbury Cricket Club",
             "address": "Abbotsbury Cricket Club, Off West Street, Abbotsbury, Weymouth,  Dorset",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-8f59e11d",
+            "active": true
         },
         {
             "name": "Abbotsford Park Road Club",
@@ -554,11 +554,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-05d61cce",
             "name": "Acton Reynald Cricket Club",
             "address": "The Cricket Ground, Griwshill, Shrewsbury, Shropshire",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-05d61cce",
+            "active": true
         },
         {
             "name": "Addington (1743) Cricket Club",
@@ -596,18 +596,18 @@
             "active": true
         },
         {
-            "id": "GB-CASC-82f5c748",
             "name": "Adlestrop Daylesford & Oddington Cricket Club",
             "address": "Adlestrop Park, Adlestrop, Moreton-in-Marsh, Glos",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-82f5c748",
+            "active": true
         },
         {
-            "id": "GB-CASC-40b10e17",
             "name": "Adlington Canoe Club",
             "address": "Westhoughton Road, Heath Carnock, Chorley, Lancs",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-40b10e17",
+            "active": true
         },
         {
             "name": "Adlington Cricket Club",
@@ -652,11 +652,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-e98a7fa9",
             "name": "Aghyaran St Davogs GAA Club",
             "address": "Park Rd, Aghyaran, Castlederg, Co Tyrone,  N Ireland",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-e98a7fa9",
+            "active": true
         },
         {
             "name": "Aidrie and District Angling Club",
@@ -799,6 +799,13 @@
             "active": true
         },
         {
+            "name": "Alderbury Football Club",
+            "address": "Junction Road, Alderbury, Salisbury",
+            "postcode": null,
+            "id": "GB-CASC-715de5e5",
+            "active": true
+        },
+        {
             "name": "Alderbury Tennis Club",
             "address": "The Green, Old Road, Alderbury, Salisbury",
             "postcode": "SP5 3AR",
@@ -904,11 +911,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-a53d3fba",
             "name": "Alford & District Cricket Club",
             "address": "Train Fen Holt, Well Lane, Alford, Lincolnshire",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-a53d3fba",
+            "active": true
         },
         {
             "name": "Alford Bowling Club",
@@ -939,11 +946,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-0aa0a529",
             "name": "Alkborough Cricket Club",
             "address": "West Halton Lane, Alkborough, Scunthorpe, N Lincs",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-0aa0a529",
+            "active": true
         },
         {
             "name": "All Cannings Cricket Club",
@@ -1044,6 +1051,13 @@
             "active": true
         },
         {
+            "name": "Almeley Cricket Club",
+            "address": "Spearmarsh Common, Almeley, Herefordshire",
+            "postcode": null,
+            "id": "GB-CASC-fa892bd5",
+            "active": true
+        },
+        {
             "name": "Almond Bury Wesleyans Cricket Club",
             "address": "18 FOXGLOVE ROAD, HUDDERSFIELD",
             "postcode": "HD5 8LW",
@@ -1114,11 +1128,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-85573e91",
             "name": "Alrewas Cricket Club",
             "address": "Walkfield, Daisy Lane, Alrewas, Burton-Upon-Trent",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-85573e91",
+            "active": true
         },
         {
             "name": "Alrewas Tennis Club",
@@ -1198,11 +1212,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-512792a2",
             "name": "Alveley Lawn Tennis Club",
             "address": "Alveley Tennis Club, Daddlebrook Road, Alveley, Bridgnorth,  Shropshire",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-512792a2",
+            "active": true
         },
         {
             "name": "Alvington and Woolaston Cricket Club",
@@ -1233,11 +1247,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-8c2f832f",
             "name": "Ambleside Cricket Club",
             "address": "Rydal Park, Rydal, Ambleside, Cumbria",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-8c2f832f",
+            "active": true
         },
         {
             "name": "Amersham & Chalfont Hockey Community Spo  RTS Club Ltd",
@@ -1398,6 +1412,13 @@
             "address": "Angmering On Sea Lawn Tennis Club, Homerlands Avenue, Angmering On Sea, West Sussex",
             "postcode": "BN16 1PS",
             "id": "GB-CASC-36bb9025",
+            "active": true
+        },
+        {
+            "name": "Anker Valley Canoe Club",
+            "address": "Apple Pie Lane, Nuneaton, Warwickshire",
+            "postcode": null,
+            "id": "GB-CASC-6fe2cf73",
             "active": true
         },
         {
@@ -1744,6 +1765,13 @@
             "active": true
         },
         {
+            "name": "Arundel Lawn Tennis Club",
+            "address": "Off Mill Road, Arundel, West Sussex",
+            "postcode": null,
+            "id": "GB-CASC-d1286317",
+            "active": true
+        },
+        {
             "name": "Ascot United Football Club Ltd",
             "address": "KENMORE, DEVENISH ROAD, ASCOT",
             "postcode": "SL5 9PF",
@@ -1828,11 +1856,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-58134f58",
             "name": "Ashford & District Road Running Club",
             "address": "Sandyacres Sports & Social Club, Sandyhurst Lane, Ashford, Kent",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-58134f58",
+            "active": true
         },
         {
             "name": "Ashford (Kent) Rugby Football Club",
@@ -2136,11 +2164,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-10fa4998",
             "name": "Aston Ingham Cricket Club",
             "address": "Stockings Field, Mill Lane, Kilcot, Nr Newent,  Glos",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-10fa4998",
+            "active": true
         },
         {
             "name": "Aston Lawn Tennis Club",
@@ -2220,11 +2248,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-337a6fa9",
             "name": "Audley Football Club",
             "address": "Townfields, Bignall End, Audley, Newcastle,  Staffs",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-337a6fa9",
+            "active": true
         },
         {
             "name": "Auriol Kensington Rowing Club",
@@ -2710,6 +2738,13 @@
             "active": true
         },
         {
+            "name": "Ballyhegan Davitts GAA Club",
+            "address": "Kilmacanty Road, Kilmore, Co Armagh",
+            "postcode": null,
+            "id": "GB-CASC-6de0dec0",
+            "active": true
+        },
+        {
             "name": "Ballyholland Harps G a C",
             "address": "26 MOOR HILL ROAD, NEWRY",
             "postcode": "BT34 2QJ",
@@ -2976,6 +3011,13 @@
             "active": true
         },
         {
+            "name": "Banwell Bowling Club",
+            "address": "The Pond, Banwell, North Somerset",
+            "postcode": null,
+            "id": "GB-CASC-eff552f2",
+            "active": true
+        },
+        {
             "name": "Bapchild Cricket Club",
             "address": "38 HIGHSTED ROAD, SITTINGBOURNE",
             "postcode": "ME10 4PS",
@@ -3060,11 +3102,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-2ba80a16",
             "name": "Barking Amateur Boxing Club",
             "address": "Barking Adult Education Centre, Parslows Avenue, Dagenham, Essex",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-2ba80a16",
+            "active": true
         },
         {
             "name": "Barking Dagenham S M B Association",
@@ -3417,6 +3459,13 @@
             "active": true
         },
         {
+            "name": "Barton Seagrave Cricket Club",
+            "address": "",
+            "postcode": null,
+            "id": "GB-CASC-fdc368c2",
+            "active": true
+        },
+        {
             "name": "Barton Town Cricket Club",
             "address": "Marsh Lane, Barton On Humber, North Lincolnshire",
             "postcode": "DN18 5JD",
@@ -3746,6 +3795,13 @@
             "active": true
         },
         {
+            "name": "Bearsted Cricket Club",
+            "address": "The Green, Bearsted, Maidstone",
+            "postcode": null,
+            "id": "GB-CASC-6ebc10d6",
+            "active": true
+        },
+        {
             "name": "Bearsted and Thurnham Bowling Club",
             "address": "LONE OAK, OTHAM LANE, BEARSTED, MAIDSTONE",
             "postcode": "ME15 8SJ",
@@ -3949,6 +4005,13 @@
             "active": true
         },
         {
+            "name": "Bedlington Town Football Club",
+            "address": "Various Venues in South East Northumberland",
+            "postcode": null,
+            "id": "GB-CASC-a17c69f0",
+            "active": true
+        },
+        {
             "name": "Bedminster Down Volleyball Club",
             "address": "Bedminster Down School, Donald Road, Bristol",
             "postcode": "BS13 7DQ",
@@ -3998,11 +4061,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-a0f26f29",
             "name": "Beeston and Toton Sycamore Cricket Club",
             "address": "Beeston and Toton Sycamore Cricket Club, Manor Farm Recreation Ground, Toton, Nottingham",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-a0f26f29",
+            "active": true
         },
         {
             "name": "Begbrook Green Bowling Club",
@@ -4012,18 +4075,18 @@
             "active": true
         },
         {
-            "name": "Beith Golf Club (2023) Ltd",
-            "address": "THREEPWOOD ROAD, BEITH",
-            "postcode": "KA15 2JR",
             "id": "GB-CASC-8489523b",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-e2217d6c",
             "name": "Beith Golf Club (2023) Ltd",
             "address": "THREEPWOOD ROAD, BEITH",
             "postcode": "KA15 2JR",
             "active": false
+        },
+        {
+            "name": "Beith Golf Club (2023) Ltd",
+            "address": "THREEPWOOD ROAD, BEITH",
+            "postcode": "KA15 2JR",
+            "id": "GB-CASC-e2217d6c",
+            "active": true
         },
         {
             "name": "Belbroughton Cricket Club",
@@ -4467,18 +4530,18 @@
             "active": true
         },
         {
-            "id": "GB-CASC-aae5b435",
             "name": "Bexhill Bowling Club",
             "address": "Bexhill Bowling Club, The Polegrove, Richmond Road, Bexhill-On-Sea",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-aae5b435",
+            "active": true
         },
         {
-            "id": "GB-CASC-36e0fb9a",
             "name": "Bexhill Cricket Club",
             "address": "Polegrove Sports Ground, Brockley Road, Bexhill-on-Sea, East Sussex",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-36e0fb9a",
+            "active": true
         },
         {
             "name": "Bexhill Rowing Club",
@@ -4635,11 +4698,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-1e977b61",
             "name": "Bideford Littleham and Westward Ho! Cric Ket Club",
             "address": "Bideford Littleham And Westward Ho! Cricket Club, Golf Links Road, Westward Ho!, Bideford,  Devon",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-1e977b61",
+            "active": true
         },
         {
             "name": "Bideford Rugby Football Club Ltd",
@@ -4761,11 +4824,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-2ebc1333",
             "name": "Bilsington Cricket Club",
             "address": "Bilsington Cricket Club, Monument Field, Bilsington, Nr Ashford,  Kent",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-2ebc1333",
+            "active": true
         },
         {
             "name": "Bilton Bowling Club",
@@ -5048,6 +5111,13 @@
             "active": true
         },
         {
+            "name": "Bishops Waltham Cricket Club",
+            "address": "Albany Road, Bishops Waltham",
+            "postcode": null,
+            "id": "GB-CASC-633d4310",
+            "active": true
+        },
+        {
             "name": "Bishopshire Golf Club",
             "address": "Bishopshire Golf Club, Woodmarch, Kinnesswood, Kinross",
             "postcode": "KY13 9HX",
@@ -5111,11 +5181,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-f65e0112",
             "name": "Blaby Victoria Tennis Club",
             "address": "c/o Tessa Coleman, 5 Greary Close, Narborough, Leicester",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-f65e0112",
+            "active": true
         },
         {
             "name": "Black Canon Collective",
@@ -5489,11 +5559,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-0c5fd312",
             "name": "Blofield Heath Bowls Club",
             "address": "Blofield Heath Bowls Club, Heathlands, Woodbastwick Road, Blofield Heath,  Norwich",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-0c5fd312",
+            "active": true
         },
         {
             "name": "Bloomfield Bowling Club",
@@ -5552,11 +5622,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-3c8dcf91",
             "name": "Blundeston Bowls Club",
             "address": "Market Lane, Blundeston, Lowestoft, Suffolk",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-3c8dcf91",
+            "active": true
         },
         {
             "name": "Blunham Cricket Club",
@@ -5608,11 +5678,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-a2639c63",
             "name": "Bocking Sports Club",
             "address": "The Sports Ground, Bocking Church Street, Braintree, Essex",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-a2639c63",
+            "active": true
         },
         {
             "name": "Bodelwyddan Game Anglers",
@@ -5923,6 +5993,13 @@
             "active": true
         },
         {
+            "name": "Borth & Ynyslas Golf Club",
+            "address": "",
+            "postcode": null,
+            "id": "GB-CASC-025619ac",
+            "active": true
+        },
+        {
             "name": "Boscastle and Crackington Gig Club",
             "address": "5 KILLERTON ROAD, BUDE",
             "postcode": "EX23 8EL",
@@ -5993,6 +6070,13 @@
             "active": true
         },
         {
+            "name": "Bothwell Lawn Tennis Club",
+            "address": "Bothwell Lawn Tennis Club, Mill Road, Bothwell",
+            "postcode": null,
+            "id": "GB-CASC-ee7aa462",
+            "active": true
+        },
+        {
             "name": "Bottesford Bowling Club",
             "address": "Bottesford Bowling Club, Belvoir Road, Bottesford, Nottingham",
             "postcode": "NG13 0BG",
@@ -6056,11 +6140,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-8cfd4f55",
             "name": "Bourne Town Bowls Club",
             "address": "Bourne Town Bowls Club, The Abbey Lawn, Abbey Road, Bourne,  Lincolnshire",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-8cfd4f55",
+            "active": true
         },
         {
             "name": "Bournemouth Indoor Bowling Club",
@@ -6196,11 +6280,18 @@
             "active": true
         },
         {
-            "id": "GB-CASC-fb7a6de8",
+            "name": "Bowness Bowling Club",
+            "address": "Longlands, Bowness On Windermere, Cumbria",
+            "postcode": null,
+            "id": "GB-CASC-152ba36e",
+            "active": true
+        },
+        {
             "name": "Box Cricket Club",
             "address": "Box Cricket Club, The Pavillion, High Street, Box,  Corsham",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-fb7a6de8",
+            "active": true
         },
         {
             "name": "Boxford & District Bowls Club",
@@ -6462,6 +6553,13 @@
             "active": true
         },
         {
+            "name": "Bramhall Cricket Club  BCC",
+            "address": "Church Lane, Woodford, Stockport",
+            "postcode": null,
+            "id": "GB-CASC-5688bad6",
+            "active": true
+        },
+        {
             "name": "Bramhall Park Lawn Tennis Club",
             "address": "Bramhall Park Road, Bramhall, Stockport, Cheshire",
             "postcode": "SK7 3JN",
@@ -6543,6 +6641,13 @@
             "address": "23 KINGSACRE, BRAUNTON",
             "postcode": "EX33 1BN",
             "id": "GB-CASC-ea5c3608",
+            "active": true
+        },
+        {
+            "name": "Braunton Cricket Club",
+            "address": "First Field Lane, Braunton, Devon",
+            "postcode": null,
+            "id": "GB-CASC-5aec4076",
             "active": true
         },
         {
@@ -6770,6 +6875,13 @@
             "active": true
         },
         {
+            "name": "Bridestowe Cricket Club",
+            "address": "Millaton Cricket ground, Bridestowe, Devon",
+            "postcode": null,
+            "id": "GB-CASC-9075feb2",
+            "active": true
+        },
+        {
             "name": "Bridge Trust Society",
             "address": "ROMILLY AVENUE, BIRMINGHAM",
             "postcode": "B20 2AT",
@@ -6798,11 +6910,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-3302c6a1",
             "name": "Bridgend Judokwai",
             "address": "Bridgend Judokwai, Phipps Yard, Cefn Glas Lane, Cefn Glas,  Bridgend",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-3302c6a1",
+            "active": true
         },
         {
             "name": "Bridgeton United Football Club",
@@ -7232,11 +7344,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-87ebdddb",
             "name": "Brixham Archers Limited",
             "address": "Brixham Archers Limited, field rear of Gliddon Ford Garage, Dartmouth Road, TQ5 0LH,",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-87ebdddb",
+            "active": true
         },
         {
             "name": "Brixham Gig Club",
@@ -7869,11 +7981,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-fbf87a0f",
             "name": "Builth Wells Football Club",
             "address": "Builth Wells Football Club, Lant Fields, Pendle, Builth Wells",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-fbf87a0f",
+            "active": true
         },
         {
             "name": "Builth Wells Golf Club 1987 Limited",
@@ -7911,11 +8023,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-3eb1d6d1",
             "name": "Burbage Bowling Club",
             "address": "Nursery Lane, Burbage, Buxton, Derbyshire",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-3eb1d6d1",
+            "active": true
         },
         {
             "name": "Bures United Football Club",
@@ -7971,6 +8083,13 @@
             "address": "THE CLUBHOUSE, ABBEY ROAD, LEEDS",
             "postcode": "LS5 3NG",
             "id": "GB-CASC-731dcd69",
+            "active": true
+        },
+        {
+            "name": "Burley in Wharfedale Bowls Club",
+            "address": "Burley In Wharfedale Bowls Club, GrangeRoad, Burley In Wharfedale",
+            "postcode": null,
+            "id": "GB-CASC-3db238bf",
             "active": true
         },
         {
@@ -8079,6 +8198,13 @@
             "active": true
         },
         {
+            "name": "Burnt Yates Cricket Club",
+            "address": "Admirals Way, Burnt Yates, Harrogate",
+            "postcode": null,
+            "id": "GB-CASC-ed2f9b02",
+            "active": true
+        },
+        {
             "name": "Burntisland Golf House Club",
             "address": "Burntisland Golf House Club, Dodhead, Kirkcaldy Road, Burntisland,  Fife",
             "postcode": "KY3 9LQ",
@@ -8135,18 +8261,18 @@
             "active": true
         },
         {
-            "id": "GB-CASC-9f4f732c",
             "name": "Burton Canoe Club Ltd",
             "address": "Burton Canoe Club, Newton Road Park, Newton Road, Burton on Trent",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-9f4f732c",
+            "active": true
         },
         {
-            "id": "GB-CASC-6e35d169",
             "name": "Burton Cricket Club",
             "address": "Oatfield Park, Houghton, Milford Haven, Pembrokeshire",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-6e35d169",
+            "active": true
         },
         {
             "name": "Burton Hockey Club Limited",
@@ -8317,11 +8443,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-63207076",
             "name": "Bushey Cricket Club",
             "address": "The Pavilion, Eastbury Road, Oxhey, Watford",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-63207076",
+            "active": true
         },
         {
             "name": "Bushfield Bowls Club",
@@ -8492,11 +8618,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-ba4e3403",
             "name": "Cadnam Cricket Club",
             "address": "Lambs Corner, Lyndhurst Road, Cadnam, Hants",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-ba4e3403",
+            "active": true
         },
         {
             "name": "Cae Glas Cricket Club",
@@ -8513,11 +8639,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-6b944d50",
             "name": "Caerau Football Club",
             "address": "Caerau Football Club, Humphreys Terrace, Caerau, Maesteg,  Mid Glamorgan",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-6b944d50",
+            "active": true
         },
         {
             "name": "Caereinion Old Boys Rugby Association Li Mited",
@@ -8569,11 +8695,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-61dd8c52",
             "name": "Caithness Disability Multi Sport",
             "address": "c/o Thor House, Provost Cormack Drive, Thurso, Caithness",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-61dd8c52",
+            "active": true
         },
         {
             "name": "Calday Grange Amateur Swimming Club",
@@ -9122,11 +9248,11 @@
             "active": true
         },
         {
+            "id": "GB-CASC-63fbffb9",
             "name": "Carlton Cricket Club Ltd",
             "address": "180 GRANGE LOAN, EDINBURGH",
             "postcode": "EH9 2EE",
-            "id": "GB-CASC-63fbffb9",
-            "active": true
+            "active": false
         },
         {
             "name": "Carlton Squash Club",
@@ -9241,11 +9367,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-dbf41f87",
             "name": "Carrbrook Bowling Club",
             "address": "The Bowling Green, Carr Rise, Carrbrook, Stalybridge,  SK15 3NY",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-dbf41f87",
+            "active": true
         },
         {
             "name": "Carrickbruppin GFC",
@@ -9542,11 +9668,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-61b88c32",
             "name": "Catherine De Barnes Cricket Club",
             "address": "Rear of The Boat Public House, Hampton Lane, Catherine De Barnes, Solihull",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-61b88c32",
+            "active": true
         },
         {
             "name": "Catterick Golf Club Ltd",
@@ -9892,11 +10018,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-b017cfd5",
             "name": "Charlesworth & Chisworth Cricket Club",
             "address": "Bankfield, Marple Road, Charlesworth, Glossop,  Derbyshire",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-b017cfd5",
+            "active": true
         },
         {
             "name": "Charlton Down Cricket Club",
@@ -9934,11 +10060,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-466fbb63",
             "name": "Chatteris Cricket Club",
             "address": "The Pavillion, Wenny Road, Chatteris, Cambs",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-466fbb63",
+            "active": true
         },
         {
             "name": "Chatteris Town Bowls Club",
@@ -10039,11 +10165,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-beb5fe98",
             "name": "Chelford Bowling Club",
             "address": "Knutsford Road, Chelford, Knutsford, Cheshire",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-beb5fe98",
+            "active": true
         },
         {
             "name": "Chelford Cricket Club",
@@ -10578,11 +10704,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-37eaeaaa",
             "name": "Chippenham Sailing & Canoeing Club",
             "address": "Chippenham Sailing & Canoeing Club, Long Close, Chippenham, Wiltshire",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-37eaeaaa",
+            "active": true
         },
         {
             "name": "Chippenham Sports Club",
@@ -10704,6 +10830,13 @@
             "active": true
         },
         {
+            "name": "Chipstead Place Lawn Tennis Club",
+            "address": "The Old Garden, Chipstead, Kent",
+            "postcode": null,
+            "id": "GB-CASC-87575bc1",
+            "active": true
+        },
+        {
             "name": "Chipstead Rugby Football Club Limited",
             "address": "THE MEADS, HIGH ROAD, CHIPSTEAD, COULSDON",
             "postcode": "CR5 3SB",
@@ -10816,6 +10949,13 @@
             "active": false
         },
         {
+            "name": "Chorley Tennis Club",
+            "address": "Walgarth Drive, Chorley, Lancashire",
+            "postcode": null,
+            "id": "GB-CASC-a113425a",
+            "active": true
+        },
+        {
             "name": "Chorleywood Cricket Club Limited",
             "address": "Cricket Ground, The Common, Chorleywood",
             "postcode": "WD3 5SG",
@@ -10890,6 +11030,13 @@
             "address": "Kate Brook, Chudleigh, Devon",
             "postcode": "TQ13 0JX",
             "id": "GB-CASC-aeb02dfc",
+            "active": true
+        },
+        {
+            "name": "Chulmleigh & Mid Devon Cricket Club",
+            "address": "Southcombes Cricket Close, Chulmleigh, N. Devon",
+            "postcode": null,
+            "id": "GB-CASC-ad4ce1e0",
             "active": true
         },
         {
@@ -10998,11 +11145,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-decfde0c",
             "name": "Cinque Ports Rugby Football Club",
             "address": "Cinque Ports Rugby Football Club, 23 Havelock Road, Hastings, East Sussex,  TN341BP",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-decfde0c",
+            "active": true
         },
         {
             "name": "Cippenham Table Tennis Club",
@@ -11250,6 +11397,13 @@
             "active": true
         },
         {
+            "name": "Clady and District Angling Club",
+            "address": "Mayogall Road, Clady, Portglenone",
+            "postcode": null,
+            "id": "GB-CASC-2c420f62",
+            "active": true
+        },
+        {
             "name": "Clams (Masters Swimming Club)",
             "address": "Mr C M Bale, 18 Plas Melin Flats, Westbourne Road, Whitchurch",
             "postcode": "CF14 2BT",
@@ -11257,11 +11411,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-34c82e18",
             "name": "Clann Na Ngael",
             "address": "Lisnaragh Road, Donemana, Strabane, Co Tyrone,  N Ireland",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-34c82e18",
+            "active": true
         },
         {
             "name": "Clarendon Juniors Football Club",
@@ -11306,11 +11460,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-a30ca5ec",
             "name": "Clay Hall Bowls Club",
             "address": "Clay Hall Park, Longwood Gardens, Ilford, Essex",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-a30ca5ec",
+            "active": true
         },
         {
             "name": "Claygate Cricket Club",
@@ -11348,11 +11502,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-8aef5a1d",
             "name": "Cleator Moor Bowling Club",
             "address": "Cleator Moor Bowling Club, Stirling Green, Crossfield Road, Cleator Moor,  Cumbria",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-8aef5a1d",
+            "active": true
         },
         {
             "name": "Cleckheaton Lawn Tennis Club",
@@ -11402,6 +11556,13 @@
             "address": "16 Warwick Road, Rainham, Essex",
             "postcode": "RM13 9XU",
             "active": false
+        },
+        {
+            "name": "Clementswood Bowling Club",
+            "address": "",
+            "postcode": null,
+            "id": "GB-CASC-8e1b6fb5",
+            "active": true
         },
         {
             "name": "Cleobury Mortimer Bowling Club",
@@ -11530,11 +11691,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-c9ad1525",
             "name": "Cloghams Cricket Club",
             "address": "Cloghams Green, Off High Easter Road, Leaden Riding, Nr Dunmow,  Essex",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-c9ad1525",
+            "active": true
         },
         {
             "name": "Clogher Eire Og GFC",
@@ -11548,6 +11709,13 @@
             "address": "12 STANG ROAD, CABRA, NEWRY",
             "postcode": "BT34 5RG",
             "id": "GB-CASC-4b35b11c",
+            "active": true
+        },
+        {
+            "name": "Clonmore GFC",
+            "address": "c/o Clonmore Hall, Dungannon, Co Tyrone",
+            "postcode": null,
+            "id": "GB-CASC-9a8dd396",
             "active": true
         },
         {
@@ -11684,11 +11852,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-5e09c965",
             "name": "Clyde Amateur Rowing Club",
             "address": "Clyde Amateur Rowing Club, The West Boathouse, Glasgow Green, Glasgow",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-5e09c965",
+            "active": true
         },
         {
             "name": "Clyde Arrows Archery Club",
@@ -11961,6 +12129,13 @@
             "address": "St Helena School, Sheepen Road, Colchester, Essex",
             "postcode": "CO3 3LE",
             "id": "GB-CASC-86909ac1",
+            "active": true
+        },
+        {
+            "name": "Colchester West End Bowls Club",
+            "address": "Fitzgilbert Road, Colchester, Essex",
+            "postcode": null,
+            "id": "GB-CASC-d37f475d",
             "active": true
         },
         {
@@ -12370,11 +12545,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-75f6088e",
             "name": "Copdock and Washbrook Bowls Club",
             "address": "Copdock And Washbrook Bowls Club, The Pavillion, Old London Road, Copdock,  Ipswich",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-75f6088e",
+            "active": true
         },
         {
             "name": "Copeland Canoe Club",
@@ -12496,11 +12671,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-aab3657b",
             "name": "Cornard Bowls Club",
             "address": "Cramphorns Playing Fields, Broom Street, Gt Cornard, Sudbury,  Suffolk",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-aab3657b",
+            "active": true
         },
         {
             "name": "Cornard Dynamos Y F C",
@@ -12587,11 +12762,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-d84138eb",
             "name": "Cotswold Rowing Club",
             "address": "Cotswold Rowing Club, Home Farm, Down Ampney, Cirencester",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-d84138eb",
+            "active": true
         },
         {
             "name": "Cottenham Renegades Rugby Club",
@@ -13035,6 +13210,13 @@
             "active": true
         },
         {
+            "name": "Crewe United Football & Sports Club",
+            "address": "99 Lisburn Road, Glenavy",
+            "postcode": null,
+            "id": "GB-CASC-3f782b07",
+            "active": true
+        },
+        {
             "name": "Crewe and Nantwich Athletics Club",
             "address": "Crewe And Nantwich Athletics Club, Cumberland Arena, The Wharf, Thomas Street, Crewe  Cheshire",
             "postcode": "CW1 2BD",
@@ -13140,11 +13322,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-5cf9a905",
             "name": "Crooklands Casuals Football Club",
             "address": "Crooklands Casuals Football Club, Longlands Park, Dalton-In-Furness, Cumbria",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-5cf9a905",
+            "active": true
         },
         {
             "name": "Crooksmoss Bowling Club",
@@ -13200,6 +13382,13 @@
             "address": "WESTHEAD ROAD, CROSTON, LEYLAND",
             "postcode": "PR26 9RR",
             "id": "GB-CASC-847a12d8",
+            "active": true
+        },
+        {
+            "name": "Croston Subscription Bowling Club",
+            "address": "Highfield Road, Croston, Lancashire",
+            "postcode": null,
+            "id": "GB-CASC-280eed53",
             "active": true
         },
         {
@@ -13469,11 +13658,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-74d9ef6d",
             "name": "Culver Bowls Club",
             "address": "Culver Bowls Club, Centenary Park, Stanmore, Middlesex",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-74d9ef6d",
+            "active": true
         },
         {
             "name": "Cumann Iomana Eire Og an Charraig Mhor",
@@ -13819,11 +14008,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-a3c417f6",
             "name": "Dartford Judo Club",
             "address": "Central Park Hall, 80a Lowfield Street, Dartford, Kent",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-a3c417f6",
+            "active": true
         },
         {
             "name": "Dartford Stone Lodge Bowls & Social Club",
@@ -13924,11 +14113,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-4a00723c",
             "name": "Davenham Cricket Club",
             "address": "Butchers Style, Hartford Road, Davenham, Northwich,  Cheshire",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-4a00723c",
+            "active": true
         },
         {
             "name": "Davenport Lawn Tennis Club",
@@ -14071,6 +14260,13 @@
             "active": true
         },
         {
+            "name": "Decoy Bicross BMX Club",
+            "address": "Coach Road, Newton Abbot, Devon",
+            "postcode": null,
+            "id": "GB-CASC-2c8c28a6",
+            "active": true
+        },
+        {
             "name": "Deddington & District Rifle & Revolver C Lub",
             "address": "The Anson Range, Smiths Sand Pit, Duns Tew Road, Middle Barton,  Oxfordshire",
             "postcode": "OX6 4JW",
@@ -14113,11 +14309,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-d5f8581e",
             "name": "Deepings Bowling Association",
             "address": "Deepings Bowling Association, Spalding Road, Deeping St James, Lincolnshire",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-d5f8581e",
+            "active": true
         },
         {
             "name": "Deepings Rugby Union Football Club Limit ed",
@@ -14197,6 +14393,13 @@
             "active": true
         },
         {
+            "name": "Denmead Bowling Club",
+            "address": "",
+            "postcode": null,
+            "id": "GB-CASC-60553483",
+            "active": true
+        },
+        {
             "name": "Denmead Tennis Club",
             "address": "King George Playing Field, Ashling ParkRoad, Denmead, Hants",
             "postcode": "PO7 6LR",
@@ -14208,6 +14411,13 @@
             "address": "Denny Bowling Club, Stirling Street, Denny",
             "postcode": "FK6 5JB",
             "id": "GB-CASC-b63257c6",
+            "active": true
+        },
+        {
+            "name": "Denstone Tennis Club",
+            "address": "Oak Road, Denstone, Staffordshire",
+            "postcode": null,
+            "id": "GB-CASC-e67d1119",
             "active": true
         },
         {
@@ -14379,11 +14589,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-7f6fd00d",
             "name": "Devoran Pilot Gig Club",
             "address": "Devoran Pilot Gig Club, Devoran Quay, Devoran, Truro,  Cornwall",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-7f6fd00d",
+            "active": true
         },
         {
             "name": "Dewsbury Moor Amateur Rugby League Footb All Club",
@@ -14596,11 +14806,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-f9216789",
             "name": "Dolphin Sub-Aqua Club",
             "address": "6 Ogles Grove, Hillsborough, Northern Ireland, BT26 6RS",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-f9216789",
+            "active": true
         },
         {
             "name": "Dolphina Gymnastic Centre Ltd",
@@ -14778,18 +14988,18 @@
             "active": false
         },
         {
-            "name": "Dorset Gliding Club Ltd",
-            "address": "STAFFORD HOUSE, 10 PRINCE OF WALES ROAD, DORCHESTER",
-            "postcode": "DT1 1PW",
             "id": "GB-CASC-4e316c88",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-71fb9c31",
             "name": "Dorset Gliding Club Ltd",
             "address": "STAFFORD HOUSE, 10 PRINCE OF WALES ROAD, DORCHESTER",
             "postcode": "DT1 1PW",
             "active": false
+        },
+        {
+            "name": "Dorset Gliding Club Ltd",
+            "address": "STAFFORD HOUSE, 10 PRINCE OF WALES ROAD, DORCHESTER",
+            "postcode": "DT1 1PW",
+            "id": "GB-CASC-71fb9c31",
+            "active": true
         },
         {
             "name": "Dorsey Emmett's GFC",
@@ -14813,18 +15023,18 @@
             "active": true
         },
         {
-            "id": "GB-CASC-f769be53",
             "name": "Dove Holes Cricket Club",
             "address": "Hallsteads, Dove Holes, Nr Buxton, Derbyshire",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-f769be53",
+            "active": true
         },
         {
-            "id": "GB-CASC-445dfd6b",
             "name": "Dove Park Bowls Club",
             "address": "Church Street, Wragby, Market Rasen, Lincolnshire",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-445dfd6b",
+            "active": true
         },
         {
             "name": "Dovecot Park Bowling Club",
@@ -14890,11 +15100,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-c94b7e83",
             "name": "Downham & Bellingham Sports Club",
             "address": "270 Rangefield Road, Downham, Bromley, Kent",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-c94b7e83",
+            "active": true
         },
         {
             "name": "Downlands Artistic Skating Club",
@@ -15135,11 +15345,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-93d164db",
             "name": "Droylsden Cricket Club",
             "address": "Oakfield Ground, Fold Avenue, Droylsden, Manchester",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-93d164db",
+            "active": true
         },
         {
             "name": "Droylsden Sub Squa Club",
@@ -15170,6 +15380,13 @@
             "active": true
         },
         {
+            "name": "Drummond Lawn Tennis Club",
+            "address": "Nutter Lane, Wanstead, London",
+            "postcode": null,
+            "id": "GB-CASC-c463888e",
+            "active": true
+        },
+        {
             "name": "Drummore Bowling Club",
             "address": "13 STAIR STREET, DRUMMORE, STRANRAER",
             "postcode": "DG9 9PT",
@@ -15191,11 +15408,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-62edea9a",
             "name": "Drums Bowls Club",
             "address": "King George V Playing Field, BlackshotsLane, Little Thurrock, Grays,  Essex",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-62edea9a",
+            "active": true
         },
         {
             "name": "Drybrook Rugby Football Club Ltd",
@@ -15415,11 +15632,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-820b6723",
             "name": "Dundee Juniors",
             "address": "c/o Megabowl, Stack Leisure Park, Harefield Road, Dundee",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-820b6723",
+            "active": true
         },
         {
             "name": "Dundee Sailing Club",
@@ -15695,6 +15912,13 @@
             "active": true
         },
         {
+            "name": "Dysart Sailing Club",
+            "address": "Dysart Harbour, DYSART, Fife",
+            "postcode": null,
+            "id": "GB-CASC-aabb0ca0",
+            "active": true
+        },
+        {
             "name": "Dyserth Crown Green Bowling Club",
             "address": "Thomas Avenue, Dyserth, Denbighshire",
             "postcode": "LL18 6AP",
@@ -15856,11 +16080,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-23f85848",
             "name": "Easingwold Haxby Robinson Bowling Club",
             "address": "Easingwold Haxby Robinson Bowling Club, Paradise Field, Easingwold, York",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-23f85848",
+            "active": true
         },
         {
             "name": "Easingwold Rifle Club",
@@ -15919,17 +16143,24 @@
             "active": true
         },
         {
-            "id": "GB-CASC-e3aa7742",
             "name": "East Bergholt Bowls Club",
             "address": "Playing Fields, Gandish Road, East Bergholt, Colchester,  Essex",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-e3aa7742",
+            "active": true
         },
         {
             "name": "East Bergholt Tennis Club",
             "address": "GANDISH ROAD PLAYING FIELDS, GANDISH ROAD, EAST BERGHOLT, COLCHESTER",
             "postcode": "CO7 6TP",
             "id": "GB-CASC-43c26e2a",
+            "active": true
+        },
+        {
+            "name": "East Bergholt United F C Juniors Section",
+            "address": "SPORTS PAVILION, GANDISH ROAD, COLCHESTER",
+            "postcode": null,
+            "id": "GB-CASC-c81d0b3a",
             "active": true
         },
         {
@@ -16045,11 +16276,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-c03d24c4",
             "name": "East Grinstead Target Shooting Club",
             "address": "East Grinstead Target Shooting Club, East Court Range, East Court, East Grinstead,  West Sussex",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-c03d24c4",
+            "active": true
         },
         {
             "name": "East Grinstead Tennis, Squash and Racket Ball Club",
@@ -16059,18 +16290,18 @@
             "active": true
         },
         {
-            "name": "East Hanningfield & Great Bursted Cricke T Club",
-            "address": "74 ELM VIEW ROAD, BENFLEET",
-            "postcode": "SS7 5AS",
             "id": "GB-CASC-a5bda8b7",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-f00b0044",
             "name": "East Hanningfield & Great Bursted Cricke T Club",
             "address": "74 ELM VIEW ROAD, BENFLEET",
             "postcode": "SS7 5AS",
             "active": false
+        },
+        {
+            "name": "East Hanningfield & Great Bursted Cricke T Club",
+            "address": "74 ELM VIEW ROAD, BENFLEET",
+            "postcode": "SS7 5AS",
+            "id": "GB-CASC-f00b0044",
+            "active": true
         },
         {
             "name": "East Harlsey Cricket Club",
@@ -16157,11 +16388,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-d2dc6a3a",
             "name": "East Meon Cricket Club",
             "address": "East Meon Cricket Club, The Recreation Ground, East Meon, Petersfield,  Hants",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-d2dc6a3a",
+            "active": true
         },
         {
             "name": "East Molesey Cricket Club",
@@ -16262,11 +16493,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-6d30a821",
             "name": "Eastchurch Cricket Club",
             "address": "R/O 11 High Street, Eastchurch, Isle ofSheppey, Kent",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-6d30a821",
+            "active": true
         },
         {
             "name": "Eastcote Billiards Club",
@@ -16346,11 +16577,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-7bc54d4d",
             "name": "Eaton Socon Bowling Club",
             "address": "Brook Road, Eaton Ford, St Neots, Cambs",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-7bc54d4d",
+            "active": true
         },
         {
             "name": "Eaton Socon Cricket Club",
@@ -16378,6 +16609,13 @@
             "address": "Ebbisham Sports Club, Eastway, Pound Lane, Epsom,  Surrey",
             "postcode": "KT19 8SB",
             "id": "GB-CASC-af7223d7",
+            "active": true
+        },
+        {
+            "name": "Eccles Archery Club",
+            "address": "",
+            "postcode": null,
+            "id": "GB-CASC-1fc63585",
             "active": true
         },
         {
@@ -16570,6 +16808,13 @@
             "active": true
         },
         {
+            "name": "Edinburgh Northern Rugby Football Club",
+            "address": "",
+            "postcode": null,
+            "id": "GB-CASC-dd1b59ab",
+            "active": true
+        },
+        {
             "name": "Edinburgh Polo Club",
             "address": "Warriston Farm, Currie, Midlothian",
             "postcode": "EH14 4AF",
@@ -16703,11 +16948,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-7823bf8f",
             "name": "Eglish St Patricks GFC",
             "address": "Killyliss Road, Eglish, Dungannon, Co. Tyrone",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-7823bf8f",
+            "active": true
         },
         {
             "name": "Egremont Cricket Club",
@@ -16780,6 +17025,13 @@
             "active": true
         },
         {
+            "name": "Elham Valley Cricket Club",
+            "address": "Holloway Field, Elham, Canterbury",
+            "postcode": null,
+            "id": "GB-CASC-104416ae",
+            "active": true
+        },
+        {
             "name": "Elite Dance Studios Ltd",
             "address": "218 SUNDORNE ROAD, SHREWSBURY",
             "postcode": "SY1 4RG",
@@ -16833,6 +17085,13 @@
             "address": "Ellesmere Port Club Of Gymnastics, 1 Hemsworth Avenue, Little Sutton, Cheshire",
             "postcode": "CH66 4SG",
             "id": "GB-CASC-d698d2f8",
+            "active": true
+        },
+        {
+            "name": "Ellesmere Sports Club",
+            "address": "Walkden Road, Worsley, Manchester",
+            "postcode": null,
+            "id": "GB-CASC-b713c6ad",
             "active": true
         },
         {
@@ -16997,11 +17256,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-91b166cf",
             "name": "Elvaston Cricket Club",
             "address": "Stable Lane, Elvaston Castle, Elvaston, Derby,  Derbyshire",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-91b166cf",
+            "active": true
         },
         {
             "name": "Elworth Cricket Club",
@@ -17046,11 +17305,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-e34f0878",
             "name": "Embsay Cricket Club",
             "address": "Shires Lane, Embsay, Skipton, North Yorkshire",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-e34f0878",
+            "active": true
         },
         {
             "name": "Emley Moor Amateur Rugby League Club",
@@ -17284,11 +17543,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-1a3eb4c1",
             "name": "Erith Rugby Football Club",
             "address": "Northumberland Heath Playing Fields, Sussex Road, Erith, Kent",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-1a3eb4c1",
+            "active": true
         },
         {
             "name": "Erith Yacht Club",
@@ -17326,11 +17585,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-1bbe2762",
             "name": "Eskra Emmetts GFC",
             "address": "Eskra Emmettes GFC, Newtownsaville Road, Eskra, Omagh,  Co Tyrone",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-1bbe2762",
+            "active": true
         },
         {
             "name": "Esprit Gymnastics Club",
@@ -17340,11 +17599,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-95dd3d8a",
             "name": "Essendon Cricket Club",
             "address": "Essendon Playing Fields, High Road, Essendon, Herts",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-95dd3d8a",
+            "active": true
         },
         {
             "name": "Essex & Suffolk Gliding Club Ltd",
@@ -17529,11 +17788,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-1632a15d",
             "name": "Exeter Cycle Speedway Club",
             "address": "Wheel Centre, Cofton Rd, Marsh Barton, Exeter",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-1632a15d",
+            "active": true
         },
         {
             "name": "Exeter Harriers Limited",
@@ -17855,6 +18114,13 @@
             "address": "2 HEATHER GARDENS, FAREHAM",
             "postcode": "PO15 6JB",
             "id": "GB-CASC-60a5680a",
+            "active": true
+        },
+        {
+            "name": "Faringdon Judo Club",
+            "address": "Tucker Park, Faringon, Oxon",
+            "postcode": null,
+            "id": "GB-CASC-19b7d25b",
             "active": true
         },
         {
@@ -18278,6 +18544,13 @@
             "active": true
         },
         {
+            "name": "Finedon Town Bowls Club",
+            "address": "Finedon Town Bowls Club, WellingboroughRoad, Finedon",
+            "postcode": null,
+            "id": "GB-CASC-bfc91ffb",
+            "active": true
+        },
+        {
             "name": "Finesse RGC Ltd",
             "address": "WHARFORD LANE, RUNCORN",
             "postcode": "WA7 1QU",
@@ -18303,6 +18576,13 @@
             "address": "Club Pavilion, Firle Cricket Ground, The Street, Firle",
             "postcode": "BN8 6NS",
             "id": "GB-CASC-71efe93e",
+            "active": true
+        },
+        {
+            "name": "First Fermanagh G F C",
+            "address": "Newtownbatlor, Co. Fermanagh",
+            "postcode": null,
+            "id": "GB-CASC-44029ef0",
             "active": true
         },
         {
@@ -18586,11 +18866,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-19186fde",
             "name": "Foresters Table Tennis Club",
             "address": "Foresters Table Tennis Club, Hut 2, Tilgate Forest Recreational Centre, Tilgate,  Crawley",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-19186fde",
+            "active": true
         },
         {
             "name": "Forfar Sailing Club Limited",
@@ -18789,11 +19069,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-d83fb560",
             "name": "Freckleton Bowling Club",
             "address": "5 Rutland Avenue, Freckleton, Preston, PR4 1HL",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-d83fb560",
+            "active": true
         },
         {
             "name": "Frenchay Cricket & Sports Club",
@@ -19377,11 +19657,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-189afd14",
             "name": "Georgeham and Croyde Community Amateur S Ports Club",
             "address": "Georgeham And Croyde Community Amateur Sports Club, Playing Field, Newberry Road, Georgeham,  North Devon",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-189afd14",
+            "active": true
         },
         {
             "name": "Gerrards Cross Lawn Tennis Club",
@@ -19563,6 +19843,13 @@
             "address": "MILTON HOUSE, PYLLE ROAD, PILTON, SHEPTON MALLET",
             "postcode": "BA4 4BR",
             "id": "GB-CASC-9cbe94d3",
+            "active": true
+        },
+        {
+            "name": "Glazebury Cricket Club",
+            "address": "Hurst Lane, Glazebury, Warrington",
+            "postcode": null,
+            "id": "GB-CASC-32c59e90",
             "active": true
         },
         {
@@ -19825,18 +20112,18 @@
             "active": true
         },
         {
-            "name": "Godalming Lawn Tennis Club",
-            "address": "Godalming Lawn Tennis Club, Summers Road, Godalming",
-            "postcode": "GU7 3BH",
             "id": "GB-CASC-3fd4f401",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-359b1d67",
             "name": "Godalming Lawn Tennis Club",
             "address": "Godalming Lawn Tennis Club, Summers Road, Godalming",
             "postcode": "GU7 3BH",
             "active": false
+        },
+        {
+            "name": "Godalming Lawn Tennis Club",
+            "address": "Godalming Lawn Tennis Club, Summers Road, Godalming",
+            "postcode": "GU7 3BH",
+            "id": "GB-CASC-359b1d67",
+            "active": true
         },
         {
             "name": "Godalming and Farncombe Bowling Club",
@@ -20077,11 +20364,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-b74a9cdf",
             "name": "Grampound Road Cricket Club",
             "address": "The Playing Field, Grampound Road, Truro, Cornwall",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-b74a9cdf",
+            "active": true
         },
         {
             "name": "Grandtully & Strathtay Bowling Club",
@@ -20091,18 +20378,18 @@
             "active": true
         },
         {
+            "name": "Grange Amateur Boxing Club",
+            "address": "134a Ninian Park Road, Riverside, Cardiff",
+            "postcode": "CF11 6JE",
             "id": "GB-CASC-f9c7af11",
+            "active": true
+        },
+        {
+            "id": "GB-CASC-1d84986d",
             "name": "Grange Amateur Boxing Club",
             "address": "134a Ninian Park Road, Riverside, Cardiff",
             "postcode": "CF11 6JE",
             "active": false
-        },
-        {
-            "name": "Grange Amateur Boxing Club",
-            "address": "134a Ninian Park Road, Riverside, Cardiff",
-            "postcode": "CF11 6JE",
-            "id": "GB-CASC-1d84986d",
-            "active": true
         },
         {
             "name": "Grange Fell Golf Club Ltd",
@@ -20137,6 +20424,13 @@
             "address": "c/o Claire Southam(Head Coach), 18 Dewlands, Oakley, Bedford,  Bedfordshire",
             "postcode": "MK43 7RL",
             "id": "GB-CASC-dccf92fa",
+            "active": true
+        },
+        {
+            "name": "Grantham Cricket Club",
+            "address": "Gorse Lane, Grantham, Lincs",
+            "postcode": null,
+            "id": "GB-CASC-448f4ac9",
             "active": true
         },
         {
@@ -20238,6 +20532,13 @@
             "active": true
         },
         {
+            "name": "Grayfields Bowling Club",
+            "address": "Grayfields Recreation Ground, Jesmond Gardens, Hartlepool",
+            "postcode": null,
+            "id": "GB-CASC-2844aceb",
+            "active": true
+        },
+        {
             "name": "Grays Town Bowling Club",
             "address": "King George V Playing Fields, Blackshots Lane, Grays, Essex",
             "postcode": "RM16 2JU",
@@ -20266,10 +20567,24 @@
             "active": true
         },
         {
+            "name": "Great Ayton Bowls Club",
+            "address": "Little Ayton lane, Great Ayton, North Yorks",
+            "postcode": null,
+            "id": "GB-CASC-c5ee7953",
+            "active": true
+        },
+        {
             "name": "Great Ayton Cricket & Football Club",
             "address": "Leven Park, Easby Lane, Great Ayton",
             "postcode": "TS9 6JN",
             "id": "GB-CASC-7cab2b43",
+            "active": true
+        },
+        {
+            "name": "Great Ayton Tennis Club",
+            "address": "West Terrace, Great Ayton, Middlesbrough",
+            "postcode": null,
+            "id": "GB-CASC-d87138d9",
             "active": true
         },
         {
@@ -20291,6 +20606,13 @@
             "address": "Ladywell Lane, Sandon, Great Baddon, Chelmsford,  Essex",
             "postcode": "CM2 7AE",
             "id": "GB-CASC-65941a27",
+            "active": true
+        },
+        {
+            "name": "Great Barford Bowls Club",
+            "address": "School Lane, Great Barford",
+            "postcode": null,
+            "id": "GB-CASC-05b496a4",
             "active": true
         },
         {
@@ -20525,11 +20847,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-72dd0e44",
             "name": "Greenmount Cricket Club Limited",
             "address": "BRANDLESHOLME ROAD, GREENMOUNT, BURY",
             "postcode": "BL8 4DX",
-            "active": false
+            "id": "GB-CASC-72dd0e44",
+            "active": true
         },
         {
             "name": "Greenock Wanderers Rugby Football Club",
@@ -20560,11 +20882,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-33c73baa",
             "name": "Greetland Goldstars Football Club",
             "address": "Greetland Community & Sports Centre, Rochdale Road, Greetland, Halifax",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-33c73baa",
+            "active": true
         },
         {
             "name": "Gregson Lane Cricket  Club",
@@ -20627,6 +20949,13 @@
             "address": "Groombridge Bowling Club, Back Lane OffGromenfield, Corseley Road, Groombridge,  East Sussex",
             "postcode": "TN3 9RS",
             "id": "GB-CASC-76727a04",
+            "active": true
+        },
+        {
+            "name": "Groombridge Cricket Club",
+            "address": "Groombridge Cricket Club, Station Road, Groombridge",
+            "postcode": null,
+            "id": "GB-CASC-51981ed5",
             "active": true
         },
         {
@@ -20739,6 +21068,13 @@
             "address": "Guildfordians R F C, The Pavilion, London Road, Guildford,  Surrey",
             "postcode": "GU1 1TU",
             "id": "GB-CASC-27362191",
+            "active": true
+        },
+        {
+            "name": "Guisborough Angling Club Ltd",
+            "address": "n/a",
+            "postcode": null,
+            "id": "GB-CASC-0a180766",
             "active": true
         },
         {
@@ -20917,11 +21253,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-e9a97392",
             "name": "Hadleigh United Football Club",
             "address": "The Millfield, Tinkers Lane, hadleigh, Suffolk,  IP7 5NG",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-e9a97392",
+            "active": true
         },
         {
             "name": "Hadlow Bowls Club",
@@ -20931,11 +21267,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-f8b90cb0",
             "name": "Hadlow Cricket Club",
             "address": "Hadlow Cricket Club, Common Road, Hadlow, Kent",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-f8b90cb0",
+            "active": true
         },
         {
             "name": "Hafren Cycling Club",
@@ -20966,11 +21302,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-3b0782be",
             "name": "Hailsham Lawn Tennis Club",
             "address": "Hailsham Tennis Club, Recreation Ground, Western Road, Hailsham,  East Sussex",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-3b0782be",
+            "active": true
         },
         {
             "name": "Hailsham Town Football Club",
@@ -21127,6 +21463,13 @@
             "active": true
         },
         {
+            "name": "Halstead Colts Cricket Club",
+            "address": "Star Stile, Halstead, Essex",
+            "postcode": null,
+            "id": "GB-CASC-fdcfcf98",
+            "active": true
+        },
+        {
             "name": "Halstead Cricket Club",
             "address": "MAHDLEY, CHAPEL HILL, HALSTEAD",
             "postcode": "CO9 1JP",
@@ -21176,6 +21519,13 @@
             "active": true
         },
         {
+            "name": "Hambrook Sports Club",
+            "address": "",
+            "postcode": null,
+            "id": "GB-CASC-b19c458c",
+            "active": true
+        },
+        {
             "name": "Hamilton Lawn Tennis Club",
             "address": "3 BLACKSWELL LANE, HAMILTON",
             "postcode": "ML3 7BL",
@@ -21211,11 +21561,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-e947e7fc",
             "name": "Hammerwich Bowling Club",
             "address": "Burntwood Road, Hammerwich, Nr Lichfield, Staffs",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-e947e7fc",
+            "active": true
         },
         {
             "name": "Hammerwich Cricket Club",
@@ -21229,6 +21579,13 @@
             "address": "Hammerwood Cricket Club, Hammerwood Park, East Grinstead",
             "postcode": "RH19 3QE",
             "id": "GB-CASC-87f98085",
+            "active": true
+        },
+        {
+            "name": "Hampden Park Bowls Club",
+            "address": "6 Hapden Park Drive, Eastbourne, East Sussex",
+            "postcode": null,
+            "id": "GB-CASC-defb1e41",
             "active": true
         },
         {
@@ -21267,11 +21624,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-2285d4e2",
             "name": "Hampton Rifle Club",
             "address": "Hydes Field, Upper Sunbury Road, Hampton, Middlesex",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-2285d4e2",
+            "active": true
         },
         {
             "name": "Hampton Wick Royal Cricket Club",
@@ -21379,6 +21736,13 @@
             "active": true
         },
         {
+            "name": "Harberton Cricket Club",
+            "address": "Stonehills, Harberton, Totnes",
+            "postcode": null,
+            "id": "GB-CASC-bee6bf00",
+            "active": true
+        },
+        {
             "name": "Harborne Cricket Club",
             "address": "OLD CHURCH AVENUE, HARBORNE, BIRMINGHAM",
             "postcode": "B17 0BE",
@@ -21463,11 +21827,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-086c138e",
             "name": "Harlequinn & Weston Sports",
             "address": "Rear of, 17 Weston Street, Portland, Dorset",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-086c138e",
+            "active": true
         },
         {
             "name": "Harleston Magpies Hockey Club",
@@ -21533,11 +21897,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-304fa32d",
             "name": "Harold Wood Cricket Club",
             "address": "The Pavilion, Harold Wood Park, Romford, Essex",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-304fa32d",
+            "active": true
         },
         {
             "name": "Harpenden & District Indoor Bowls Club",
@@ -21579,6 +21943,13 @@
             "address": "Cravells Road, Harpenden, Hertfordshire",
             "postcode": "AL5 1BA",
             "id": "GB-CASC-50f89cbe",
+            "active": true
+        },
+        {
+            "name": "Harpenden Rugby Football Club",
+            "address": "Harpenden Rugby Football Club, Redbourne Lane, Harpenden",
+            "postcode": null,
+            "id": "GB-CASC-3a6dc95a",
             "active": true
         },
         {
@@ -22002,11 +22373,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-77256f95",
             "name": "Hastings Te Hand",
             "address": "Hastings Te Hand, Parish Rooms, Wishingtree Road, Hollington,  St Leonards On Sea",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-77256f95",
+            "active": true
         },
         {
             "name": "Hastings and St Leonards Angling Associa Tion",
@@ -22093,11 +22464,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-7f6dd507",
             "name": "Haughton Cricket Club",
             "address": "Haughton Cricket Club, Bishopton Lane, Great Burdon, Darlington,  Co Durham",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-7f6dd507",
+            "active": true
         },
         {
             "name": "Havant Rugby Football Club Limited",
@@ -22244,6 +22615,13 @@
             "address": "Blackwater and Hawley Leisure Centre, Hawley Green, Blackwater, Camberley",
             "postcode": "GU17 9BN",
             "id": "GB-CASC-54f44e9e",
+            "active": true
+        },
+        {
+            "name": "Haworth Cricket Club",
+            "address": "West Lane, Haworth, West Yorkshire",
+            "postcode": null,
+            "id": "GB-CASC-abc6fb3d",
             "active": true
         },
         {
@@ -22457,11 +22835,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-aceedd86",
             "name": "Hearts of Beath Juniors Football Club",
             "address": "Hearts of Beath Juniors Football Cl, No 7 Pitches, Rowan Terrace, Cowdenbeath",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-aceedd86",
+            "active": true
         },
         {
             "name": "Heartsease St Francis Bowls Club",
@@ -22639,11 +23017,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-2b93181e",
             "name": "Hemel Hempstead Canoe Club",
             "address": "The Recreation Centre, Red Lion Lane, Hemel Hempstead, Herts",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-2b93181e",
+            "active": true
         },
         {
             "name": "Hemel Hempstead Town Cricket Club",
@@ -22709,11 +23087,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-dcfe989e",
             "name": "Hendy Rugby Football Club",
             "address": "7-11 Iscoed Road, Hendy, Pontarddulais, Carmarthenshire",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-dcfe989e",
+            "active": true
         },
         {
             "name": "Henfield Cricket Club",
@@ -22940,6 +23318,13 @@
             "active": true
         },
         {
+            "name": "Hertford Lawn Tennis Club",
+            "address": "Hartham Common, Hertford, Herts",
+            "postcode": null,
+            "id": "GB-CASC-b098574f",
+            "active": true
+        },
+        {
             "name": "Hertfordshire Microlight Club",
             "address": "Hertfordshire Microlight Club, Hilary, Old House Lane, Roydon,  Essex",
             "postcode": "CM19 5DJ",
@@ -22989,11 +23374,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-6cb79de6",
             "name": "Hesketh Bank Cricket Club",
             "address": "Station Road, Hesketh Bank, Nr Preston, Lancashire",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-6cb79de6",
+            "active": true
         },
         {
             "name": "Hessle Lawn Tennis Club",
@@ -23003,11 +23388,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-905af0b0",
             "name": "Heston and Hounslow Rifle Club",
             "address": "Heston And Hounslow Rifle Club, Green Lane, Hounslow, Middlesex",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-905af0b0",
+            "active": true
         },
         {
             "name": "Hetton Town Health & Boxing Club",
@@ -23059,6 +23444,13 @@
             "active": true
         },
         {
+            "name": "Hexham Rowing Club",
+            "address": "The Boathouse, Tyne Green, Hexham",
+            "postcode": null,
+            "id": "GB-CASC-9833b3f1",
+            "active": true
+        },
+        {
             "name": "Hexham Tennis Club Tynedale",
             "address": "9 MONKS TERRACE, HEXHAM",
             "postcode": "NE46 1HS",
@@ -23070,6 +23462,13 @@
             "address": "Heyes Grove Tennis Club, Off Park Road, Timperley, Altrincham,  Cheshire",
             "postcode": "WA15 6QU",
             "id": "GB-CASC-9445043f",
+            "active": true
+        },
+        {
+            "name": "Heyes Lane Tennis Club",
+            "address": "THE CIRCUIT, ALDERLEY EDGE",
+            "postcode": null,
+            "id": "GB-CASC-d6ad64fc",
             "active": true
         },
         {
@@ -23101,11 +23500,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-310c9990",
             "name": "High Easter Cricket Club",
             "address": "The Pleasance Ground, High Easter, Chelmsford, Essex",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-310c9990",
+            "active": true
         },
         {
             "name": "High Ercall Tennis Club",
@@ -23353,6 +23752,13 @@
             "active": true
         },
         {
+            "name": "Himley Hall Sailing Club",
+            "address": "Himley Country Park, Dudley, West Midlands",
+            "postcode": null,
+            "id": "GB-CASC-6be18dfa",
+            "active": true
+        },
+        {
             "name": "Hindley Platt Lane Bowling Club",
             "address": "Bowling Green and Pavilion, Platt Lane, Hindley",
             "postcode": "WN2 3RA",
@@ -23444,11 +23850,25 @@
             "active": true
         },
         {
-            "id": "GB-CASC-e3d1f937",
+            "name": "Hodnet and Peplow Cricket Club",
+            "address": "Hodnet, Nr Market Drayton, Shropshire",
+            "postcode": null,
+            "id": "GB-CASC-95e4dd36",
+            "active": true
+        },
+        {
             "name": "Hoghton Cricket Club",
             "address": "Hoghton Cricket Club, Smithy Brow, Blackburn Old Road, Hoghton,  Preston",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-e3d1f937",
+            "active": true
+        },
+        {
+            "name": "Hoghton Recreation Club",
+            "address": "",
+            "postcode": null,
+            "id": "GB-CASC-50935595",
+            "active": true
         },
         {
             "name": "Holbeach & Fenland Gymnastics Club",
@@ -23518,6 +23938,13 @@
             "address": "York Road, Holland-on-Sea, Essex",
             "postcode": "CO15 5NF",
             "id": "GB-CASC-93c77ccb",
+            "active": true
+        },
+        {
+            "name": "Hollies Lawn Tennis Club",
+            "address": "Tarporley Road, Whitchurch, Shropshire",
+            "postcode": null,
+            "id": "GB-CASC-e46b4169",
             "active": true
         },
         {
@@ -23661,6 +24088,13 @@
             "active": true
         },
         {
+            "name": "Holsworthy Bowling Club",
+            "address": "Stanhope Park, Holsworthy, Devon",
+            "postcode": null,
+            "id": "GB-CASC-99163e76",
+            "active": true
+        },
+        {
             "name": "Holt Bowls Club",
             "address": "Holt Bowls Club, The Street, Holt, Trowbridge",
             "postcode": "BA14 6RS",
@@ -23672,6 +24106,13 @@
             "address": "BRIDGE ROAD, HIGH KELLING, HOLT",
             "postcode": "NR25 6QT",
             "id": "GB-CASC-75e78a74",
+            "active": true
+        },
+        {
+            "name": "Holt and District Rifle and Pistol Club",
+            "address": "Heydon Road, Corpusty, Norfolk",
+            "postcode": null,
+            "id": "GB-CASC-41b515fd",
             "active": true
         },
         {
@@ -23756,6 +24197,13 @@
             "address": "13 WESTBROOK, MAIDENHEAD",
             "postcode": "SL6 2DQ",
             "id": "GB-CASC-622bd1d7",
+            "active": true
+        },
+        {
+            "name": "Homme Green Rifle Club",
+            "address": "Homme Green Rifle Club, Kingsthorne, Herefordshire",
+            "postcode": null,
+            "id": "GB-CASC-a8414250",
             "active": true
         },
         {
@@ -23864,11 +24312,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-47bdffa5",
             "name": "Horam Bowling Club",
             "address": "Horsham Bowling Club, Constance Scott Recreation Ground, East Bourne Road, Horam",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-47bdffa5",
+            "active": true
         },
         {
             "name": "Horley Bowling Club",
@@ -23913,11 +24361,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-0d1945d2",
             "name": "Horncastle Community Members Squash Club",
             "address": "Horncastle Community Members Squash Club, Hemingby Lane, Horncastle, Lincs",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-0d1945d2",
+            "active": true
         },
         {
             "name": "Horncastle Cricket Club",
@@ -24081,6 +24529,13 @@
             "active": true
         },
         {
+            "name": "Horstead Bowls Club",
+            "address": "Main Road, Horstead, Norwich",
+            "postcode": null,
+            "id": "GB-CASC-3274f3cf",
+            "active": true
+        },
+        {
             "name": "Horton Golf Club",
             "address": "Shoreham Road, Henfield, West Sussex",
             "postcode": "BN5 9XE",
@@ -24183,6 +24638,13 @@
             "address": "Old Elmhirst School Playing Fields, Ardsley Road, Worsborough, Barnsley",
             "postcode": "S70 4RG",
             "id": "GB-CASC-658bed6a",
+            "active": true
+        },
+        {
+            "name": "Huby Bowling Club",
+            "address": "Robin lane, Huby, York",
+            "postcode": null,
+            "id": "GB-CASC-6b2ad15d",
             "active": true
         },
         {
@@ -24361,6 +24823,13 @@
             "active": true
         },
         {
+            "name": "Huntingdon & District Cricket Club",
+            "address": "ST PETERS ROAD, HUNTINGDON, CAMBRIDGESHIRE",
+            "postcode": null,
+            "id": "GB-CASC-91c7d5b7",
+            "active": true
+        },
+        {
             "name": "Huntingdon Boat Club",
             "address": "Boat House, Riverside Park, Hartford Road, Huntingdon ,  Cambs",
             "postcode": "PE29 3RP",
@@ -24403,11 +24872,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-03e4b61d",
             "name": "Hursley Park Cricket Club",
             "address": "The Quarters, Hursley Park, Winchester, Hampshire",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-03e4b61d",
+            "active": true
         },
         {
             "name": "Hurst Bowling Club",
@@ -24844,6 +25313,13 @@
             "active": true
         },
         {
+            "name": "Ingleby Greenhow Cricket Club",
+            "address": "Broughton Road, Ingleby Greenhow",
+            "postcode": null,
+            "id": "GB-CASC-d60a4a3b",
+            "active": true
+        },
+        {
             "name": "Innellan Golf Club",
             "address": "Knockamillie Road, Innellan, Argyll",
             "postcode": "PA23 7SG",
@@ -25068,6 +25544,13 @@
             "active": true
         },
         {
+            "name": "Irvinestown Lawn Tennis Club",
+            "address": "Castle Street, Irvinestown, N Ireland",
+            "postcode": null,
+            "id": "GB-CASC-2fa21384",
+            "active": true
+        },
+        {
             "name": "Isca Centre Ltd",
             "address": "Summer Lane, Whipton, Exeter",
             "postcode": "EX4 8NT",
@@ -25075,11 +25558,18 @@
             "active": true
         },
         {
-            "id": "GB-CASC-ed08d819",
+            "name": "Isham Cricket Club",
+            "address": "Orlingbury Road, Isham, Northants",
+            "postcode": null,
+            "id": "GB-CASC-4eac0fd7",
+            "active": true
+        },
+        {
             "name": "Isis Aqua Ski Club",
             "address": "Caversham Lakes, Henley Road, Caversham, Berkshire",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-ed08d819",
+            "active": true
         },
         {
             "name": "Island Barn Reservoir Sailing Club",
@@ -25390,11 +25880,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-581ec5bf",
             "name": "Jubilee Gardens Bowling & Social Club",
             "address": "Jubilee Gardens Bowling & Social Club, Jubilee Drive, Thornton Cleveleys, Lancashire",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-581ec5bf",
+            "active": true
         },
         {
             "name": "Just4U Community Partnership",
@@ -25411,11 +25901,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-27ea89f0",
             "name": "Keelby Cricket Club",
             "address": "Keelby Cricket Club, Sports Pavilion, Stallingborough Road, Keelby,  Grimsby",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-27ea89f0",
+            "active": true
         },
         {
             "name": "Keelby Utd FC",
@@ -25565,6 +26055,13 @@
             "active": true
         },
         {
+            "name": "Kendal School of Gymnastics",
+            "address": "Romneys Kendal Mint Cake, Mintsfeet Road North, Kendal",
+            "postcode": null,
+            "id": "GB-CASC-8876e332",
+            "active": true
+        },
+        {
             "name": "Kendal Ski Club",
             "address": "Thorny Hills, Kendal, Cumbria",
             "postcode": "LA9 7AL",
@@ -25593,11 +26090,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-47e31959",
             "name": "Kenilworth Sword Fencing Club",
             "address": "St Johns Primary School, Mortimer Road, Kenilworth, Wark",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-47e31959",
+            "active": true
         },
         {
             "name": "Kenilworth Tennis and Squash Club",
@@ -25719,11 +26216,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-5c5e6b3f",
             "name": "Kerry Bowling Club",
             "address": "Kerry Bowling Club, The Green, Kerry, Powys",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-5c5e6b3f",
+            "active": true
         },
         {
             "name": "Kesgrave Panthers Cycle Speedway Club",
@@ -25775,11 +26272,18 @@
             "active": true
         },
         {
-            "id": "GB-CASC-41780eba",
             "name": "Kettering Town Harriers",
             "address": "Kettering Town Harriers, Thurston Drive, Kettering, Northants",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-41780eba",
+            "active": true
+        },
+        {
+            "name": "Kettering Weight Training  Club",
+            "address": "90 Bath Road, Kettering, Northants",
+            "postcode": null,
+            "id": "GB-CASC-8b45413b",
+            "active": true
         },
         {
             "name": "Kew Cricket Club",
@@ -25933,6 +26437,13 @@
             "address": "7 MANOR DRIVE, HARROGATE",
             "postcode": "HG2 0HR",
             "id": "GB-CASC-58a90191",
+            "active": true
+        },
+        {
+            "name": "Killingholme Fullbore Club",
+            "address": "Killingholme Fullbore Club, Killiingholme Airfield, North Lincolnshire",
+            "postcode": null,
+            "id": "GB-CASC-f1d7ea71",
             "active": true
         },
         {
@@ -26258,6 +26769,13 @@
             "active": true
         },
         {
+            "name": "Kingston Lacy Cricket Club",
+            "address": "Pamphill Green, Wimborne, Dorset",
+            "postcode": null,
+            "id": "GB-CASC-02ead6dc",
+            "active": true
+        },
+        {
             "name": "Kingston Rowing Club Limited",
             "address": "THE BOATHOUSE, LOWER HAM ROAD, KINGSTON UPON THAMES",
             "postcode": "KT2 5AU",
@@ -26356,6 +26874,13 @@
             "active": true
         },
         {
+            "name": "Kippen Tennis Club",
+            "address": "",
+            "postcode": null,
+            "id": "GB-CASC-f1295c16",
+            "active": true
+        },
+        {
             "name": "Kirby Le Soken Bowls Club",
             "address": "Kirby Playing Fields, Halstead Road, Kirby Cross, Essex",
             "postcode": "CO13 0LW",
@@ -26374,6 +26899,13 @@
             "address": "400 RATBY LANE, KIRBY MUXLOE, LEICESTER",
             "postcode": "LE9 2AQ",
             "id": "GB-CASC-56d19913",
+            "active": true
+        },
+        {
+            "name": "Kirby Muxloe Sports & Village Club",
+            "address": "Ratby Lane, Kirby Muxloe, Leicester",
+            "postcode": null,
+            "id": "GB-CASC-28f2a7de",
             "active": true
         },
         {
@@ -26608,6 +27140,13 @@
             "active": true
         },
         {
+            "name": "Knaresborough Rugby Union F C Ltd",
+            "address": "Knaresborough Rugby Union F C, Hay-A-Park Lane, Knaresborough",
+            "postcode": null,
+            "id": "GB-CASC-214e41cd",
+            "active": true
+        },
+        {
             "name": "Knaresborough Tennis Club",
             "address": "King James's School, Knaresborough, North Yorkshire",
             "postcode": "HG5 8EB",
@@ -26615,11 +27154,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-e1fa62c9",
             "name": "Knayton F C",
             "address": "Hillside Rural Activities Park, Knayton, Thirsk, N Yorks",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-e1fa62c9",
+            "active": true
         },
         {
             "name": "Knighton Golf Club",
@@ -26699,11 +27238,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-be577f04",
             "name": "Knowle Hill Tennis Club",
             "address": "King George V Playing Field, Trumps Green Road, Virginia Water, Surrey",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-be577f04",
+            "active": true
         },
         {
             "name": "Knowle Lawn Tennis Club",
@@ -26930,11 +27469,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-1ad83ce7",
             "name": "Lanchester Cricket Club",
             "address": "Ashley Park, Kitswell Road, Lanchester, Co. Durham",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-1ad83ce7",
+            "active": true
         },
         {
             "name": "Lancing Bowling Club",
@@ -27119,11 +27658,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-28f68155",
             "name": "Lapford a F C",
             "address": "Lapford A F C, Edgerley Lane, Lapford, Nr Crediton,  Devon",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-28f68155",
+            "active": true
         },
         {
             "name": "Lapworth Cricket Club",
@@ -27448,11 +27987,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-1e964fbe",
             "name": "Leen Valley Golf Club",
             "address": "Leen Valley Golf Club, Wigwam Lane, Hucknall, Nottingham",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-1e964fbe",
+            "active": true
         },
         {
             "name": "Leicester & District Small Bore Rifle an D Pistol Club",
@@ -27791,6 +28330,13 @@
             "active": true
         },
         {
+            "name": "Leyburn Community Leisure Club",
+            "address": "GROVE SQUARE, LEYBURN",
+            "postcode": null,
+            "id": "GB-CASC-b34f6d7f",
+            "active": true
+        },
+        {
             "name": "Leyland Fox Lane Sports Club",
             "address": "Fox Lane, Leyland, Lancashire",
             "postcode": "PR25 1HB",
@@ -28085,11 +28631,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-77e7b320",
             "name": "Lintz Cricket Club Limited",
             "address": "LUMLEY GARDENS, LINTZ, BURNOPFIELD, NEWCASTLE UPON TYNE",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-77e7b320",
+            "active": true
         },
         {
             "name": "Lionhearts Cruising Club",
@@ -28155,11 +28701,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-5c61d785",
             "name": "Lissummon Gac",
             "address": "Leish Road, Lissummon, Newry, Co. Armagh",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-5c61d785",
+            "active": true
         },
         {
             "name": "Lister Tennis Club",
@@ -28229,6 +28775,13 @@
             "address": "Little Common Recreation Ground, Green Lane, Little Common, Bexhill-On-Sea",
             "postcode": "TN39 4PH",
             "id": "GB-CASC-1c8d594f",
+            "active": true
+        },
+        {
+            "name": "Little Eaton Bowls Club",
+            "address": "St Peter's Park, Little Eaton, Derby",
+            "postcode": null,
+            "id": "GB-CASC-68c9f5b2",
             "active": true
         },
         {
@@ -28498,11 +29051,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-0e9cce6c",
             "name": "Llanelli Athletic Club",
             "address": "Stebonheath Park, Evans Terrace, Llanelli, Carmarthenshire",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-0e9cce6c",
+            "active": true
         },
         {
             "name": "Llanelli Cricket Club",
@@ -28663,6 +29216,13 @@
             "address": "THE CLUBHOUSE, BANAVIE, FORT WILLIAM",
             "postcode": "PH33 7LY",
             "id": "GB-CASC-7f51248d",
+            "active": true
+        },
+        {
+            "name": "Lochaber Yacht Club",
+            "address": "Auchintore Rd, Fort William",
+            "postcode": null,
+            "id": "GB-CASC-2f12624c",
             "active": true
         },
         {
@@ -28960,6 +29520,20 @@
             "active": true
         },
         {
+            "name": "Long Sutton Bowls Club",
+            "address": "Park Road, Long Sutton, Lincs",
+            "postcode": null,
+            "id": "GB-CASC-6e4d21c3",
+            "active": true
+        },
+        {
+            "name": "Long Sutton Cricket and Hockey Club",
+            "address": "",
+            "postcode": null,
+            "id": "GB-CASC-e30610d2",
+            "active": true
+        },
+        {
             "name": "Long Yang Club Badminton London",
             "address": "FLAT 8, 300 STEPNEY WAY, LONDON",
             "postcode": "E1 3DW",
@@ -28981,11 +29555,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-eb472831",
             "name": "Longley Community Sports Club",
             "address": "Longley Community Sports Club, Longley Road, Almondbury, Huddersfield",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-eb472831",
+            "active": true
         },
         {
             "name": "Longley Park Golf Club",
@@ -29198,6 +29772,13 @@
             "active": true
         },
         {
+            "name": "Lower Halstow Yacht Club",
+            "address": "Sheerness Road, Lower Halstow, Kent",
+            "postcode": null,
+            "id": "GB-CASC-76fdc354",
+            "active": true
+        },
+        {
             "name": "Lower Wharfe Canoe Club",
             "address": "32 WESTGATE, TADCASTER",
             "postcode": "LS24 9AB",
@@ -29226,11 +29807,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-5d1d7368",
             "name": "Lowestoft Rowing Club",
             "address": "Norfolk & Suffolk Boathouse, Oulton Broad Water Sports Centre, Nicholas EverittPArk, Oulton Broad,  Lowestoft",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-5d1d7368",
+            "active": true
         },
         {
             "name": "Lowestoft and Yarmouth Rugby Union Footb  All Club",
@@ -29240,11 +29821,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-58108bd4",
             "name": "Lowick Football Club",
             "address": "Lowick Football Club, Main Street, Lowick, Berwick Upon Tweed",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-58108bd4",
+            "active": true
         },
         {
             "name": "Lowlands Club",
@@ -29261,11 +29842,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-8fea4dee",
             "name": "Luddesdowne Cricket Club",
             "address": "Luddesdowne Cricket Club, The Old Rectory Ground, Luddesdowne, Kent",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-8fea4dee",
+            "active": true
         },
         {
             "name": "Ludgvan Lions Junior Football Club",
@@ -29520,6 +30101,13 @@
             "active": true
         },
         {
+            "name": "Lyme Regis Bowling Club",
+            "address": "Monmouth Beach, LymeRegis, Dorset",
+            "postcode": null,
+            "id": "GB-CASC-f658d562",
+            "active": true
+        },
+        {
             "name": "Lyme Regis Gig Club",
             "address": "SLEECHWOOD, TALBOT ROAD, LYME REGIS",
             "postcode": "DT7 3BB",
@@ -29608,6 +30196,13 @@
             "address": "735 DURHAM ROAD, GATESHEAD",
             "postcode": "NE9 6AR",
             "id": "GB-CASC-cade86ae",
+            "active": true
+        },
+        {
+            "name": "Lyndhurst Football Club",
+            "address": "Wellands Road, Lyndhurst, Hampshire",
+            "postcode": null,
+            "id": "GB-CASC-87fdd65c",
             "active": true
         },
         {
@@ -29702,6 +30297,13 @@
             "active": true
         },
         {
+            "name": "Madden Gaelic Athletic Club",
+            "address": "Monaghan Road, Armagh",
+            "postcode": null,
+            "id": "GB-CASC-247a2259",
+            "active": true
+        },
+        {
             "name": "Madehurst Cricket Club",
             "address": "Madehurst Cricket Club, The Madehurst Bowl, Dale Park, Madehurst,  Arundel",
             "postcode": "BN18 0NN",
@@ -29716,18 +30318,18 @@
             "active": true
         },
         {
-            "id": "GB-CASC-6144a112",
             "name": "Madeley Sports",
             "address": "c/o 108 Stonedale, Suttonhill, Telford, Shropshire",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-6144a112",
+            "active": true
         },
         {
-            "id": "GB-CASC-0d0484fd",
             "name": "Madley Tennis Club",
             "address": "Madley Tennis Club, Brampton Road, Madley, Hereford",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-0d0484fd",
+            "active": true
         },
         {
             "name": "Madras College FP RFC",
@@ -29863,11 +30465,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-ac51cae7",
             "name": "Maidenhead Thicket Bowling Club",
             "address": "The Shire Horseinn, Bath Road, Maidenhead, Berks",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-ac51cae7",
+            "active": true
         },
         {
             "name": "Maidenhead Town Bowls Club",
@@ -30199,11 +30801,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-c040e093",
             "name": "Mareham Bowls Club",
             "address": "Main Street, Mareham Le Fen, Boston, Lincs",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-c040e093",
+            "active": true
         },
         {
             "name": "Mareham United Football Club",
@@ -30570,6 +31172,13 @@
             "active": true
         },
         {
+            "name": "Mauchline Bowling Club",
+            "address": "Rankine Drive, Mauchline, Ayrshire",
+            "postcode": null,
+            "id": "GB-CASC-aed68e64",
+            "active": true
+        },
+        {
             "name": "Mawdesley Cricket Club",
             "address": "Rob Hales, 1 Gorsey Lane, Mawdesley, Ormskirk,  Lancs",
             "postcode": "L40 3TE",
@@ -30647,11 +31256,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-7c807ac6",
             "name": "Measham Bowls Club",
             "address": "Off High Street, Measham, Swadlincote, Derby",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-7c807ac6",
+            "active": true
         },
         {
             "name": "Medstead Bowls Club",
@@ -30829,11 +31438,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-269a07df",
             "name": "Meopham Cricket Club",
             "address": "Meopham Cricket Club, The Pavilion, Meopham Green, Meopham,  Kent",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-269a07df",
+            "active": true
         },
         {
             "name": "Meopham Table Tennis Club",
@@ -30955,11 +31564,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-6220b808",
             "name": "Mersham Le Hatch Cricket Club",
             "address": "Hatch Park, Hythe Road (A20), Smeeth, Ashford,  Kent",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-6220b808",
+            "active": true
         },
         {
             "name": "Merstham Cricket Club",
@@ -31116,11 +31725,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-b14af2c4",
             "name": "Middlesbrough a C (Mandale)",
             "address": "Middlesbrough A C (Mandale), ClairvilleStadium, Park Road South, Middlesbrough",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-b14af2c4",
+            "active": true
         },
         {
             "name": "Middleton Select Amateur Boxing Club",
@@ -31662,18 +32271,18 @@
             "active": true
         },
         {
-            "name": "Molesey Boat Club",
-            "address": "BARGE WALK, EAST MOLESEY",
-            "postcode": "KT8 9AJ",
             "id": "GB-CASC-18ba8f07",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-8c1ccfa0",
             "name": "Molesey Boat Club",
             "address": "BARGE WALK, EAST MOLESEY",
             "postcode": "KT8 9AJ",
             "active": false
+        },
+        {
+            "name": "Molesey Boat Club",
+            "address": "BARGE WALK, EAST MOLESEY",
+            "postcode": "KT8 9AJ",
+            "id": "GB-CASC-8c1ccfa0",
+            "active": true
         },
         {
             "name": "Moneyslane Football Club",
@@ -31743,6 +32352,13 @@
             "address": "OLD DRUIDS HEAD, CHIPPENHAMGATE STREET, MONMOUTH",
             "postcode": "NP25 3DG",
             "id": "GB-CASC-03517b2c",
+            "active": true
+        },
+        {
+            "name": "Monmouth Town Football Club",
+            "address": "Monmouth Town Football Club, The Sportsground, Monmouth",
+            "postcode": null,
+            "id": "GB-CASC-bdb45685",
             "active": true
         },
         {
@@ -31823,11 +32439,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-b0508d6c",
             "name": "Moorways Crown Green Bowls Club",
             "address": "The Pavilion, Osmaston Park, Moor Lane, Derby",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-b0508d6c",
+            "active": true
         },
         {
             "name": "Morebath Cricket Club",
@@ -31911,6 +32527,13 @@
             "address": "The Clubhouse, Morpeth, Northumberland",
             "postcode": "NE61 2BT",
             "id": "GB-CASC-a863125b",
+            "active": true
+        },
+        {
+            "name": "Morpeth Harriers & Athletic Club",
+            "address": "",
+            "postcode": null,
+            "id": "GB-CASC-d013aace",
             "active": true
         },
         {
@@ -32306,11 +32929,18 @@
             "active": true
         },
         {
-            "id": "GB-CASC-ee55cf00",
             "name": "Navenby Bowls Club",
             "address": "Navenby Bowls Club, John Cutforth Memorial Playing Field, Pottergate Road, Navenby,  Lincoln",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-ee55cf00",
+            "active": true
+        },
+        {
+            "name": "Nazeing Common Cricket Club",
+            "address": "Opposite Sun Inn, Nazeing Common, Essex",
+            "postcode": null,
+            "id": "GB-CASC-6a4bf32a",
+            "active": true
         },
         {
             "name": "Neath Athletic Rugby Football Club Ltd",
@@ -32635,6 +33265,13 @@
             "active": true
         },
         {
+            "name": "Newburgh Juniors FC",
+            "address": "East Shore Park, Coach Road, Newburgh",
+            "postcode": null,
+            "id": "GB-CASC-a7481f0e",
+            "active": true
+        },
+        {
             "name": "Newbury & Thatcham Hockey Club",
             "address": "NEWBURY & THATCHAM HOCKEY CLUB, HENWICK WORTHY PLAYING FIELDS, HENWICK LANE, THATCHAM",
             "postcode": "RG18 3BN",
@@ -32747,6 +33384,13 @@
             "active": true
         },
         {
+            "name": "Newent Rugby Football Club",
+            "address": "The Recreation Ground, Watery Lane, Newent",
+            "postcode": null,
+            "id": "GB-CASC-7cc25d0e",
+            "active": true
+        },
+        {
             "name": "Newham & Essex Beagles a C",
             "address": "Newham & Essex Beagles A C, McMillan Stadium, Newham Leisure Centre, 281 PrinceRegent Lane,  Plaistow",
             "postcode": "E13 8SD",
@@ -32761,11 +33405,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-fbb45a63",
             "name": "Newhaven Bowling Club",
             "address": "Newhaven Bowling Club, Fort Road, Newhaven, East Sussex",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-fbb45a63",
+            "active": true
         },
         {
             "name": "Newhaven Cricket Club",
@@ -32901,11 +33545,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-b0f34d5a",
             "name": "Newport Pagnell Bowls Club Ltd",
             "address": "Castle Meadow, Tickford Street, NewportPagnell, Bucks",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-b0f34d5a",
+            "active": true
         },
         {
             "name": "Newport Pagnell Tennis Club",
@@ -32922,11 +33566,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-7e03fab7",
             "name": "Newport Village Tennis Club",
             "address": "Newport Village Tennis Club, Gaces Acre, Newport, Essex",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-7e03fab7",
+            "active": true
         },
         {
             "name": "Newquay Association Football Club",
@@ -33104,11 +33748,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-c1835cea",
             "name": "Norbury Amalgamated Sports Club",
             "address": "Norbury Playing Fields, Off Chester Road, Hazel Grove, Stockport,  Cheshire",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-c1835cea",
+            "active": true
         },
         {
             "name": "Nordic Divers British Sub-Aqua Club",
@@ -33125,18 +33769,18 @@
             "active": true
         },
         {
-            "name": "Norfolk Bowmen",
-            "address": "60 HAVERSCROFT CLOSE, TAVERHAM, NORWICH",
-            "postcode": "NR8 6LU",
             "id": "GB-CASC-e98b7a57",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-5c7166e5",
             "name": "Norfolk Bowmen",
             "address": "60 HAVERSCROFT CLOSE, TAVERHAM, NORWICH",
             "postcode": "NR8 6LU",
             "active": false
+        },
+        {
+            "name": "Norfolk Bowmen",
+            "address": "60 HAVERSCROFT CLOSE, TAVERHAM, NORWICH",
+            "postcode": "NR8 6LU",
+            "id": "GB-CASC-5c7166e5",
+            "active": true
         },
         {
             "name": "Norfolk Brawds Roller Derby",
@@ -33321,11 +33965,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-ce366fdc",
             "name": "North East Lincolnshire Target Club",
             "address": "Bradley Range, Bradley Road, Grimsby, NE Lincolnshire",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-ce366fdc",
+            "active": true
         },
         {
             "name": "North Haven Yacht Club",
@@ -33339,6 +33983,13 @@
             "address": "Hayes Stadium, Judge Heath Lane, Hayes, Middlesex",
             "postcode": "UB3 2PF",
             "id": "GB-CASC-56fe5f05",
+            "active": true
+        },
+        {
+            "name": "North Herts & East Beds Sailing Club",
+            "address": "The Blue Lagoon, Arlesey, Bedfordshire",
+            "postcode": null,
+            "id": "GB-CASC-4b1aea8e",
             "active": true
         },
         {
@@ -33360,6 +34011,13 @@
             "address": "Old Park Road, Leeds 8",
             "postcode": "LS8 1JX",
             "id": "GB-CASC-b0afafac",
+            "active": true
+        },
+        {
+            "name": "North Lincolnshire & Humberside Sailing Club",
+            "address": "Barrow  Mere, Barton-On-Humber, North Lincolnshire",
+            "postcode": null,
+            "id": "GB-CASC-a7f9251e",
             "active": true
         },
         {
@@ -33475,6 +34133,13 @@
             "active": true
         },
         {
+            "name": "North Shields Polytechnic Athletics Club",
+            "address": "Hartley Avenue, Churchill Playing Fields, Whitley Bay",
+            "postcode": null,
+            "id": "GB-CASC-6a6439a2",
+            "active": true
+        },
+        {
             "name": "North Shields Rugby Football Club",
             "address": "North Shields Rugby Football Club, Preston Playing Fields, Preston Village, North Shields,  Tyne & Wear",
             "postcode": "NE29 9ND",
@@ -33514,6 +34179,13 @@
             "address": "Village Hall & Recreation Ground, North Stainley, Ripon",
             "postcode": "HG4 3JT",
             "id": "GB-CASC-757d5cd6",
+            "active": true
+        },
+        {
+            "name": "North Tawton Bowling Club",
+            "address": "North Street, North Tawton, Devon",
+            "postcode": null,
+            "id": "GB-CASC-54bf6207",
             "active": true
         },
         {
@@ -33692,11 +34364,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-86aa4041",
             "name": "Northern Parade Bowls Association",
             "address": "Northern Parade Bowls Association, Northern Parade, Portsmouth, Hants",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-86aa4041",
+            "active": true
         },
         {
             "name": "Northfleet Bowling Club",
@@ -33874,11 +34546,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-54af3b57",
             "name": "Norwich Premier Judo Club",
             "address": "Norwich Premier Judo Club, Sportspark, University Of East Anglia, Earlham Road, Norwich",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-54af3b57",
+            "active": true
         },
         {
             "name": "Norwich Rowing Club",
@@ -34119,11 +34791,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-86924188",
             "name": "Oadby Owls F C",
             "address": "Oadby Owls F C, Coombe Park, Coombe Rise, Oadby,  Leicester",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-86924188",
+            "active": true
         },
         {
             "name": "Oadby and Wigston Girls F C",
@@ -34147,11 +34819,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-d5307d62",
             "name": "Oakfield Cricket Club",
             "address": "Oakfield Cricket Club, Sheaf And Sickle, Coventry Road, Long Lawford,  Rugby",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-d5307d62",
+            "active": true
         },
         {
             "name": "Oakham Bowling Club",
@@ -34284,6 +34956,13 @@
             "address": "Mill Road, Okehampton, Devon",
             "postcode": "EX20 1PW",
             "id": "GB-CASC-da90590e",
+            "active": true
+        },
+        {
+            "name": "Okehampton Argyle Football Club",
+            "address": "Simmons Park, Okehampton, Devon",
+            "postcode": null,
+            "id": "GB-CASC-f330c1ac",
             "active": true
         },
         {
@@ -34455,11 +35134,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-d45b0e05",
             "name": "Old Dorkinian Cricket Club",
             "address": "Old Dorkinian Cricket Club, Meadowbank Recreation Ground, Dorking, Surrey",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-d45b0e05",
+            "active": true
         },
         {
             "name": "Old Elizabethans Cricket Club",
@@ -34777,11 +35456,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-875ce130",
             "name": "Ophir Rugby Football Club",
             "address": "Magowan Park, The Cottonmount, Mallusk, Newtonabbey,  Co Antrim",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-875ce130",
+            "active": true
         },
         {
             "name": "Optima Racing Team",
@@ -34795,6 +35474,13 @@
             "address": "Victoria Park, Park Avenue, Belfast",
             "postcode": "BT4 1JT",
             "id": "GB-CASC-fe3ab26d",
+            "active": true
+        },
+        {
+            "name": "Orbiston Bowling Club",
+            "address": "Liberty Road, Bellshill, North Lanarkshire",
+            "postcode": null,
+            "id": "GB-CASC-af82263a",
             "active": true
         },
         {
@@ -34980,11 +35666,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-3aba656a",
             "name": "Otford United Football Club",
             "address": "Otford United Football Club, Otford Recreation Ground, High Street, \"Otford,  Kent\"",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-3aba656a",
+            "active": true
         },
         {
             "name": "Otley Athletic Club",
@@ -35026,6 +35712,13 @@
             "address": "OTTERSHAW MEMORIAL FIELDS, FOXHILLS ROAD, OTTERSHAW, CHERTSEY",
             "postcode": "KT16 0NQ",
             "id": "GB-CASC-cceb4bf7",
+            "active": true
+        },
+        {
+            "name": "Ottery St Mary Bowling Club",
+            "address": "Strawberry Lane, Ottery St Mary, Devon",
+            "postcode": null,
+            "id": "GB-CASC-47facb47",
             "active": true
         },
         {
@@ -35526,6 +36219,13 @@
             "active": true
         },
         {
+            "name": "Parkstone Gun Club",
+            "address": "Rear of 3askells Road, Poole, Dorset",
+            "postcode": null,
+            "id": "GB-CASC-c6ead4ba",
+            "active": true
+        },
+        {
             "name": "Parkwood Lawn Tennis Club",
             "address": "21 ACREFIELD DRIVE, RAWTENSTALL, ROSSENDALE",
             "postcode": "BB4 8DU",
@@ -35603,11 +36303,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-1631fcc0",
             "name": "Peadar O'Doirnin GAA Forkhill",
             "address": "Bog Road, Forkhill, Newry, Co. Down",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-1631fcc0",
+            "active": true
         },
         {
             "name": "Peak Dale Bowling Club",
@@ -35621,6 +36321,13 @@
             "address": "6A DALTON ROAD, ARMAGH",
             "postcode": "BT60 4AE",
             "id": "GB-CASC-8fdba04d",
+            "active": true
+        },
+        {
+            "name": "Pearse's Gac Kilrea",
+            "address": "Drumagarner Road, Kilrea, Co. Derry",
+            "postcode": null,
+            "id": "GB-CASC-e19587d5",
             "active": true
         },
         {
@@ -35848,11 +36555,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-d2d884b3",
             "name": "Penrhiwpal Shooting Club",
             "address": "Penrhiwpal Shooting Club, Penrhiwpal, Troed Yr Aur, Ceredigion,  Wales",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-d2d884b3",
+            "active": true
         },
         {
             "name": "Penrith Association Football Club",
@@ -35925,6 +36632,13 @@
             "active": true
         },
         {
+            "name": "Penzance Bowling Club",
+            "address": "The Promonade, Penzance, Cornwall",
+            "postcode": null,
+            "id": "GB-CASC-c2bce211",
+            "active": true
+        },
+        {
             "name": "Penzance Canoe Club",
             "address": "Penzance Canoe Club, Shed 6, Albert Pier, Penzance",
             "postcode": "TR18 2LL",
@@ -35950,6 +36664,13 @@
             "address": "Penzance Tennis Club, Penlee Park, Penzance",
             "postcode": "TR18 4HE",
             "id": "GB-CASC-b9dc6dce",
+            "active": true
+        },
+        {
+            "name": "Peppard Lawn Tennis Club",
+            "address": "Peppard Common, Henley On Thames, Oxfordshire",
+            "postcode": null,
+            "id": "GB-CASC-e2d34c5e",
             "active": true
         },
         {
@@ -36429,18 +37150,18 @@
             "active": true
         },
         {
-            "name": "Plymouth (Sir Francis Drake) Bowling Clu  B",
-            "address": "Whiteford Road, Mannamead, Plymouth",
-            "postcode": "PL3 5LZ",
             "id": "GB-CASC-43f1a315",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-45c8e233",
             "name": "Plymouth (Sir Francis Drake) Bowling Clu  B",
             "address": "Whiteford Road, Mannamead, Plymouth",
             "postcode": "PL3 5LZ",
             "active": false
+        },
+        {
+            "name": "Plymouth (Sir Francis Drake) Bowling Clu  B",
+            "address": "Whiteford Road, Mannamead, Plymouth",
+            "postcode": "PL3 5LZ",
+            "id": "GB-CASC-45c8e233",
+            "active": true
         },
         {
             "name": "Plymouth Amateur Rowing Club",
@@ -36905,6 +37626,13 @@
             "active": true
         },
         {
+            "name": "Portland United Football Club",
+            "address": "Portland United Football Club, Grove Road, Portland",
+            "postcode": null,
+            "id": "GB-CASC-2b63d06d",
+            "active": true
+        },
+        {
             "name": "Portland Victoria Bowling Club",
             "address": "Portland Victoria Bowling Club, Victoria Gardens, Portland, Dorset",
             "postcode": "DT5 1AH",
@@ -37010,18 +37738,18 @@
             "active": true
         },
         {
+            "name": "Portsmouth Victoria Swimming Club",
+            "address": "91 HATHERLEY CRESCENT, FAREHAM",
+            "postcode": "PO16 9TW",
             "id": "GB-CASC-495848fe",
+            "active": true
+        },
+        {
+            "id": "GB-CASC-9b27091d",
             "name": "Portsmouth Victoria Swimming Club",
             "address": "91 HATHERLEY CRESCENT, FAREHAM",
             "postcode": "PO16 9TW",
             "active": false
-        },
-        {
-            "name": "Portsmouth Victoria Swimming Club",
-            "address": "91 HATHERLEY CRESCENT, FAREHAM",
-            "postcode": "PO16 9TW",
-            "id": "GB-CASC-9b27091d",
-            "active": true
         },
         {
             "name": "Portsoy Coastal Rowing Club",
@@ -37035,6 +37763,13 @@
             "address": "17 LIPIZZANER FIELDS, WHITELEY, FAREHAM",
             "postcode": "PO15 7BH",
             "id": "GB-CASC-38068eea",
+            "active": true
+        },
+        {
+            "name": "Potten End Cricket Club",
+            "address": "Homefield, Potten End, Herts",
+            "postcode": null,
+            "id": "GB-CASC-7f9966b0",
             "active": true
         },
         {
@@ -37185,11 +37920,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-7459a456",
             "name": "Preston on Tees Cricket Club",
             "address": "Wass Way, Durham Lane, Industrial Park, Eaglescliffe,  Stockton-On-Tees",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-7459a456",
+            "active": true
         },
         {
             "name": "Prestwick Howie Bowling Club",
@@ -37388,6 +38123,13 @@
             "active": true
         },
         {
+            "name": "Quatt Cricket Club",
+            "address": "Bridgnorth 20, Quatt",
+            "postcode": null,
+            "id": "GB-CASC-310636af",
+            "active": true
+        },
+        {
             "name": "Queenborough Bowls Club",
             "address": "Borough Road, Queenborough, Isle of Sheppey, Kent",
             "postcode": "ME11 5DN",
@@ -37535,11 +38277,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-d66ae211",
             "name": "Rainford Cricket Club",
             "address": "Silver Jubilee Recreation Ground, Church Road, Rainford, St Helens",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-d66ae211",
+            "active": true
         },
         {
             "name": "Rainford Rangers Junior Football Club",
@@ -37570,18 +38312,18 @@
             "active": true
         },
         {
-            "name": "Rainham Cricket Club",
-            "address": "BERENGROVE PARK, BERENGRAVE LANE, RAINHAM, KENT",
-            "postcode": "ME8 7NA",
             "id": "GB-CASC-f7d93399",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-a3573619",
             "name": "Rainham Cricket Club",
             "address": "BERENGROVE PARK, BERENGRAVE LANE, RAINHAM, KENT",
             "postcode": "ME8 7NA",
             "active": false
+        },
+        {
+            "name": "Rainham Cricket Club",
+            "address": "BERENGROVE PARK, BERENGRAVE LANE, RAINHAM, KENT",
+            "postcode": "ME8 7NA",
+            "id": "GB-CASC-a3573619",
+            "active": true
         },
         {
             "name": "Rainy City Rollergirls Ltd",
@@ -37749,6 +38491,13 @@
             "address": "RAVENSWORTH GOLF CLUB, ANGEL VIEW, LONG BANK, EIGHTON BANKS",
             "postcode": "NE9 7NE",
             "id": "GB-CASC-8498da73",
+            "active": true
+        },
+        {
+            "name": "Rawdon Park Bowling Club",
+            "address": "Bowling Green, Midklefield Park, Rawdon",
+            "postcode": null,
+            "id": "GB-CASC-ccd93d5c",
             "active": true
         },
         {
@@ -38298,11 +39047,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-fbb343c5",
             "name": "Rickmansworth 1998 Water Ski Club",
             "address": "Rickmansworth 1998 Water Ski Club, The Boathouse, Batchworth Lake, \"Rickmansworth,  Aquadrome\"",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-fbb343c5",
+            "active": true
         },
         {
             "name": "Rickmansworth Hockey Club Limited",
@@ -38452,11 +39201,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-cf126e9d",
             "name": "Riverside (Tonbridge) Bowls Club",
             "address": "Riverside (Tonbridge) Bowls Club, Avebury Avenue, Tonbridge, Kent",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-cf126e9d",
+            "active": true
         },
         {
             "name": "Riverside Indoor Bowling Club",
@@ -38543,11 +39292,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-00cff82b",
             "name": "Roche Aero Club",
             "address": "Roche Aero Club, Woodlands Barton Farm, Tremodrett, Roche,  St Austell",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-00cff82b",
+            "active": true
         },
         {
             "name": "Rochester United FC",
@@ -38613,6 +39362,13 @@
             "active": true
         },
         {
+            "name": "Rockcliffe Bowling and Tennis Club",
+            "address": "Victoria Park, The Promenade, Whitley  Bay",
+            "postcode": null,
+            "id": "GB-CASC-ece400f5",
+            "active": true
+        },
+        {
             "name": "Rockhampton Cricket Club",
             "address": "Rockhampton Cricket Club, The Pavilion, The Common, Rockhampton,  Berkeley",
             "postcode": "GL13 9DT",
@@ -38669,6 +39425,13 @@
             "active": true
         },
         {
+            "name": "Rogate Bowling Club",
+            "address": "North Road Recreation Ground, Rogate, West Sussex",
+            "postcode": null,
+            "id": "GB-CASC-f6861985",
+            "active": true
+        },
+        {
             "name": "Roger Casements GAC",
             "address": "66K MAIN STREET, PORTGLENONE, BALLYMENA",
             "postcode": "BT44 8HS",
@@ -38690,11 +39453,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-c161f050",
             "name": "Romford Rifle and Pistol Club",
             "address": "Helen Road Sports Ground, Helen Road, Ardleigh Green, Hornchurch,  Essex",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-c161f050",
+            "active": true
         },
         {
             "name": "Romford and Gidea Park R F C",
@@ -38725,11 +39488,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-7b119e3e",
             "name": "Roose Pioneers Amateur Rugby League Foot Ball Club",
             "address": "Redwaters, Flass Lane, Barrow in Furness, Cumbria",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-7b119e3e",
+            "active": true
         },
         {
             "name": "Ropley Lawn Tennis Club",
@@ -38886,11 +39649,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-4a777cfd",
             "name": "Rotherfield Sports Club",
             "address": "The Pavillion, Recreation Ground, NorthStreet, Rotherfield,  East Sussex",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-4a777cfd",
+            "active": true
         },
         {
             "name": "Rotherham Harriers & Athletics Club",
@@ -38925,6 +39688,13 @@
             "address": "MOUNTSORREL LANE, ROTHLEY, LEICESTER",
             "postcode": "LE7 7PS",
             "id": "GB-CASC-2fd73c9b",
+            "active": true
+        },
+        {
+            "name": "Rothley Ivanhoe Tennis Club",
+            "address": "Mount Sorrell Lane, Rothley, Leics",
+            "postcode": null,
+            "id": "GB-CASC-1e08425b",
             "active": true
         },
         {
@@ -39131,6 +39901,13 @@
             "active": true
         },
         {
+            "name": "Royal Tunbridge Wells Croquet Club",
+            "address": "Calverley Grounds, Tunbridge Wells, Kent",
+            "postcode": null,
+            "id": "GB-CASC-07ee439f",
+            "active": true
+        },
+        {
             "name": "Royal Tunbridge Wells District Indoor Bo WLS Club",
             "address": "High Woods Lane, Hawkenbury, Tunbridge Wells, Kent",
             "postcode": "TN2 4TU",
@@ -39306,6 +40083,13 @@
             "active": true
         },
         {
+            "name": "Ruislip Rifle Club",
+            "address": "Ickenham Road, Ruislip",
+            "postcode": null,
+            "id": "GB-CASC-2057e555",
+            "active": true
+        },
+        {
             "name": "Ruislip Rugby Football Club Limited",
             "address": "The Clubhouse, WEST END ROAD, RUISLIP",
             "postcode": "HA4 6DR",
@@ -39397,11 +40181,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-f28c5574",
             "name": "Rushwick Cricket Club",
             "address": "The Alf Tolley Memorial Ground, Upper Wick Lane, Rushwick, Worchester",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-f28c5574",
+            "active": true
         },
         {
             "name": "Russell Gaelic Union",
@@ -39478,6 +40262,13 @@
             "address": "THE CRICKET CLUB, FISHMARKET ROAD, RYE, EAST SUSSEX",
             "postcode": "TN31 7LP",
             "id": "GB-CASC-b0e684c3",
+            "active": true
+        },
+        {
+            "name": "Rye Harbour Billiards & Snooker Club",
+            "address": "",
+            "postcode": null,
+            "id": "GB-CASC-5358f40e",
             "active": true
         },
         {
@@ -39656,6 +40447,13 @@
             "active": true
         },
         {
+            "name": "Sale Harriers Manchester",
+            "address": "Sportcity, Wythenshawe Park, Crossford Bridge",
+            "postcode": null,
+            "id": "GB-CASC-dc1316b6",
+            "active": true
+        },
+        {
             "name": "Salhouse Rovers Football Club",
             "address": "Thieves Lane (Rec Ground), Salhouse, Norwich, Norfolk",
             "postcode": "NR13 6RQ",
@@ -39681,6 +40479,13 @@
             "address": "53 RAMSEY GROVE, BURY",
             "postcode": "BL8 2RE",
             "id": "GB-CASC-24289b25",
+            "active": true
+        },
+        {
+            "name": "Salle Ursa Fencing Club",
+            "address": "Salle URSA Fencing Club, 180 St GeorgesRoad, Coventry",
+            "postcode": null,
+            "id": "GB-CASC-d60bfa1f",
             "active": true
         },
         {
@@ -39768,11 +40573,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-88dcc6f4",
             "name": "Saltwood Cricket Club",
             "address": "Tanners Hill, Saltwood, Hythe, Kent",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-88dcc6f4",
+            "active": true
         },
         {
             "name": "Salty Yoga",
@@ -39929,11 +40734,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-7f713ce8",
             "name": "Sarratt Tennis Club",
             "address": "Sarratt Tennis Club, King George V Playing Fields, Sarratt, Hertfordshire",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-7f713ce8",
+            "active": true
         },
         {
             "name": "Sarsfields GFC",
@@ -40027,11 +40832,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-c1b67c0c",
             "name": "Scalby and Newby Bowling Club",
             "address": "Scalby Road, Scalby, Scarborough, NorthYorkshire",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-c1b67c0c",
+            "active": true
         },
         {
             "name": "Scammonden Water Sailing Club",
@@ -40097,6 +40902,13 @@
             "active": true
         },
         {
+            "name": "Scawthorpe Scorpions J F C",
+            "address": "Langdale Drive Sports Field, Scawthorpe, Doncaster",
+            "postcode": null,
+            "id": "GB-CASC-21853aa3",
+            "active": true
+        },
+        {
             "name": "Scholes Cricket & Athletic Club",
             "address": "New Popplewell Lane, Scholes, Cleckheaton, West Yorkshire",
             "postcode": "BD19 6NN",
@@ -40157,6 +40969,13 @@
             "address": "10 MALLOCH STREET, GLASGOW",
             "postcode": "G20 8TP",
             "id": "GB-CASC-63afa175",
+            "active": true
+        },
+        {
+            "name": "Scotton & Farnham Rifle Club",
+            "address": "Bill Bruce Range, Farnham, Harrogate",
+            "postcode": null,
+            "id": "GB-CASC-7a3260c8",
             "active": true
         },
         {
@@ -40314,6 +41133,13 @@
             "active": true
         },
         {
+            "name": "Seaton Martial Arts Centre",
+            "address": "Scalwell Lane, Seaton, Devon",
+            "postcode": null,
+            "id": "GB-CASC-118671fe",
+            "active": true
+        },
+        {
             "name": "Seaton Sluice Football Club",
             "address": "Crag Park, Beresford Road, Seaton Sluice, Whitley Bay",
             "postcode": "NE26 4RU",
@@ -40328,11 +41154,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-624b7895",
             "name": "Sedbergh Bowling Club",
             "address": "Rear of Queens Gardens, Off Queens Drive, Sedbergh, Cumbria",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-624b7895",
+            "active": true
         },
         {
             "name": "Sedbergh Tennis Club",
@@ -40433,11 +41259,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-0640cd63",
             "name": "Selsey Cricket Club",
             "address": "Selsey Cricket Club, Paddock Lane, Selsey, West Sussex",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-0640cd63",
+            "active": true
         },
         {
             "name": "Selsley Cricket Club",
@@ -40878,6 +41704,13 @@
             "address": "3 FRITHFIELD WALK, SHEPTON MALLET",
             "postcode": "BA4 5LY",
             "id": "GB-CASC-975f080f",
+            "active": true
+        },
+        {
+            "name": "Sherborne Bowling Club",
+            "address": "Culverhayes Car Park, Sherborne, Dorset",
+            "postcode": null,
+            "id": "GB-CASC-a5196229",
             "active": true
         },
         {
@@ -41378,6 +42211,13 @@
             "active": true
         },
         {
+            "name": "Silverbridge Harps Gaelic Football Club",
+            "address": "Carnally, Silverbridge, Co. Armagh",
+            "postcode": null,
+            "id": "GB-CASC-47da6d85",
+            "active": true
+        },
+        {
             "name": "Silverdale (Staffs) Cricket Club",
             "address": "14 PARIS AVENUE, NEWCASTLE",
             "postcode": "ST5 2RQ",
@@ -41385,11 +42225,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-2be26dba",
             "name": "Silverdale Cricket Club",
             "address": "Cove Road, SILVERDALE, Carnforth, Lancaster",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-2be26dba",
+            "active": true
         },
         {
             "name": "Silverdale Golf Club",
@@ -41469,11 +42309,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-6d35e3ce",
             "name": "Skipton Angling Association",
             "address": "Whinney Gill Reservoir, Embsay Reservoir    River Aire, Leeds Liverpool Canal, Skipton",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-6d35e3ce",
+            "active": true
         },
         {
             "name": "Skipton Cricket Club",
@@ -41805,6 +42645,13 @@
             "active": true
         },
         {
+            "name": "South Hams Flying Club",
+            "address": "Halwell, Devon",
+            "postcode": null,
+            "id": "GB-CASC-58eb0818",
+            "active": true
+        },
+        {
             "name": "South Hams Indoor Bowls Club",
             "address": "ROPE WALK, KINGSBRIDGE",
             "postcode": "TQ7 1HH",
@@ -41879,6 +42726,13 @@
             "address": "9 HARTLEY ROAD, LEYTONSTONE, LONDON",
             "postcode": "E11 3BL",
             "id": "GB-CASC-eb315d46",
+            "active": true
+        },
+        {
+            "name": "South Milford Cricket Club",
+            "address": "Mill Lane, South Milford",
+            "postcode": null,
+            "id": "GB-CASC-ff1423ae",
             "active": true
         },
         {
@@ -42036,6 +42890,13 @@
             "active": true
         },
         {
+            "name": "South Woodford Bowling Club",
+            "address": "",
+            "postcode": null,
+            "id": "GB-CASC-aeac3d9a",
+            "active": true
+        },
+        {
             "name": "South Woodford Cricket & Sports Club",
             "address": "2 HOE LANE, ABRIDGE, ROMFORD",
             "postcode": "RM4 1AX",
@@ -42068,6 +42929,13 @@
             "address": "South of England Curling Club, Fentons Rink, Dundale Farm, Dundale Road  Tunbridge Wells",
             "postcode": "TN3 9AQ",
             "id": "GB-CASC-cd5d5396",
+            "active": true
+        },
+        {
+            "name": "Southam Rugby Football Club",
+            "address": "Kineton Road, Southam, Warwickshire",
+            "postcode": null,
+            "id": "GB-CASC-ef856f00",
             "active": true
         },
         {
@@ -42330,11 +43198,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-a437bf53",
             "name": "Southwick Cricket Club",
             "address": "Southwick Cricket Club, The Pavillion, Southwick Green, Southwick,  West Sussex",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-a437bf53",
+            "active": true
         },
         {
             "name": "Southwold Golf Club",
@@ -42708,11 +43576,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-9765b258",
             "name": "St Andrews Cricket Club",
             "address": "Sidney West Fields, Leylands Road, Burgess Hill, West Sussex",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-9765b258",
+            "active": true
         },
         {
             "name": "St Andrews Fencing Club",
@@ -42862,11 +43730,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-d87b57c2",
             "name": "St Columba and Torpoint RFC",
             "address": "St Columba And Torpoint RFC, Defiance Field, Torpoint, Cornwall",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-d87b57c2",
+            "active": true
         },
         {
             "name": "St Comgall's G a C",
@@ -42908,6 +43776,13 @@
             "address": "Minden Close, The Vinefields, Bury St Edmunds, Suffolk",
             "postcode": "IP33 1XZ",
             "id": "GB-CASC-038372b3",
+            "active": true
+        },
+        {
+            "name": "St Edmundsbury Sailing and Canoeing Asso Ciation",
+            "address": "Lackford Lakes, Lackford, Bury St Edmunds",
+            "postcode": null,
+            "id": "GB-CASC-06498576",
             "active": true
         },
         {
@@ -42964,6 +43839,13 @@
             "address": "DRIFTWOOD, PORTHEAST WAY, GORRAN HAVEN, ST AUSTELL",
             "postcode": "PL26 6JA",
             "id": "GB-CASC-79c27017",
+            "active": true
+        },
+        {
+            "name": "St Helens Centre for Gymnastics Club",
+            "address": "",
+            "postcode": null,
+            "id": "GB-CASC-1bf8f11d",
             "active": true
         },
         {
@@ -43121,11 +44003,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-7b57f3cb",
             "name": "St Laurence O'Toole GFC",
             "address": "Belleek GFC, Shaughan Road, Belleeks Newry, Co Down",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-7b57f3cb",
+            "active": true
         },
         {
             "name": "St Lawrence & Highland Court Cricket Clu B",
@@ -43212,11 +44094,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-ad5dda2f",
             "name": "St Martins Bowling Club",
             "address": "St Martins Bowling Club, Belmont Road, Hereford, Herefordshire",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-ad5dda2f",
+            "active": true
         },
         {
             "name": "St Martins G a C",
@@ -43233,11 +44115,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-b1d43171",
             "name": "St Mary's Bowls Club",
             "address": "St Mary's Bowls Club, Bank Street, Stalham, Norfolk",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-b1d43171",
+            "active": true
         },
         {
             "name": "St Mary's Faughanvale Gaelic Athletic CL Ub St Marys)",
@@ -43548,11 +44430,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-1bdc6d08",
             "name": "Stacksteads Cricket Club",
             "address": "Waterbarn, Brandwood Road, Stacksteads, Bacup,  Lancashire",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-1bdc6d08",
+            "active": true
         },
         {
             "name": "Stacksteads St Josephs Football Club",
@@ -43709,11 +44591,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-cc28a185",
             "name": "Stamford Town Cricket Club",
             "address": "Stamford Town Cricket Club, Uffington Town Playing Field, Stamford, Lincolnshire",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-cc28a185",
+            "active": true
         },
         {
             "name": "Stamfordham Cricket Club",
@@ -43797,6 +44679,13 @@
             "address": "Newlands, Bury Lane, Stanton, Bury StEdmunds,  Suffolk",
             "postcode": "IP31 2BZ",
             "id": "GB-CASC-2081e99e",
+            "active": true
+        },
+        {
+            "name": "Stanton Ilkeston Football Club",
+            "address": "Derbyshire Drive, Ilkeston",
+            "postcode": null,
+            "id": "GB-CASC-99833409",
             "active": true
         },
         {
@@ -44101,11 +44990,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-170e674c",
             "name": "Stockport Harriers & Athletics Club",
             "address": "Woodbank Athletic Facility, Woodbank Park, Offerton, Stockport",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-170e674c",
+            "active": true
         },
         {
             "name": "Stockport School of Gymnastics Community  Interest Company",
@@ -44171,18 +45060,18 @@
             "active": true
         },
         {
-            "name": "Stockton Rugby Football Club Ltd",
-            "address": "52A OXBRIDGE AVENUE, STOCKTON ON TEES",
-            "postcode": "TS18 4JF",
             "id": "GB-CASC-66c00ff8",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-25ee6ee9",
             "name": "Stockton Rugby Football Club Ltd",
             "address": "52A OXBRIDGE AVENUE, STOCKTON ON TEES",
             "postcode": "TS18 4JF",
             "active": false
+        },
+        {
+            "name": "Stockton Rugby Football Club Ltd",
+            "address": "52A OXBRIDGE AVENUE, STOCKTON ON TEES",
+            "postcode": "TS18 4JF",
+            "id": "GB-CASC-25ee6ee9",
+            "active": true
         },
         {
             "name": "Stockton Town Football Club Ltd",
@@ -44259,6 +45148,13 @@
             "address": "2 ST. OMER ROAD, GUILDFORD",
             "postcode": "GU1 2DB",
             "id": "GB-CASC-fcdd2ece",
+            "active": true
+        },
+        {
+            "name": "Stoke Poges Lawn Tennis Club",
+            "address": "Bells Hill, Stoke Poges, Bucks",
+            "postcode": null,
+            "id": "GB-CASC-52945971",
             "active": true
         },
         {
@@ -45102,6 +45998,13 @@
             "active": true
         },
         {
+            "name": "Sutton Sailing Club",
+            "address": "Powells Pool, Sutton Coldfield",
+            "postcode": null,
+            "id": "GB-CASC-0a5a7d7a",
+            "active": true
+        },
+        {
             "name": "Sutton United Football Club",
             "address": "Sutton United Football Club, HollyfieldRoad, Sutton Coldfield, West Midlands",
             "postcode": "B75 7SN",
@@ -45113,6 +46016,13 @@
             "address": "MAIN STREET, SUTTON ON DERWENT, YORK",
             "postcode": "YO41 4BN",
             "id": "GB-CASC-4ce1db67",
+            "active": true
+        },
+        {
+            "name": "Sutton Valence Hockey Club",
+            "address": "Ashurst Gate, Forsham Lane, Sutton Valence",
+            "postcode": null,
+            "id": "GB-CASC-68b320de",
             "active": true
         },
         {
@@ -45141,6 +46051,13 @@
             "address": "Park Road, Newhall, Swadlincote, Derbyshire",
             "postcode": "DE11 0TP",
             "id": "GB-CASC-2c4d3415",
+            "active": true
+        },
+        {
+            "name": "Swaffham Cricket Club",
+            "address": "Shoemakers Lane, waffham, Norfolk",
+            "postcode": null,
+            "id": "GB-CASC-aa4fa6d3",
             "active": true
         },
         {
@@ -45179,11 +46096,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-54e6e54e",
             "name": "Swanage Cricket Club",
             "address": "Swanage Cricket Club, Days Park, UlwellRoad, Swanage ,  Dorset",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-54e6e54e",
+            "active": true
         },
         {
             "name": "Swanage Sailing Club",
@@ -45225,6 +46142,13 @@
             "address": "Swanmead Way, Tonbridge, Kent",
             "postcode": "TN9 1PT",
             "id": "GB-CASC-843f0d6c",
+            "active": true
+        },
+        {
+            "name": "Swanmore Lawn Tennis Club",
+            "address": "Mayhill Lane, Swanmore, Hampshire",
+            "postcode": null,
+            "id": "GB-CASC-e9d85df1",
             "active": true
         },
         {
@@ -45288,6 +46212,13 @@
             "address": "Jubilee Field, Station Road, Sway, Lymington",
             "postcode": "SO41 6BE",
             "id": "GB-CASC-d365f861",
+            "active": true
+        },
+        {
+            "name": "Swaythling Lawn Tennis Club",
+            "address": "15a Ethelburt Avenue, Swaythling, Southampton",
+            "postcode": null,
+            "id": "GB-CASC-de62a1c5",
             "active": true
         },
         {
@@ -45606,11 +46537,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-c16dcde6",
             "name": "Tamworth Olympic Gymnastics Club",
             "address": "Tamworth Olympic Gymnastics Club, Unit 10 Gerard, Lichfield Road Industrial Estate, Tamworth",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-c16dcde6",
+            "active": true
         },
         {
             "name": "Tamworth Sailing Club Limited",
@@ -45652,6 +46583,13 @@
             "address": "Alderhanger Lane, Tanworth In Arden, Solihull, Warwickshire",
             "postcode": "B94 5AT",
             "id": "GB-CASC-467e1672",
+            "active": true
+        },
+        {
+            "name": "Taoist Arts (Ilford)",
+            "address": "Methodist Church Hall, Ilford Lane, Ilford",
+            "postcode": null,
+            "id": "GB-CASC-12360814",
             "active": true
         },
         {
@@ -45764,6 +46702,13 @@
             "address": "Down Road, Tavistock, Devon",
             "postcode": "PL19 9AQ",
             "id": "GB-CASC-23cd22a2",
+            "active": true
+        },
+        {
+            "name": "Tavistock Miniature Rifle",
+            "address": "Pixon Lane CP, Tavistock",
+            "postcode": null,
+            "id": "GB-CASC-bbfd3ff5",
             "active": true
         },
         {
@@ -45890,6 +46835,13 @@
             "address": "Teesdale Gun Club Limited, The Shooting Ground, Bail Hill, Mickleton",
             "postcode": "DL12 0JJ",
             "id": "GB-CASC-8c699ccf",
+            "active": true
+        },
+        {
+            "name": "Teeside Model Flying Club",
+            "address": "Drovers Lane, Redmarshall, Stockton on Tees",
+            "postcode": null,
+            "id": "GB-CASC-c83318af",
             "active": true
         },
         {
@@ -46033,11 +46985,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-b5c8d26a",
             "name": "Tendring Cricket Club",
             "address": "The Pavillion, Crow Lane, Tendring, Essex",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-b5c8d26a",
+            "active": true
         },
         {
             "name": "Tennis World Limited",
@@ -46418,11 +47370,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-73a09c01",
             "name": "The Cho-Wa Ju-Jitsu Association",
             "address": "The Cho-Wa Ju-Jitsu Association, Hut 14, Tilgate Forest Recreational Centre, Tilgate,  Crawley",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-73a09c01",
+            "active": true
         },
         {
             "name": "The Clapham Old Xaverians' Association S Ports and Social Club",
@@ -46481,11 +47433,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-460321b8",
             "name": "The Downsman Community Amateur Sports CL Ub",
             "address": "The Pavilion, West Green Bowling Green, Ifield Avenue, West Green,  Crawley",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-460321b8",
+            "active": true
         },
         {
             "name": "The Dunblane Sports Club Limited",
@@ -46530,11 +47482,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-4feb400b",
             "name": "The Griffin Bowls Club",
             "address": "Latton Bush Centre, Southern Way, Harlow, Essex",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-4feb400b",
+            "active": true
         },
         {
             "name": "The Halifax Golf Club Ltd",
@@ -46677,6 +47629,13 @@
             "active": true
         },
         {
+            "name": "The Manor Club J F C",
+            "address": "",
+            "postcode": null,
+            "id": "GB-CASC-e7e579d6",
+            "active": true
+        },
+        {
             "id": "GB-CASC-d75e8954",
             "name": "The Mersham Sports Club",
             "address": "THE OLD POST OFFICE, THE FORSTAL, MERSHAM, ASHFORD",
@@ -46702,6 +47661,13 @@
             "address": "Willow Way, Maidstone, Kent",
             "postcode": "ME15 7RN",
             "id": "GB-CASC-2fcb1fde",
+            "active": true
+        },
+        {
+            "name": "The Nayland Flying Club",
+            "address": "Hill Farm, Wissington, Suffolk",
+            "postcode": null,
+            "id": "GB-CASC-d4bee709",
             "active": true
         },
         {
@@ -46936,11 +47902,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-0cdaa968",
             "name": "The Times Inn Club Limited",
             "address": "Land Adjacent North Dalton, Pumping Station, Dalton Le Dale, County Durham",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-0cdaa968",
+            "active": true
         },
         {
             "name": "The Trick Factory",
@@ -47062,18 +48028,18 @@
             "active": true
         },
         {
-            "id": "GB-CASC-db34fd4e",
             "name": "Theale Water Ski Club",
             "address": "Wellmans Water, Off Burchfield Road, Theale, Berkshire",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-db34fd4e",
+            "active": true
         },
         {
-            "id": "GB-CASC-aeacfb7d",
             "name": "Thetford Town Cricket Club",
             "address": "Recreation Ground, Mundford Road, Thetford, Norfolk",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-aeacfb7d",
+            "active": true
         },
         {
             "name": "Thimblemill Recreation & Entertainment C Entre",
@@ -47377,11 +48343,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-fae71f6a",
             "name": "Thurrock Aqualung Club",
             "address": "Bechus Park Leisure Centre, Belhus Park, S. Ockendon, Essex",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-fae71f6a",
+            "active": true
         },
         {
             "name": "Thurrock Yacht Club",
@@ -47503,11 +48469,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-1fbd7f8c",
             "name": "Tintwistle Cricket Club",
             "address": "Speedwell, Tintwistle, Glossop, Derbyshire",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-1fbd7f8c",
+            "active": true
         },
         {
             "name": "Tir Chonaill Gaels G a a Club",
@@ -48308,11 +49274,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-e71351ae",
             "name": "Tullylish Gac",
             "address": "Drumnascamph Road, Laurencetown, Banbridge, Co Down",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-e71351ae",
+            "active": true
         },
         {
             "name": "Tumble Bee'Z Gymnastics Club",
@@ -48588,11 +49554,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-472596b8",
             "name": "Uckfield Bowls Club",
             "address": "Grants Hill, Oaklea Way, Uckfield, East Sussex",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-472596b8",
+            "active": true
         },
         {
             "name": "Uckfield Gymnastic Club Limited",
@@ -49008,11 +49974,18 @@
             "active": true
         },
         {
-            "id": "GB-CASC-dc07fd28",
+            "name": "Vale of the White Horse Gliding Centre L TD",
+            "address": "Sandhill Farm, Highworth Road, Shrivenham",
+            "postcode": null,
+            "id": "GB-CASC-9ec099ed",
+            "active": true
+        },
+        {
             "name": "Valley Bowmen of Huddersfield",
             "address": "Slate Pitts Wood, Knowle Lane, Meltham, Holmfirth,  Huddersfield",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-dc07fd28",
+            "active": true
         },
         {
             "name": "Vardre Bowling Club",
@@ -49064,11 +50037,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-d6363471",
             "name": "Ventnor Rugby Football Club",
             "address": "Watcombe Bottom, Whitwell Road, Ventnor, Isle of Wight",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-d6363471",
+            "active": true
         },
         {
             "name": "Vernon Carus Sports Club",
@@ -49180,6 +50153,13 @@
             "address": "Swanswood Field, Harvel, Kent",
             "postcode": "DA13 0UA",
             "id": "GB-CASC-87da3a3a",
+            "active": true
+        },
+        {
+            "name": "Villa Rockets Powerchair Football Club",
+            "address": "c/o Doug Ellis Sports Centre, 150 Wellhead Lane, Birmingham",
+            "postcode": null,
+            "id": "GB-CASC-ff44d8e9",
             "active": true
         },
         {
@@ -49568,6 +50548,13 @@
             "active": true
         },
         {
+            "name": "Wantsum Angling Association",
+            "address": "MARSHSIDE FISHERY, MARSHSIDE, KENT",
+            "postcode": null,
+            "id": "GB-CASC-3147d7ae",
+            "active": true
+        },
+        {
             "name": "Warborough & Shillingford Cricket Club",
             "address": "THE PAVILION, THE GREEN SOUTH, WARBOROUGH, WALLINGFORD",
             "postcode": "OX10 7DR",
@@ -49603,11 +50590,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-7255ee1e",
             "name": "Warenford Cricket Club",
             "address": "Warenford Cricket Club, Whinney Park, Warenford, Belford,  Northumberland",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-7255ee1e",
+            "active": true
         },
         {
             "name": "Wargrave Bowling Club",
@@ -49691,6 +50678,13 @@
             "address": "88 CHILTERN ROAD, WARRINGTON",
             "postcode": "WA2 9SR",
             "id": "GB-CASC-228bfbdc",
+            "active": true
+        },
+        {
+            "name": "Warrington Rowing Club",
+            "address": "Howley Lane, Warrington, Cheshire",
+            "postcode": null,
+            "id": "GB-CASC-c154c981",
             "active": true
         },
         {
@@ -49876,11 +50870,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-6f1749f7",
             "name": "Watford Town Cricket Club",
             "address": "Woodside Playing Fields, Horseshoe Lane, Garston, Watford,  Herts",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-6f1749f7",
+            "active": true
         },
         {
             "name": "Watford Water Polo Club",
@@ -50128,11 +51122,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-d357ae3b",
             "name": "Wellington Cricket Club",
             "address": "Orleton Park, Haygate Road, Wellington, Telford,  Shropshire",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-d357ae3b",
+            "active": true
         },
         {
             "name": "Wellington Cricket Club (Somerset)",
@@ -50639,11 +51633,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-c56b67fa",
             "name": "West Meon Rifle Club",
             "address": "Adjacent Village Hall, West Meon, Nr Petersfield, Hants",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-c56b67fa",
+            "active": true
         },
         {
             "name": "West Mersea Bowls Club",
@@ -50814,6 +51808,13 @@
             "active": true
         },
         {
+            "name": "West Wycombe Cricket Club",
+            "address": "Towerage Lane, West Wycombe, Bucks",
+            "postcode": null,
+            "id": "GB-CASC-31cc612a",
+            "active": true
+        },
+        {
             "name": "West of Scotland Cricket Club",
             "address": "44 Peel Street, Partick, Glasgow",
             "postcode": "G11 5LU",
@@ -50828,11 +51829,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-15ccc6cf",
             "name": "Westbere Frostbite Sailing Association",
             "address": "Westbere Frostbite Sailing Association, Westbere Lake, Fordwich, Kent",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-15ccc6cf",
+            "active": true
         },
         {
             "name": "Westborough Bowls Club",
@@ -50891,10 +51892,24 @@
             "active": true
         },
         {
+            "name": "Westcliff Hardcourts Lawn Tennis Club",
+            "address": "8 The Ridgeway, Westcliff-on-Sea, Essex",
+            "postcode": null,
+            "id": "GB-CASC-989ea87c",
+            "active": true
+        },
+        {
             "name": "Westcliff Rugby Football Club Ltd",
             "address": "THE GABLES, AIRPORT BUSINESS PARK SOUTHEND, CHERRY ORCHARD WAY, ROCHFORD",
             "postcode": "SS4 1YG",
             "id": "GB-CASC-c188d17e",
+            "active": true
+        },
+        {
+            "name": "Westcliffe on Sea Lawn Tennis Club",
+            "address": "626 London Road, Westcliffe-on-Sea, Essex",
+            "postcode": null,
+            "id": "GB-CASC-bea6cbe2",
             "active": true
         },
         {
@@ -51150,10 +52165,24 @@
             "active": true
         },
         {
+            "name": "Weymouth Cougars Football Club",
+            "address": "Municipal",
+            "postcode": null,
+            "id": "GB-CASC-8744afc8",
+            "active": true
+        },
+        {
             "name": "Weymouth Golf Club Ltd",
             "address": "LINKS ROAD, WEYMOUTH",
             "postcode": "DT4 0PF",
             "id": "GB-CASC-0de6fb00",
+            "active": true
+        },
+        {
+            "name": "Weymouth Lawn Tennis Club",
+            "address": "Radipole Park Drive, Weymouth, Dorset",
+            "postcode": null,
+            "id": "GB-CASC-87807453",
             "active": true
         },
         {
@@ -51458,11 +52487,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-51a4a0f4",
             "name": "Whiteleaf Bowmen",
             "address": "Whiteleaf Bowmen, The Archery Field, New Road, Lagey Green,  Buckinghamshire",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-51a4a0f4",
+            "active": true
         },
         {
             "name": "Whiteleaf Golf Club",
@@ -51563,11 +52592,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-7e3b773a",
             "name": "Whittington Cricket Club",
             "address": "Whittington Cricket Club, 3 Church Street, Whittington, Lighfield,  Staffs",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-7e3b773a",
+            "active": true
         },
         {
             "name": "Whittington Cricket and Bowling Club",
@@ -51850,11 +52879,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-1e77e218",
             "name": "Willesborough Cricket Club",
             "address": "Off Hythe Road, Willesborough, Ashford, Kent",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-1e77e218",
+            "active": true
         },
         {
             "name": "Willey Wanderers Cricket Club",
@@ -52200,18 +53229,18 @@
             "active": true
         },
         {
+            "name": "Winsley Cricket Club",
+            "address": "93 LACOCK GARDENS, HILPERTON, TROWBRIDGE",
+            "postcode": "BA14 7TG",
             "id": "GB-CASC-03cc2bf6",
+            "active": true
+        },
+        {
+            "id": "GB-CASC-86cce889",
             "name": "Winsley Cricket Club",
             "address": "93 LACOCK GARDENS, HILPERTON, TROWBRIDGE",
             "postcode": "BA14 7TG",
             "active": false
-        },
-        {
-            "name": "Winsley Cricket Club",
-            "address": "93 LACOCK GARDENS, HILPERTON, TROWBRIDGE",
-            "postcode": "BA14 7TG",
-            "id": "GB-CASC-86cce889",
-            "active": true
         },
         {
             "name": "Winsor United Football Club",
@@ -52347,11 +53376,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-511e46e1",
             "name": "Withergate Rifle and Pistol Club",
             "address": "Sandy Hill, Withergate, North Walsham, Norfolk",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-511e46e1",
+            "active": true
         },
         {
             "name": "Withington Golf Club",
@@ -52508,6 +53537,13 @@
             "active": true
         },
         {
+            "name": "Wolverhampton Hockey Club",
+            "address": "Aldersley Stadium, Aldersley Road, Wolverhampton",
+            "postcode": null,
+            "id": "GB-CASC-aee7275f",
+            "active": true
+        },
+        {
             "name": "Wolverhampton Wheelers Cycling Club",
             "address": "c/o 48 Hawksmoor Drive, Perton, Wolverhampton",
             "postcode": "WV6 7JE",
@@ -52585,6 +53621,13 @@
             "active": true
         },
         {
+            "name": "Woodbury Tennis Club",
+            "address": "Orchard Close, Woodbury, Exeter",
+            "postcode": null,
+            "id": "GB-CASC-06aa23a9",
+            "active": true
+        },
+        {
             "name": "Woodchester F C",
             "address": "Woodchester F C, Laburnam, Bowl Hill, Kingscourt,  Stroud",
             "postcode": "GL5 5DS",
@@ -52592,11 +53635,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-d126098b",
             "name": "Woodchurch Tennis Club",
             "address": "The Green, Woodchurch, Ashford, Kent",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-d126098b",
+            "active": true
         },
         {
             "name": "Woodcote Cricket Club",
@@ -52865,11 +53908,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-09a7f4e1",
             "name": "Worfield Tennis Club",
             "address": "Hallon, Worfield, Bridgnorth, Shropshire",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-09a7f4e1",
+            "active": true
         },
         {
             "name": "Workington Golf Club Limited",
@@ -53110,11 +54153,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-eb835862",
             "name": "Wychwood Bowls Club",
             "address": "Wychwood Bowls Club, c/o Shaven Crown, High Street, Shipton-Under-Wychwood,  Chipping Norton",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-eb835862",
+            "active": true
         },
         {
             "name": "Wychwood Tennis Club",
@@ -53124,11 +54167,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-a6e0d66e",
             "name": "Wycliffe Bowling Club",
             "address": "Hall Lane, Bitteswell, Lutterworth, Leicestershire",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-a6e0d66e",
+            "active": true
         },
         {
             "name": "Wycombe Badminton Centre Ltd",
@@ -53159,11 +54202,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-278aabdf",
             "name": "Wye Cricket Club",
             "address": "Horton Meadow, Cherry Garden Lane, Wye, Ashford,  Kent",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-278aabdf",
+            "active": true
         },
         {
             "name": "Wye Tennis Club",
@@ -53173,11 +54216,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-dcf2120b",
             "name": "Wyke Manor Rifle Club",
             "address": "Tunnel Range, Garbett Road, Winchester, Hants",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-dcf2120b",
+            "active": true
         },
         {
             "name": "Wymondham Town United Football Club",
@@ -53271,11 +54314,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-63ce416e",
             "name": "Yate and District Bowling Club",
             "address": "Yate And District Bowling Club, Sunneyside Playing Fields, Moreland Road, Yate, S Glos",
-            "postcode": "",
-            "active": false
+            "postcode": null,
+            "id": "GB-CASC-63ce416e",
+            "active": true
         },
         {
             "name": "Yateley Cricket Club",

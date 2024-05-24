@@ -77,8 +77,9 @@ def fetch_cascs(
         headers = None
         first_sheet = list(data.keys())[0]
         for row in data[first_sheet]:
-            if len(row) <= 5:
-                continue
+            if len(row) <= 5 and len(row) > 0:
+                # pad row array out to 5 elements
+                row += [""] * (5 - len(row))
             if headers is None:
                 headers = row
                 continue
@@ -90,6 +91,8 @@ def fetch_cascs(
                 ),
                 "postcode": record.get("Postcode"),
             }
+            if record["name"] is None:
+                continue
             record["id"] = get_org_id(record, org_id_prefix)
             record_id = record["id"]
             row_ids_seen = set()
