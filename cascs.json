@@ -4075,18 +4075,18 @@
             "active": true
         },
         {
+            "name": "Beith Golf Club (2023) Ltd",
+            "address": "THREEPWOOD ROAD, BEITH",
+            "postcode": "KA15 2JR",
             "id": "GB-CASC-8489523b",
+            "active": true
+        },
+        {
+            "id": "GB-CASC-e2217d6c",
             "name": "Beith Golf Club (2023) Ltd",
             "address": "THREEPWOOD ROAD, BEITH",
             "postcode": "KA15 2JR",
             "active": false
-        },
-        {
-            "name": "Beith Golf Club (2023) Ltd",
-            "address": "THREEPWOOD ROAD, BEITH",
-            "postcode": "KA15 2JR",
-            "id": "GB-CASC-e2217d6c",
-            "active": true
         },
         {
             "name": "Belbroughton Cricket Club",
@@ -16290,18 +16290,18 @@
             "active": true
         },
         {
-            "name": "East Hanningfield & Great Bursted Cricke T Club",
-            "address": "74 ELM VIEW ROAD, BENFLEET",
-            "postcode": "SS7 5AS",
             "id": "GB-CASC-a5bda8b7",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-f00b0044",
             "name": "East Hanningfield & Great Bursted Cricke T Club",
             "address": "74 ELM VIEW ROAD, BENFLEET",
             "postcode": "SS7 5AS",
             "active": false
+        },
+        {
+            "name": "East Hanningfield & Great Bursted Cricke T Club",
+            "address": "74 ELM VIEW ROAD, BENFLEET",
+            "postcode": "SS7 5AS",
+            "id": "GB-CASC-f00b0044",
+            "active": true
         },
         {
             "name": "East Harlsey Cricket Club",
@@ -19167,18 +19167,18 @@
             "active": true
         },
         {
+            "name": "Frimley Tennis Club",
+            "address": "WATCHETTS RECREATION GROUND, PARK ROAD, CAMBERLEY",
+            "postcode": "GU15 2SR",
             "id": "GB-CASC-b05e0b2f",
+            "active": true
+        },
+        {
+            "id": "GB-CASC-d2aff3ae",
             "name": "Frimley Tennis Club",
             "address": "WATCHETTS RECREATION GROUND, PARK ROAD, CAMBERLEY",
             "postcode": "GU15 2SR",
             "active": false
-        },
-        {
-            "name": "Frimley Tennis Club",
-            "address": "WATCHETTS RECREATION GROUND, PARK ROAD, CAMBERLEY",
-            "postcode": "GU15 2SR",
-            "id": "GB-CASC-d2aff3ae",
-            "active": true
         },
         {
             "name": "Frindsbury Cricket Club",
@@ -20112,18 +20112,18 @@
             "active": true
         },
         {
+            "name": "Godalming Lawn Tennis Club",
+            "address": "Godalming Lawn Tennis Club, Summers Road, Godalming",
+            "postcode": "GU7 3BH",
             "id": "GB-CASC-3fd4f401",
+            "active": true
+        },
+        {
+            "id": "GB-CASC-359b1d67",
             "name": "Godalming Lawn Tennis Club",
             "address": "Godalming Lawn Tennis Club, Summers Road, Godalming",
             "postcode": "GU7 3BH",
             "active": false
-        },
-        {
-            "name": "Godalming Lawn Tennis Club",
-            "address": "Godalming Lawn Tennis Club, Summers Road, Godalming",
-            "postcode": "GU7 3BH",
-            "id": "GB-CASC-359b1d67",
-            "active": true
         },
         {
             "name": "Godalming and Farncombe Bowling Club",
@@ -20847,11 +20847,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-72dd0e44",
             "name": "Greenmount Cricket Club Limited",
             "address": "BRANDLESHOLME ROAD, GREENMOUNT, BURY",
             "postcode": "BL8 4DX",
-            "active": false
+            "id": "GB-CASC-72dd0e44",
+            "active": true
         },
         {
             "name": "Greenock Wanderers Rugby Football Club",
@@ -29534,18 +29534,18 @@
             "active": true
         },
         {
-            "name": "Long Yang Club Badminton London",
-            "address": "FLAT 8, 300 STEPNEY WAY, LONDON",
-            "postcode": "E1 3DW",
             "id": "GB-CASC-fa9297e7",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-589dedfc",
             "name": "Long Yang Club Badminton London",
             "address": "FLAT 8, 300 STEPNEY WAY, LONDON",
             "postcode": "E1 3DW",
             "active": false
+        },
+        {
+            "name": "Long Yang Club Badminton London",
+            "address": "FLAT 8, 300 STEPNEY WAY, LONDON",
+            "postcode": "E1 3DW",
+            "id": "GB-CASC-589dedfc",
+            "active": true
         },
         {
             "name": "Longlevens Rugby Football Club Ltd",
@@ -32271,18 +32271,18 @@
             "active": true
         },
         {
-            "name": "Molesey Boat Club",
-            "address": "BARGE WALK, EAST MOLESEY",
-            "postcode": "KT8 9AJ",
             "id": "GB-CASC-18ba8f07",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-8c1ccfa0",
             "name": "Molesey Boat Club",
             "address": "BARGE WALK, EAST MOLESEY",
             "postcode": "KT8 9AJ",
             "active": false
+        },
+        {
+            "name": "Molesey Boat Club",
+            "address": "BARGE WALK, EAST MOLESEY",
+            "postcode": "KT8 9AJ",
+            "id": "GB-CASC-8c1ccfa0",
+            "active": true
         },
         {
             "name": "Moneyslane Football Club",
@@ -33769,18 +33769,18 @@
             "active": true
         },
         {
-            "name": "Norfolk Bowmen",
-            "address": "60 HAVERSCROFT CLOSE, TAVERHAM, NORWICH",
-            "postcode": "NR8 6LU",
             "id": "GB-CASC-e98b7a57",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-5c7166e5",
             "name": "Norfolk Bowmen",
             "address": "60 HAVERSCROFT CLOSE, TAVERHAM, NORWICH",
             "postcode": "NR8 6LU",
             "active": false
+        },
+        {
+            "name": "Norfolk Bowmen",
+            "address": "60 HAVERSCROFT CLOSE, TAVERHAM, NORWICH",
+            "postcode": "NR8 6LU",
+            "id": "GB-CASC-5c7166e5",
+            "active": true
         },
         {
             "name": "Norfolk Brawds Roller Derby",
@@ -35071,16 +35071,16 @@
             "active": true
         },
         {
+            "id": "GB-CASC-a20c2fd4",
             "name": "Old Brodleians Rugby Union Football Club",
             "address": "Woodhead, Denholmegate Road, Hipperholme, Halifax,  West Yorkshire",
             "postcode": "HX3 8JU",
-            "id": "GB-CASC-a20c2fd4",
-            "active": true
+            "active": false
         },
         {
-            "name": "Old Brodleians Rugby Union Football Club  Limited",
-            "address": "Woodhead, Denholme Gate Road, Hipperholme, Halifax",
-            "postcode": "HX3 8JT",
+            "name": "Old Brodleians Rugby Union Football Club",
+            "address": "Woodhead, Denholmegate Road, Hipperholme, Halifax,  West Yorkshire",
+            "postcode": "HX3 8JU",
             "id": "GB-CASC-3cb5041e",
             "active": true
         },
@@ -52746,18 +52746,18 @@
             "active": true
         },
         {
+            "name": "Widnes Golf Club",
+            "address": "Highfield Road, Widnes, Cheshire",
+            "postcode": "WA8 7DT",
             "id": "GB-CASC-15e8147f",
+            "active": true
+        },
+        {
+            "id": "GB-CASC-bf68f4ab",
             "name": "Widnes Golf Club",
             "address": "Highfield Road, Widnes, Cheshire",
             "postcode": "WA8 7DT",
             "active": false
-        },
-        {
-            "name": "Widnes Golf Club",
-            "address": "Highfield Road, Widnes, Cheshire",
-            "postcode": "WA8 7DT",
-            "id": "GB-CASC-bf68f4ab",
-            "active": true
         },
         {
             "name": "Widnes R U F C",
@@ -53229,18 +53229,18 @@
             "active": true
         },
         {
+            "name": "Winsley Cricket Club",
+            "address": "93 LACOCK GARDENS, HILPERTON, TROWBRIDGE",
+            "postcode": "BA14 7TG",
             "id": "GB-CASC-03cc2bf6",
+            "active": true
+        },
+        {
+            "id": "GB-CASC-86cce889",
             "name": "Winsley Cricket Club",
             "address": "93 LACOCK GARDENS, HILPERTON, TROWBRIDGE",
             "postcode": "BA14 7TG",
             "active": false
-        },
-        {
-            "name": "Winsley Cricket Club",
-            "address": "93 LACOCK GARDENS, HILPERTON, TROWBRIDGE",
-            "postcode": "BA14 7TG",
-            "id": "GB-CASC-86cce889",
-            "active": true
         },
         {
             "name": "Winsor United Football Club",
