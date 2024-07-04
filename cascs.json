@@ -9241,16 +9241,16 @@
             "active": true
         },
         {
-            "id": "GB-CASC-c66defe5",
             "name": "Carlton Cricket Club",
             "address": "Town Street, Carlton, Wakefield",
             "postcode": "WF3 3QU",
-            "active": false
+            "id": "GB-CASC-c66defe5",
+            "active": true
         },
         {
-            "name": "Carlton Cricket Club",
-            "address": "Town Street, Carlton, Wakefield",
-            "postcode": "WF3 3QU",
+            "name": "Carlton Cricket Club Ltd",
+            "address": "180 GRANGE LOAN, EDINBURGH",
+            "postcode": "EH9 2EE",
             "id": "GB-CASC-63fbffb9",
             "active": true
         },
@@ -14988,18 +14988,18 @@
             "active": false
         },
         {
-            "name": "Dorset Gliding Club Ltd",
-            "address": "STAFFORD HOUSE, 10 PRINCE OF WALES ROAD, DORCHESTER",
-            "postcode": "DT1 1PW",
             "id": "GB-CASC-4e316c88",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-71fb9c31",
             "name": "Dorset Gliding Club Ltd",
             "address": "STAFFORD HOUSE, 10 PRINCE OF WALES ROAD, DORCHESTER",
             "postcode": "DT1 1PW",
             "active": false
+        },
+        {
+            "name": "Dorset Gliding Club Ltd",
+            "address": "STAFFORD HOUSE, 10 PRINCE OF WALES ROAD, DORCHESTER",
+            "postcode": "DT1 1PW",
+            "id": "GB-CASC-71fb9c31",
+            "active": true
         },
         {
             "name": "Dorsey Emmett's GFC",
@@ -16290,18 +16290,18 @@
             "active": true
         },
         {
+            "name": "East Hanningfield & Great Bursted Cricke T Club",
+            "address": "74 ELM VIEW ROAD, BENFLEET",
+            "postcode": "SS7 5AS",
             "id": "GB-CASC-a5bda8b7",
+            "active": true
+        },
+        {
+            "id": "GB-CASC-f00b0044",
             "name": "East Hanningfield & Great Bursted Cricke T Club",
             "address": "74 ELM VIEW ROAD, BENFLEET",
             "postcode": "SS7 5AS",
             "active": false
-        },
-        {
-            "name": "East Hanningfield & Great Bursted Cricke T Club",
-            "address": "74 ELM VIEW ROAD, BENFLEET",
-            "postcode": "SS7 5AS",
-            "id": "GB-CASC-f00b0044",
-            "active": true
         },
         {
             "name": "East Harlsey Cricket Club",
@@ -16745,18 +16745,18 @@
             "active": true
         },
         {
-            "name": "Edgbaston Croquet Club",
-            "address": "18 RICHMOND HILL ROAD, BIRMINGHAM",
-            "postcode": "B15 3RP",
             "id": "GB-CASC-19bb2ea8",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-4000869b",
             "name": "Edgbaston Croquet Club",
             "address": "18 RICHMOND HILL ROAD, BIRMINGHAM",
             "postcode": "B15 3RP",
             "active": false
+        },
+        {
+            "name": "Edgbaston Croquet Club",
+            "address": "18 RICHMOND HILL ROAD, BIRMINGHAM",
+            "postcode": "B15 3RP",
+            "id": "GB-CASC-4000869b",
+            "active": true
         },
         {
             "name": "Edgehill Gliding Centre Limited",
@@ -19174,11 +19174,11 @@
             "active": true
         },
         {
+            "id": "GB-CASC-b05e0b2f",
             "name": "Frimley Tennis Club Limited",
             "address": "WATCHETTS RECREATION GROUND, PARK ROAD, CAMBERLEY",
             "postcode": "GU15 2SR",
-            "id": "GB-CASC-b05e0b2f",
-            "active": true
+            "active": false
         },
         {
             "name": "Frindsbury Cricket Club",
@@ -20112,18 +20112,18 @@
             "active": true
         },
         {
+            "name": "Godalming Lawn Tennis Club",
+            "address": "Godalming Lawn Tennis Club, Summers Road, Godalming",
+            "postcode": "GU7 3BH",
             "id": "GB-CASC-3fd4f401",
+            "active": true
+        },
+        {
+            "id": "GB-CASC-359b1d67",
             "name": "Godalming Lawn Tennis Club",
             "address": "Godalming Lawn Tennis Club, Summers Road, Godalming",
             "postcode": "GU7 3BH",
             "active": false
-        },
-        {
-            "name": "Godalming Lawn Tennis Club",
-            "address": "Godalming Lawn Tennis Club, Summers Road, Godalming",
-            "postcode": "GU7 3BH",
-            "id": "GB-CASC-359b1d67",
-            "active": true
         },
         {
             "name": "Godalming and Farncombe Bowling Club",
@@ -20847,11 +20847,11 @@
             "active": true
         },
         {
+            "id": "GB-CASC-72dd0e44",
             "name": "Greenmount Cricket Club Limited",
             "address": "BRANDLESHOLME ROAD, GREENMOUNT, BURY",
             "postcode": "BL8 4DX",
-            "id": "GB-CASC-72dd0e44",
-            "active": true
+            "active": false
         },
         {
             "name": "Greenock Wanderers Rugby Football Club",
@@ -29534,18 +29534,18 @@
             "active": true
         },
         {
+            "name": "Long Yang Club Badminton London",
+            "address": "FLAT 8, 300 STEPNEY WAY, LONDON",
+            "postcode": "E1 3DW",
             "id": "GB-CASC-fa9297e7",
+            "active": true
+        },
+        {
+            "id": "GB-CASC-589dedfc",
             "name": "Long Yang Club Badminton London",
             "address": "FLAT 8, 300 STEPNEY WAY, LONDON",
             "postcode": "E1 3DW",
             "active": false
-        },
-        {
-            "name": "Long Yang Club Badminton London",
-            "address": "FLAT 8, 300 STEPNEY WAY, LONDON",
-            "postcode": "E1 3DW",
-            "id": "GB-CASC-589dedfc",
-            "active": true
         },
         {
             "name": "Longlevens Rugby Football Club Ltd",
@@ -32271,18 +32271,18 @@
             "active": true
         },
         {
-            "name": "Molesey Boat Club",
-            "address": "BARGE WALK, EAST MOLESEY",
-            "postcode": "KT8 9AJ",
             "id": "GB-CASC-18ba8f07",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-8c1ccfa0",
             "name": "Molesey Boat Club",
             "address": "BARGE WALK, EAST MOLESEY",
             "postcode": "KT8 9AJ",
             "active": false
+        },
+        {
+            "name": "Molesey Boat Club",
+            "address": "BARGE WALK, EAST MOLESEY",
+            "postcode": "KT8 9AJ",
+            "id": "GB-CASC-8c1ccfa0",
+            "active": true
         },
         {
             "name": "Moneyslane Football Club",
@@ -33769,18 +33769,18 @@
             "active": true
         },
         {
+            "name": "Norfolk Bowmen",
+            "address": "60 HAVERSCROFT CLOSE, TAVERHAM, NORWICH",
+            "postcode": "NR8 6LU",
             "id": "GB-CASC-e98b7a57",
+            "active": true
+        },
+        {
+            "id": "GB-CASC-5c7166e5",
             "name": "Norfolk Bowmen",
             "address": "60 HAVERSCROFT CLOSE, TAVERHAM, NORWICH",
             "postcode": "NR8 6LU",
             "active": false
-        },
-        {
-            "name": "Norfolk Bowmen",
-            "address": "60 HAVERSCROFT CLOSE, TAVERHAM, NORWICH",
-            "postcode": "NR8 6LU",
-            "id": "GB-CASC-5c7166e5",
-            "active": true
         },
         {
             "name": "Norfolk Brawds Roller Derby",
@@ -33930,18 +33930,18 @@
             "active": true
         },
         {
+            "name": "North Duffield Bowling Club",
+            "address": "8 WENLOCK DRIVE, ESCRICK, YORK",
+            "postcode": "YO19 6JB",
             "id": "GB-CASC-d7dabea8",
+            "active": true
+        },
+        {
+            "id": "GB-CASC-812991b8",
             "name": "North Duffield Bowling Club",
             "address": "8 WENLOCK DRIVE, ESCRICK, YORK",
             "postcode": "YO19 6JB",
             "active": false
-        },
-        {
-            "name": "North Duffield Bowling Club",
-            "address": "8 WENLOCK DRIVE, ESCRICK, YORK",
-            "postcode": "YO19 6JB",
-            "id": "GB-CASC-812991b8",
-            "active": true
         },
         {
             "name": "North Duffield Cricket Club",
@@ -34973,18 +34973,18 @@
             "active": true
         },
         {
+            "name": "Okehampton Golf Club Ltd",
+            "address": "TORS ROAD, OKEHAMPTON",
+            "postcode": "EX20 1EF",
             "id": "GB-CASC-fe48ca6c",
+            "active": true
+        },
+        {
+            "id": "GB-CASC-96e4b653",
             "name": "Okehampton Golf Club Ltd",
             "address": "TORS ROAD, OKEHAMPTON",
             "postcode": "EX20 1EF",
             "active": false
-        },
-        {
-            "name": "Okehampton Golf Club Ltd",
-            "address": "TORS ROAD, OKEHAMPTON",
-            "postcode": "EX20 1EF",
-            "id": "GB-CASC-96e4b653",
-            "active": true
         },
         {
             "name": "Okehampton Rugby Football Club",
@@ -35071,16 +35071,16 @@
             "active": true
         },
         {
+            "id": "GB-CASC-a20c2fd4",
             "name": "Old Brodleians Rugby Union Football Club",
             "address": "Woodhead, Denholmegate Road, Hipperholme, Halifax,  West Yorkshire",
             "postcode": "HX3 8JU",
-            "id": "GB-CASC-a20c2fd4",
-            "active": true
+            "active": false
         },
         {
-            "name": "Old Brodleians Rugby Union Football Club  Limited",
-            "address": "Woodhead, Denholme Gate Road, Hipperholme, Halifax",
-            "postcode": "HX3 8JT",
+            "name": "Old Brodleians Rugby Union Football Club",
+            "address": "Woodhead, Denholmegate Road, Hipperholme, Halifax,  West Yorkshire",
+            "postcode": "HX3 8JU",
             "id": "GB-CASC-3cb5041e",
             "active": true
         },
@@ -38319,11 +38319,11 @@
             "active": true
         },
         {
+            "id": "GB-CASC-a3573619",
             "name": "Rainham Cricket Club",
             "address": "Rainham Cricket Club, Spring Farm Park, Lambs Lane North, Rainham,  Essex",
             "postcode": "RM13 9XF",
-            "id": "GB-CASC-a3573619",
-            "active": true
+            "active": false
         },
         {
             "name": "Rainy City Rollergirls Ltd",
@@ -45060,18 +45060,18 @@
             "active": true
         },
         {
-            "name": "Stockton Rugby Football Club Ltd",
-            "address": "52A OXBRIDGE AVENUE, STOCKTON ON TEES",
-            "postcode": "TS18 4JF",
             "id": "GB-CASC-66c00ff8",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-25ee6ee9",
             "name": "Stockton Rugby Football Club Ltd",
             "address": "52A OXBRIDGE AVENUE, STOCKTON ON TEES",
             "postcode": "TS18 4JF",
             "active": false
+        },
+        {
+            "name": "Stockton Rugby Football Club Ltd",
+            "address": "52A OXBRIDGE AVENUE, STOCKTON ON TEES",
+            "postcode": "TS18 4JF",
+            "id": "GB-CASC-25ee6ee9",
+            "active": true
         },
         {
             "name": "Stockton Town Football Club Ltd",
@@ -49827,18 +49827,18 @@
             "active": true
         },
         {
+            "name": "Upstarts Gymnastics Club",
+            "address": "UNIT 4, VIKING COURT, SHEPSHED ROAD, HATHERN",
+            "postcode": "LE12 5LZ",
             "id": "GB-CASC-8dab2dd7",
+            "active": true
+        },
+        {
+            "id": "GB-CASC-4070dcca",
             "name": "Upstarts Gymnastics Club",
             "address": "UNIT 4, VIKING COURT, SHEPSHED ROAD, HATHERN",
             "postcode": "LE12 5LZ",
             "active": false
-        },
-        {
-            "name": "Upstarts Gymnastics Club",
-            "address": "UNIT 4, VIKING COURT, SHEPSHED ROAD, HATHERN",
-            "postcode": "LE12 5LZ",
-            "id": "GB-CASC-4070dcca",
-            "active": true
         },
         {
             "name": "Upton Amateur Rugby League Football Club",
