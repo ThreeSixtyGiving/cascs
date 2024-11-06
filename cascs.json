@@ -9241,18 +9241,18 @@
             "active": true
         },
         {
-            "name": "Carlton Cricket Club",
-            "address": "Town Street, Carlton, Wakefield",
-            "postcode": "WF3 3QU",
             "id": "GB-CASC-63fbffb9",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-c66defe5",
             "name": "Carlton Cricket Club",
             "address": "Town Street, Carlton, Wakefield",
             "postcode": "WF3 3QU",
             "active": false
+        },
+        {
+            "name": "Carlton Cricket Club",
+            "address": "Town Street, Carlton, Wakefield",
+            "postcode": "WF3 3QU",
+            "id": "GB-CASC-c66defe5",
+            "active": true
         },
         {
             "name": "Carlton Squash Club",
@@ -14988,18 +14988,18 @@
             "active": false
         },
         {
+            "name": "Dorset Gliding Club Ltd",
+            "address": "STAFFORD HOUSE, 10 PRINCE OF WALES ROAD, DORCHESTER",
+            "postcode": "DT1 1PW",
             "id": "GB-CASC-4e316c88",
+            "active": true
+        },
+        {
+            "id": "GB-CASC-71fb9c31",
             "name": "Dorset Gliding Club Ltd",
             "address": "STAFFORD HOUSE, 10 PRINCE OF WALES ROAD, DORCHESTER",
             "postcode": "DT1 1PW",
             "active": false
-        },
-        {
-            "name": "Dorset Gliding Club Ltd",
-            "address": "STAFFORD HOUSE, 10 PRINCE OF WALES ROAD, DORCHESTER",
-            "postcode": "DT1 1PW",
-            "id": "GB-CASC-71fb9c31",
-            "active": true
         },
         {
             "name": "Dorsey Emmett's GFC",
@@ -16745,18 +16745,18 @@
             "active": true
         },
         {
-            "name": "Edgbaston Croquet Club",
-            "address": "18 RICHMOND HILL ROAD, BIRMINGHAM",
-            "postcode": "B15 3RP",
             "id": "GB-CASC-19bb2ea8",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-4000869b",
             "name": "Edgbaston Croquet Club",
             "address": "18 RICHMOND HILL ROAD, BIRMINGHAM",
             "postcode": "B15 3RP",
             "active": false
+        },
+        {
+            "name": "Edgbaston Croquet Club",
+            "address": "18 RICHMOND HILL ROAD, BIRMINGHAM",
+            "postcode": "B15 3RP",
+            "id": "GB-CASC-4000869b",
+            "active": true
         },
         {
             "name": "Edgehill Gliding Centre Limited",
@@ -19167,18 +19167,18 @@
             "active": true
         },
         {
+            "name": "Frimley Tennis Club",
+            "address": "WATCHETTS RECREATION GROUND, PARK ROAD, CAMBERLEY",
+            "postcode": "GU15 2SR",
             "id": "GB-CASC-b05e0b2f",
+            "active": true
+        },
+        {
+            "id": "GB-CASC-d2aff3ae",
             "name": "Frimley Tennis Club",
             "address": "WATCHETTS RECREATION GROUND, PARK ROAD, CAMBERLEY",
             "postcode": "GU15 2SR",
             "active": false
-        },
-        {
-            "name": "Frimley Tennis Club",
-            "address": "WATCHETTS RECREATION GROUND, PARK ROAD, CAMBERLEY",
-            "postcode": "GU15 2SR",
-            "id": "GB-CASC-d2aff3ae",
-            "active": true
         },
         {
             "name": "Frindsbury Cricket Club",
@@ -20847,11 +20847,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-72dd0e44",
             "name": "Greenmount Cricket Club Limited",
             "address": "BRANDLESHOLME ROAD, GREENMOUNT, BURY",
             "postcode": "BL8 4DX",
-            "active": false
+            "id": "GB-CASC-72dd0e44",
+            "active": true
         },
         {
             "name": "Greenock Wanderers Rugby Football Club",
@@ -32271,18 +32271,18 @@
             "active": true
         },
         {
-            "name": "Molesey Boat Club",
-            "address": "BARGE WALK, EAST MOLESEY",
-            "postcode": "KT8 9AJ",
             "id": "GB-CASC-18ba8f07",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-8c1ccfa0",
             "name": "Molesey Boat Club",
             "address": "BARGE WALK, EAST MOLESEY",
             "postcode": "KT8 9AJ",
             "active": false
+        },
+        {
+            "name": "Molesey Boat Club",
+            "address": "BARGE WALK, EAST MOLESEY",
+            "postcode": "KT8 9AJ",
+            "id": "GB-CASC-8c1ccfa0",
+            "active": true
         },
         {
             "name": "Moneyslane Football Club",
@@ -33769,18 +33769,18 @@
             "active": true
         },
         {
-            "name": "Norfolk Bowmen",
-            "address": "60 HAVERSCROFT CLOSE, TAVERHAM, NORWICH",
-            "postcode": "NR8 6LU",
             "id": "GB-CASC-e98b7a57",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-5c7166e5",
             "name": "Norfolk Bowmen",
             "address": "60 HAVERSCROFT CLOSE, TAVERHAM, NORWICH",
             "postcode": "NR8 6LU",
             "active": false
+        },
+        {
+            "name": "Norfolk Bowmen",
+            "address": "60 HAVERSCROFT CLOSE, TAVERHAM, NORWICH",
+            "postcode": "NR8 6LU",
+            "id": "GB-CASC-5c7166e5",
+            "active": true
         },
         {
             "name": "Norfolk Brawds Roller Derby",
@@ -33930,18 +33930,18 @@
             "active": true
         },
         {
-            "name": "North Duffield Bowling Club",
-            "address": "8 WENLOCK DRIVE, ESCRICK, YORK",
-            "postcode": "YO19 6JB",
             "id": "GB-CASC-d7dabea8",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-812991b8",
             "name": "North Duffield Bowling Club",
             "address": "8 WENLOCK DRIVE, ESCRICK, YORK",
             "postcode": "YO19 6JB",
             "active": false
+        },
+        {
+            "name": "North Duffield Bowling Club",
+            "address": "8 WENLOCK DRIVE, ESCRICK, YORK",
+            "postcode": "YO19 6JB",
+            "id": "GB-CASC-812991b8",
+            "active": true
         },
         {
             "name": "North Duffield Cricket Club",
