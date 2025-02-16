@@ -1422,8 +1422,8 @@ GB-CASC-f30de8e0,Carlisle Golf Club Ltd,"AGLIONBY, CARLISLE, CUMBRIA, —",CA4 8
 GB-CASC-76a7f306,Carlisle Mountaineering Club Limited,"MEADOW VIEW, CARLETON DERRICK DRIVE, PENRITH, —",CA11 8LS,True
 GB-CASC-911b5285,Carlisle Squash and Racketball Club Limi ted,"Carlisle Squash Club, Rugby Ground, Warwick Road, Carlisle",CA1 1LW,True
 GB-CASC-dec50fbc,Carloway Football Club,"CARLOWAY ALL WEATHER SPORTS, PENTLAND ROAD, CARLOWAY, ISLE OF LEWIS",HS2 9AX,True
-GB-CASC-c66defe5,Carlton Cricket Club,"Town Street, Carlton, Wakefield, —",WF3 3QU,True
-GB-CASC-63fbffb9,Carlton Cricket Club Ltd,"180 GRANGE LOAN, EDINBURGH, —, —",EH9 2EE,True
+GB-CASC-c66defe5,Carlton Cricket Club,"Town Street, Carlton, Wakefield, —",WF3 3QU,False
+GB-CASC-63fbffb9,Carlton Cricket Club,"Town Street, Carlton, Wakefield, —",WF3 3QU,True
 GB-CASC-17b5c603,Carlton Squash Club,"School Lane, Carlton, Bedford, —",MK43 7LH,True
 GB-CASC-4ec95f22,Carmarthen Athletic Rugby Football Club,"Friars Park, Carmarthen, —, —",SA31 3AN,True
 GB-CASC-87f5811e,Carmarthen Golf Club,"Carmarthen Golf Club, Blaeny Coed Road, Carmarthen",SA33 6EH,False
@@ -2598,8 +2598,8 @@ GB-CASC-cd98f75f,Edenbridge and District Rifle Club,"LAVEROCK, BLACKBERRY ROAD, 
 GB-CASC-e0a308e8,Edenfield Cricket Club,"Edenfield Cricket Club, GINCROFT LANE, EDENFIELD, RAMSBOTTOM",BL0 0JW,True
 GB-CASC-0390ca06,Edensoaring Limited,"SKELLING FARM, KIRKLAND ROAD, SKIRWITH, PENRITH",CA10 1RL,True
 GB-CASC-dcadffa4,Edenthorpe Junior Football Club,"16 Craigholme Crescent, Wheatley Hills, Doncaster, South Yorkshire",DN2 5RE,True
-GB-CASC-19bb2ea8,Edgbaston Croquet Club,"18 RICHMOND HILL ROAD, BIRMINGHAM, —, —",B15 3RP,False
-GB-CASC-4000869b,Edgbaston Croquet Club,"18 RICHMOND HILL ROAD, BIRMINGHAM, —, —",B15 3RP,True
+GB-CASC-19bb2ea8,Edgbaston Croquet Club,"18 RICHMOND HILL ROAD, BIRMINGHAM, —, —",B15 3RP,True
+GB-CASC-4000869b,Edgbaston Croquet Club,"18 RICHMOND HILL ROAD, BIRMINGHAM, —, —",B15 3RP,False
 GB-CASC-865ec1f5,Edgehill Gliding Centre Limited,"Shenington Airfield, Rattlecombe Road, Shenington, Banbury",OX15 6NY,True
 GB-CASC-25a1b905,Edinburgh Bats Rugby,"7 ESSEX ROAD, EDINBURGH, —, —",EH4 6LF,True
 GB-CASC-57bf9593,Edinburgh Croquet Club,"FLAT 1, 1 HIGH WATERFIELD, EDINBURGH, —",EH10 6TQ,True
@@ -3123,8 +3123,8 @@ GB-CASC-11b8bb9b,Godalming Amateur Swimming Club,"8 CHAPEL CLOSE, MILFORD, GODAL
 GB-CASC-10d03d6e,Godalming Badminton Club,"12 ORWELL ROAD, PETERSFIELD, —, —",GU31 4LQ,True
 GB-CASC-f2f57acd,Godalming Bowling Club,"The Burys, Godalming, Surrey, —",GU7 1HT,True
 GB-CASC-d5a6ab2e,Godalming Cricket Club,"Holloway Hill, Busbridge Lane, Godalming, Surrey",GU7 1QD,True
-GB-CASC-3fd4f401,Godalming Lawn Tennis Club,"Godalming Lawn Tennis Club, Summers Road, Godalming, —",GU7 3BH,False
-GB-CASC-359b1d67,Godalming Lawn Tennis Club,"Godalming Lawn Tennis Club, Summers Road, Godalming, —",GU7 3BH,True
+GB-CASC-3fd4f401,Godalming Lawn Tennis Club,"Godalming Lawn Tennis Club, Summers Road, Godalming, —",GU7 3BH,True
+GB-CASC-359b1d67,Godalming Lawn Tennis Club,"Godalming Lawn Tennis Club, Summers Road, Godalming, —",GU7 3BH,False
 GB-CASC-8e864c39,Godalming and Farncombe Bowling Club,"The Burys, Godalming, Surrey, —",GU7 1HT,True
 GB-CASC-16f22dbc,Golcar Cricket & Athletic Club,"Swallow Lane, Golcar, Huddersfield, —",HD7 4NB,True
 GB-CASC-3eb73887,Golden Star ABC Sports and Fitness Centr  e,"Golden Star ABC Sports and Fitness, Princes Road, Ellesmere Port, —",CH65 8EU,True
@@ -3238,7 +3238,7 @@ GB-CASC-60d0d519,Greenhill JFC,"SPRINGS ACADEMY, HURLFIELD ROAD, SHEFFIELD, —"
 GB-CASC-62de582d,Greenisland Ladies Hockey Club,"63 Upper Road, Greenisland, —, —",BT38 8RH,True
 GB-CASC-fbddc97f,Greenisland War Memorial Sports Club,"63 Upper Road, Greenisland, Carrickfergus, Co Durham",BT38 8RH,True
 GB-CASC-90ffdf4a,Greenmount Cricket Club,"Greenmount Cricket Club, Brandlesholme Road, Greenmount, Bury",BL8 4DX,True
-GB-CASC-72dd0e44,Greenmount Cricket Club Limited,"BRANDLESHOLME ROAD, GREENMOUNT, BURY, —",BL8 4DX,False
+GB-CASC-72dd0e44,Greenmount Cricket Club Limited,"BRANDLESHOLME ROAD, GREENMOUNT, BURY, —",BL8 4DX,True
 GB-CASC-1f372d6a,Greenock Wanderers Rugby Football Club,"Greenock Wanderers Rugby Football Club, Octavia Terrace, Greenock, —",PA16 7PX,True
 GB-CASC-a16fd530,Greenside Cricket Club,"Clubhouse, Low Greenside, Ryton, Tyne &Wear",NE40 4AA,True
 GB-CASC-8a2c1993,Greenways Aces Football Club,"38 GLOUCESTER ROAD, GRAVESEND, —, —",DA12 5JY,True
@@ -5246,8 +5246,8 @@ GB-CASC-c1835cea,Norbury Amalgamated Sports Club,"Norbury Playing Fields, Off Ch
 GB-CASC-f2a075e5,Norbury Amalgamated Sports Club,"Norbury Playing Fields, Off Chester Road, Hazel Grove, Stockport,  Cheshire",—,True
 GB-CASC-10857722,Nordic Divers British Sub-Aqua Club,"ll Billsdale Close, Worthallerton, North Yorkshire, —",DL7 8FT,True
 GB-CASC-adb5cbf7,Norfolk Bowling Club,"444A Unthank Road, Norwich, Norfolk, —",NR4 7QH,True
-GB-CASC-e98b7a57,Norfolk Bowmen,"60 HAVERSCROFT CLOSE, TAVERHAM, NORWICH, —",NR8 6LU,False
-GB-CASC-5c7166e5,Norfolk Bowmen,"60 HAVERSCROFT CLOSE, TAVERHAM, NORWICH, —",NR8 6LU,True
+GB-CASC-e98b7a57,Norfolk Bowmen,"60 HAVERSCROFT CLOSE, TAVERHAM, NORWICH, —",NR8 6LU,True
+GB-CASC-5c7166e5,Norfolk Bowmen,"60 HAVERSCROFT CLOSE, TAVERHAM, NORWICH, —",NR8 6LU,False
 GB-CASC-2dc43a62,Norfolk Brawds Roller Derby,"NBRD - The Treasurer, 1 West Gatehouse, St Andrews Park, Thorpe St Andrew, Norwich",NR7 0GP,True
 GB-CASC-6d179225,Norfolk Gliding Club Ltd,"NORFOLK GLIDING CLUB LTD, TIBENHAM AIRFIELD, DISS, NORFOLK",NR16 1NT,True
 GB-CASC-15f07825,Norfolk Hang Gliding & Paragliding Club,"HILL FARM, GREAT FRANSHAM, DEREHAM, NORFOLK",NR19 2JA,True
@@ -5269,8 +5269,8 @@ GB-CASC-a4e6543f,North Devon Yacht Club,"North Devon Yacht Club, Instow, Bidefor
 GB-CASC-f7d33604,North Down Athletic Club,"292 OLD BELFAST ROAD, BANGOR, —, —",BT19 1LU,True
 GB-CASC-013ffab8,North Down Cricket Club,"The Green, Castle Lane, Comber, —",BT23 5EB,True
 GB-CASC-9afd7321,North Down Hockey Club,"15 CASTLE STREET, COMBER, NEWTOWNARDS, —",BT23 5DY,True
-GB-CASC-d7dabea8,North Duffield Bowling Club,"8 WENLOCK DRIVE, ESCRICK, YORK, —",YO19 6JB,True
-GB-CASC-812991b8,North Duffield Bowling Club,"8 WENLOCK DRIVE, ESCRICK, YORK, —",YO19 6JB,False
+GB-CASC-d7dabea8,North Duffield Bowling Club,"8 WENLOCK DRIVE, ESCRICK, YORK, —",YO19 6JB,False
+GB-CASC-812991b8,North Duffield Bowling Club,"8 WENLOCK DRIVE, ESCRICK, YORK, —",YO19 6JB,True
 GB-CASC-2aa367f9,North Duffield Cricket Club,"York Road, North Duffield, —, —",YO8 5SQ,True
 GB-CASC-b25ac4ef,North Duffield Dragons Football Club,"NORTH DUFFIELD & SKIPWITH PFA, YORK ROAD, NORTH DUFFIELD, SELBY",YO8 5RU,True
 GB-CASC-9d35644c,North Dulwich Lawn Tennis Club,"21 COLYTON ROAD, EAST DULWICH, LONDON, —",SE22 0NE,True
@@ -5454,8 +5454,8 @@ GB-CASC-f9715c20,Old Bleach Bowling Club,"Neillsbrook Road, Neillsbrook, Randals
 GB-CASC-0fa0a321,Old Bleach Cycle Club,"ARCHES HOUSE, ARCHES LANE, MAIN STREET, RANDALSTOWN",BT41 3AB,True
 GB-CASC-9e755ffb,Old Boltonians AFC,"78 CHORLEY NEW ROAD, BOLTON, —, —",BL1 4BY,True
 GB-CASC-89c457da,Old Bordenian Hockey Club,"BORDEN GRAMMER SCHOOL, AVENUE OF REMEMBERANCE, SITTINGBOURNE, KENT",ME10 4DB,True
-GB-CASC-a20c2fd4,Old Brodleians Rugby Union Football Club,"Woodhead, Denholmegate Road, Hipperholme, Halifax,  West Yorkshire",HX3 8JU,True
-GB-CASC-3cb5041e,Old Brodleians Rugby Union Football Club  Limited,"Woodhead, Denholme Gate Road, Hipperholme, Halifax",HX3 8JT,True
+GB-CASC-a20c2fd4,Old Brodleians Rugby Union Football Club,"Woodhead, Denholmegate Road, Hipperholme, Halifax,  West Yorkshire",HX3 8JU,False
+GB-CASC-3cb5041e,Old Brodleians Rugby Union Football Club,"Woodhead, Denholmegate Road, Hipperholme, Halifax,  West Yorkshire",HX3 8JU,True
 GB-CASC-be7b5bb4,Old Bromleians Football Club,"Scrubs Farm, Lower Gravel Road, Bromley, Kent",BR2 8LL,True
 GB-CASC-c622d4d5,Old Camdenians Cricket Club,"Burtonhole Close, London, —, —",NW7 1AN,True
 GB-CASC-6ddae751,Old Chelmsfordians Association,"Lawford Lane, Chelmsford, —, —",CM1 2NS,True
@@ -5781,8 +5781,8 @@ GB-CASC-8d6ced2c,Plockton Small Boat Sailing Club,"Rescue Boat House, Bank Stree
 GB-CASC-0a63681c,Plumpton Tennis Club,"31 ALEXANDRA ROAD, BURGESS HILL, —, —",RH15 0EN,True
 GB-CASC-3e237acd,Plumstead Runners,"6 LAPWINGS, LONGFIELD, —, —",DA3 7NH,True
 GB-CASC-67668666,Plumtree Cricket Club,"Plumtree Cricket Club, Plumtree Barn, Bradmore Lane, Plumtree Nottingham",NG12 5EW,True
-GB-CASC-43f1a315,Plymouth (Sir Francis Drake) Bowling Clu  B,"Whiteford Road, Mannamead, Plymouth, —",PL3 5LZ,True
-GB-CASC-45c8e233,Plymouth (Sir Francis Drake) Bowling Clu  B,"Whiteford Road, Mannamead, Plymouth, —",PL3 5LZ,False
+GB-CASC-43f1a315,Plymouth (Sir Francis Drake) Bowling Clu  B,"Whiteford Road, Mannamead, Plymouth, —",PL3 5LZ,False
+GB-CASC-45c8e233,Plymouth (Sir Francis Drake) Bowling Clu  B,"Whiteford Road, Mannamead, Plymouth, —",PL3 5LZ,True
 GB-CASC-d16698cd,Plymouth Amateur Rowing Club,"100 MOUNT GOULD ROAD, PLYMOUTH, —, —",PL4 7PX,True
 GB-CASC-8cb0035a,Plymouth City Motopark Community Club,"277 ERNESETTLE LANE, PLYMOUTH, —, —",PL5 2EY,True
 GB-CASC-6b044c84,Plymouth Civil Service Cricket Club,"Plymouth Civil Service Cricket Club, Recreation Ground, Beacon Down, Plymouth",PL2 3NA,True
