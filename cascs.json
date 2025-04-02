@@ -18194,18 +18194,18 @@
             "active": true
         },
         {
-            "name": "Edgbaston Croquet Club",
-            "address": "18 RICHMOND HILL ROAD, BIRMINGHAM, \u2014, \u2014",
-            "postcode": "B15 3RP",
             "id": "GB-CASC-19bb2ea8",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-4000869b",
             "name": "Edgbaston Croquet Club",
             "address": "18 RICHMOND HILL ROAD, BIRMINGHAM, \u2014, \u2014",
             "postcode": "B15 3RP",
             "active": false
+        },
+        {
+            "name": "Edgbaston Croquet Club",
+            "address": "18 RICHMOND HILL ROAD, BIRMINGHAM, \u2014, \u2014",
+            "postcode": "B15 3RP",
+            "id": "GB-CASC-4000869b",
+            "active": true
         },
         {
             "name": "Edgehill Gliding Centre Limited",
@@ -36730,18 +36730,18 @@
             "active": true
         },
         {
-            "name": "Norfolk Bowmen",
-            "address": "60 HAVERSCROFT CLOSE, TAVERHAM, NORWICH, \u2014",
-            "postcode": "NR8 6LU",
             "id": "GB-CASC-e98b7a57",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-5c7166e5",
             "name": "Norfolk Bowmen",
             "address": "60 HAVERSCROFT CLOSE, TAVERHAM, NORWICH, \u2014",
             "postcode": "NR8 6LU",
             "active": false
+        },
+        {
+            "name": "Norfolk Bowmen",
+            "address": "60 HAVERSCROFT CLOSE, TAVERHAM, NORWICH, \u2014",
+            "postcode": "NR8 6LU",
+            "id": "GB-CASC-5c7166e5",
+            "active": true
         },
         {
             "name": "Norfolk Brawds Roller Derby",
@@ -38081,18 +38081,18 @@
             "active": true
         },
         {
-            "name": "Okehampton Golf Club Ltd",
-            "address": "TORS ROAD, OKEHAMPTON, \u2014, \u2014",
-            "postcode": "EX20 1EF",
             "id": "GB-CASC-fe48ca6c",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-96e4b653",
             "name": "Okehampton Golf Club Ltd",
             "address": "TORS ROAD, OKEHAMPTON, \u2014, \u2014",
             "postcode": "EX20 1EF",
             "active": false
+        },
+        {
+            "name": "Okehampton Golf Club Ltd",
+            "address": "TORS ROAD, OKEHAMPTON, \u2014, \u2014",
+            "postcode": "EX20 1EF",
+            "id": "GB-CASC-96e4b653",
+            "active": true
         },
         {
             "name": "Okehampton Rugby Football Club",
@@ -38186,16 +38186,16 @@
             "active": true
         },
         {
-            "id": "GB-CASC-a20c2fd4",
             "name": "Old Brodleians Rugby Union Football Club",
             "address": "Woodhead, Denholmegate Road, Hipperholme, Halifax,  West Yorkshire",
             "postcode": "HX3 8JU",
-            "active": false
+            "id": "GB-CASC-a20c2fd4",
+            "active": true
         },
         {
-            "name": "Old Brodleians Rugby Union Football Club",
-            "address": "Woodhead, Denholmegate Road, Hipperholme, Halifax,  West Yorkshire",
-            "postcode": "HX3 8JU",
+            "name": "Old Brodleians Rugby Union Football Club  Limited",
+            "address": "Woodhead, Denholme Gate Road, Hipperholme, Halifax",
+            "postcode": "HX3 8JT",
             "id": "GB-CASC-3cb5041e",
             "active": true
         },
@@ -40475,18 +40475,18 @@
             "active": true
         },
         {
+            "name": "Plymouth (Sir Francis Drake) Bowling Clu  B",
+            "address": "Whiteford Road, Mannamead, Plymouth, \u2014",
+            "postcode": "PL3 5LZ",
             "id": "GB-CASC-43f1a315",
+            "active": true
+        },
+        {
+            "id": "GB-CASC-45c8e233",
             "name": "Plymouth (Sir Francis Drake) Bowling Clu  B",
             "address": "Whiteford Road, Mannamead, Plymouth, \u2014",
             "postcode": "PL3 5LZ",
             "active": false
-        },
-        {
-            "name": "Plymouth (Sir Francis Drake) Bowling Clu  B",
-            "address": "Whiteford Road, Mannamead, Plymouth, \u2014",
-            "postcode": "PL3 5LZ",
-            "id": "GB-CASC-45c8e233",
-            "active": true
         },
         {
             "name": "Plymouth Amateur Rowing Club",
@@ -57408,18 +57408,18 @@
             "active": true
         },
         {
+            "name": "Widnes Golf Club",
+            "address": "Highfield Road, Widnes, Cheshire, \u2014",
+            "postcode": "WA8 7DT",
             "id": "GB-CASC-15e8147f",
+            "active": true
+        },
+        {
+            "id": "GB-CASC-bf68f4ab",
             "name": "Widnes Golf Club",
             "address": "Highfield Road, Widnes, Cheshire, \u2014",
             "postcode": "WA8 7DT",
             "active": false
-        },
-        {
-            "name": "Widnes Golf Club",
-            "address": "Highfield Road, Widnes, Cheshire, \u2014",
-            "postcode": "WA8 7DT",
-            "id": "GB-CASC-bf68f4ab",
-            "active": true
         },
         {
             "name": "Widnes R U F C",
@@ -57926,18 +57926,18 @@
             "active": true
         },
         {
-            "name": "Winsley Cricket Club",
-            "address": "93 LACOCK GARDENS, HILPERTON, TROWBRIDGE, \u2014",
-            "postcode": "BA14 7TG",
             "id": "GB-CASC-03cc2bf6",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-86cce889",
             "name": "Winsley Cricket Club",
             "address": "93 LACOCK GARDENS, HILPERTON, TROWBRIDGE, \u2014",
             "postcode": "BA14 7TG",
             "active": false
+        },
+        {
+            "name": "Winsley Cricket Club",
+            "address": "93 LACOCK GARDENS, HILPERTON, TROWBRIDGE, \u2014",
+            "postcode": "BA14 7TG",
+            "id": "GB-CASC-86cce889",
+            "active": true
         },
         {
             "name": "Winsor United Football Club",
