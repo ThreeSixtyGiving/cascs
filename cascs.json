@@ -10137,18 +10137,18 @@
             "active": true
         },
         {
+            "name": "Carlton Cricket Club",
+            "address": "Town Street, Carlton, Wakefield, \u2014",
+            "postcode": "WF3 3QU",
             "id": "GB-CASC-63fbffb9",
+            "active": true
+        },
+        {
+            "id": "GB-CASC-c66defe5",
             "name": "Carlton Cricket Club",
             "address": "Town Street, Carlton, Wakefield, \u2014",
             "postcode": "WF3 3QU",
             "active": false
-        },
-        {
-            "name": "Carlton Cricket Club",
-            "address": "Town Street, Carlton, Wakefield, \u2014",
-            "postcode": "WF3 3QU",
-            "id": "GB-CASC-c66defe5",
-            "active": true
         },
         {
             "name": "Carlton Squash Club",
@@ -18810,18 +18810,18 @@
             "active": true
         },
         {
-            "name": "Elgin Curling Club",
-            "address": "4 LEONACH PLACE, ELGIN, \u2014, \u2014",
-            "postcode": "IV30 6JT",
             "id": "GB-CASC-1d8268e1",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-4163577d",
             "name": "Elgin Curling Club",
             "address": "4 LEONACH PLACE, ELGIN, \u2014, \u2014",
             "postcode": "IV30 6JT",
             "active": false
+        },
+        {
+            "name": "Elgin Curling Club",
+            "address": "4 LEONACH PLACE, ELGIN, \u2014, \u2014",
+            "postcode": "IV30 6JT",
+            "id": "GB-CASC-4163577d",
+            "active": true
         },
         {
             "name": "Elgin Miniature Rifle Club",
@@ -21260,18 +21260,18 @@
             "active": true
         },
         {
-            "name": "Frimley Tennis Club",
-            "address": "WATCHETTS RECREATION GROUND, PARK ROAD, CAMBERLEY, \u2014",
-            "postcode": "GU15 2SR",
             "id": "GB-CASC-b05e0b2f",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-d2aff3ae",
             "name": "Frimley Tennis Club",
             "address": "WATCHETTS RECREATION GROUND, PARK ROAD, CAMBERLEY, \u2014",
             "postcode": "GU15 2SR",
             "active": false
+        },
+        {
+            "name": "Frimley Tennis Club",
+            "address": "WATCHETTS RECREATION GROUND, PARK ROAD, CAMBERLEY, \u2014",
+            "postcode": "GU15 2SR",
+            "id": "GB-CASC-d2aff3ae",
+            "active": true
         },
         {
             "name": "Frindsbury Cricket Club",
@@ -23136,11 +23136,11 @@
             "active": true
         },
         {
+            "id": "GB-CASC-72dd0e44",
             "name": "Greenmount Cricket Club Limited",
             "address": "BRANDLESHOLME ROAD, GREENMOUNT, BURY, \u2014",
             "postcode": "BL8 4DX",
-            "id": "GB-CASC-72dd0e44",
-            "active": true
+            "active": false
         },
         {
             "name": "Greenock Wanderers Rugby Football Club",
@@ -32740,18 +32740,18 @@
             "active": true
         },
         {
-            "name": "Long Yang Club Badminton London",
-            "address": "FLAT 8, 300 STEPNEY WAY, LONDON, \u2014",
-            "postcode": "E1 3DW",
             "id": "GB-CASC-fa9297e7",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-589dedfc",
             "name": "Long Yang Club Badminton London",
             "address": "FLAT 8, 300 STEPNEY WAY, LONDON, \u2014",
             "postcode": "E1 3DW",
             "active": false
+        },
+        {
+            "name": "Long Yang Club Badminton London",
+            "address": "FLAT 8, 300 STEPNEY WAY, LONDON, \u2014",
+            "postcode": "E1 3DW",
+            "id": "GB-CASC-589dedfc",
+            "active": true
         },
         {
             "name": "Longlevens Rugby Football Club Ltd",
@@ -37402,18 +37402,18 @@
             "active": true
         },
         {
-            "name": "Norfolk Bowmen",
-            "address": "60 HAVERSCROFT CLOSE, TAVERHAM, NORWICH, \u2014",
-            "postcode": "NR8 6LU",
             "id": "GB-CASC-e98b7a57",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-5c7166e5",
             "name": "Norfolk Bowmen",
             "address": "60 HAVERSCROFT CLOSE, TAVERHAM, NORWICH, \u2014",
             "postcode": "NR8 6LU",
             "active": false
+        },
+        {
+            "name": "Norfolk Bowmen",
+            "address": "60 HAVERSCROFT CLOSE, TAVERHAM, NORWICH, \u2014",
+            "postcode": "NR8 6LU",
+            "id": "GB-CASC-5c7166e5",
+            "active": true
         },
         {
             "name": "Norfolk Brawds Roller Derby",
@@ -37563,18 +37563,18 @@
             "active": true
         },
         {
+            "name": "North Duffield Bowling Club",
+            "address": "8 WENLOCK DRIVE, ESCRICK, YORK, \u2014",
+            "postcode": "YO19 6JB",
             "id": "GB-CASC-d7dabea8",
+            "active": true
+        },
+        {
+            "id": "GB-CASC-812991b8",
             "name": "North Duffield Bowling Club",
             "address": "8 WENLOCK DRIVE, ESCRICK, YORK, \u2014",
             "postcode": "YO19 6JB",
             "active": false
-        },
-        {
-            "name": "North Duffield Bowling Club",
-            "address": "8 WENLOCK DRIVE, ESCRICK, YORK, \u2014",
-            "postcode": "YO19 6JB",
-            "id": "GB-CASC-812991b8",
-            "active": true
         },
         {
             "name": "North Duffield Cricket Club",
@@ -38872,16 +38872,16 @@
             "active": true
         },
         {
-            "id": "GB-CASC-a20c2fd4",
             "name": "Old Brodleians Rugby Union Football Club",
             "address": "Woodhead, Denholmegate Road, Hipperholme, Halifax,  West Yorkshire",
             "postcode": "HX3 8JU",
-            "active": false
+            "id": "GB-CASC-a20c2fd4",
+            "active": true
         },
         {
-            "name": "Old Brodleians Rugby Union Football Club",
-            "address": "Woodhead, Denholmegate Road, Hipperholme, Halifax,  West Yorkshire",
-            "postcode": "HX3 8JU",
+            "name": "Old Brodleians Rugby Union Football Club  Limited",
+            "address": "Woodhead, Denholme Gate Road, Hipperholme, Halifax",
+            "postcode": "HX3 8JT",
             "id": "GB-CASC-3cb5041e",
             "active": true
         },
@@ -41826,18 +41826,18 @@
             "active": true
         },
         {
-            "name": "Portsmouth Victoria Swimming Club",
-            "address": "91 HATHERLEY CRESCENT, FAREHAM, \u2014, \u2014",
-            "postcode": "PO16 9TW",
             "id": "GB-CASC-495848fe",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-9b27091d",
             "name": "Portsmouth Victoria Swimming Club",
             "address": "91 HATHERLEY CRESCENT, FAREHAM, \u2014, \u2014",
             "postcode": "PO16 9TW",
             "active": false
+        },
+        {
+            "name": "Portsmouth Victoria Swimming Club",
+            "address": "91 HATHERLEY CRESCENT, FAREHAM, \u2014, \u2014",
+            "postcode": "PO16 9TW",
+            "id": "GB-CASC-9b27091d",
+            "active": true
         },
         {
             "name": "Portsoy Coastal Rowing Club",
@@ -58948,18 +58948,18 @@
             "active": true
         },
         {
+            "name": "Winsley Cricket Club",
+            "address": "93 LACOCK GARDENS, HILPERTON, TROWBRIDGE, \u2014",
+            "postcode": "BA14 7TG",
             "id": "GB-CASC-03cc2bf6",
+            "active": true
+        },
+        {
+            "id": "GB-CASC-86cce889",
             "name": "Winsley Cricket Club",
             "address": "93 LACOCK GARDENS, HILPERTON, TROWBRIDGE, \u2014",
             "postcode": "BA14 7TG",
             "active": false
-        },
-        {
-            "name": "Winsley Cricket Club",
-            "address": "93 LACOCK GARDENS, HILPERTON, TROWBRIDGE, \u2014",
-            "postcode": "BA14 7TG",
-            "id": "GB-CASC-86cce889",
-            "active": true
         },
         {
             "name": "Winsor United Football Club",
