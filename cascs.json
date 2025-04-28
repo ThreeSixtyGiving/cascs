@@ -7372,15 +7372,15 @@
             "active": true
         },
         {
-            "id": "GB-CASC-34c78c8e",
             "name": "Brecon Bowling Club",
             "address": "Mill Green, The Promenade, Brecon, Powys",
             "postcode": "LD3 9BA",
-            "active": false
+            "id": "GB-CASC-34c78c8e",
+            "active": true
         },
         {
-            "name": "Brecon Bowling Club",
-            "address": "Mill Green, The Promenade, Brecon, Powys",
+            "name": "Brecon Bowling Club Ltd",
+            "address": "Brecon Bowling Club, MILL GREEN, BRECON, \u2014",
             "postcode": "LD3 9BA",
             "id": "GB-CASC-25f5d877",
             "active": true
@@ -18509,18 +18509,18 @@
             "active": true
         },
         {
-            "name": "Edgbaston Croquet Club",
-            "address": "18 RICHMOND HILL ROAD, BIRMINGHAM, \u2014, \u2014",
-            "postcode": "B15 3RP",
             "id": "GB-CASC-19bb2ea8",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-4000869b",
             "name": "Edgbaston Croquet Club",
             "address": "18 RICHMOND HILL ROAD, BIRMINGHAM, \u2014, \u2014",
             "postcode": "B15 3RP",
             "active": false
+        },
+        {
+            "name": "Edgbaston Croquet Club",
+            "address": "18 RICHMOND HILL ROAD, BIRMINGHAM, \u2014, \u2014",
+            "postcode": "B15 3RP",
+            "id": "GB-CASC-4000869b",
+            "active": true
         },
         {
             "name": "Edgehill Gliding Centre Limited",
@@ -18810,18 +18810,18 @@
             "active": true
         },
         {
+            "name": "Elgin Curling Club",
+            "address": "4 LEONACH PLACE, ELGIN, \u2014, \u2014",
+            "postcode": "IV30 6JT",
             "id": "GB-CASC-1d8268e1",
+            "active": true
+        },
+        {
+            "id": "GB-CASC-4163577d",
             "name": "Elgin Curling Club",
             "address": "4 LEONACH PLACE, ELGIN, \u2014, \u2014",
             "postcode": "IV30 6JT",
             "active": false
-        },
-        {
-            "name": "Elgin Curling Club",
-            "address": "4 LEONACH PLACE, ELGIN, \u2014, \u2014",
-            "postcode": "IV30 6JT",
-            "id": "GB-CASC-4163577d",
-            "active": true
         },
         {
             "name": "Elgin Miniature Rifle Club",
@@ -21260,14 +21260,14 @@
             "active": true
         },
         {
+            "id": "GB-CASC-b05e0b2f",
             "name": "Frimley Tennis Club",
             "address": "WATCHETTS RECREATION GROUND, PARK ROAD, CAMBERLEY, \u2014",
             "postcode": "GU15 2SR",
-            "id": "GB-CASC-b05e0b2f",
-            "active": true
+            "active": false
         },
         {
-            "name": "Frimley Tennis Club Limited",
+            "name": "Frimley Tennis Club",
             "address": "WATCHETTS RECREATION GROUND, PARK ROAD, CAMBERLEY, \u2014",
             "postcode": "GU15 2SR",
             "id": "GB-CASC-d2aff3ae",
@@ -23136,11 +23136,11 @@
             "active": true
         },
         {
+            "id": "GB-CASC-72dd0e44",
             "name": "Greenmount Cricket Club Limited",
             "address": "BRANDLESHOLME ROAD, GREENMOUNT, BURY, \u2014",
             "postcode": "BL8 4DX",
-            "id": "GB-CASC-72dd0e44",
-            "active": true
+            "active": false
         },
         {
             "name": "Greenock Wanderers Rugby Football Club",
@@ -32740,18 +32740,18 @@
             "active": true
         },
         {
+            "name": "Long Yang Club Badminton London",
+            "address": "FLAT 8, 300 STEPNEY WAY, LONDON, \u2014",
+            "postcode": "E1 3DW",
             "id": "GB-CASC-fa9297e7",
+            "active": true
+        },
+        {
+            "id": "GB-CASC-589dedfc",
             "name": "Long Yang Club Badminton London",
             "address": "FLAT 8, 300 STEPNEY WAY, LONDON, \u2014",
             "postcode": "E1 3DW",
             "active": false
-        },
-        {
-            "name": "Long Yang Club Badminton London",
-            "address": "FLAT 8, 300 STEPNEY WAY, LONDON, \u2014",
-            "postcode": "E1 3DW",
-            "id": "GB-CASC-589dedfc",
-            "active": true
         },
         {
             "name": "Longlevens Rugby Football Club Ltd",
@@ -38767,18 +38767,18 @@
             "active": true
         },
         {
+            "name": "Okehampton Golf Club Ltd",
+            "address": "TORS ROAD, OKEHAMPTON, \u2014, \u2014",
+            "postcode": "EX20 1EF",
             "id": "GB-CASC-fe48ca6c",
+            "active": true
+        },
+        {
+            "id": "GB-CASC-96e4b653",
             "name": "Okehampton Golf Club Ltd",
             "address": "TORS ROAD, OKEHAMPTON, \u2014, \u2014",
             "postcode": "EX20 1EF",
             "active": false
-        },
-        {
-            "name": "Okehampton Golf Club Ltd",
-            "address": "TORS ROAD, OKEHAMPTON, \u2014, \u2014",
-            "postcode": "EX20 1EF",
-            "id": "GB-CASC-96e4b653",
-            "active": true
         },
         {
             "name": "Okehampton Rugby Football Club",
@@ -38872,16 +38872,16 @@
             "active": true
         },
         {
+            "id": "GB-CASC-a20c2fd4",
             "name": "Old Brodleians Rugby Union Football Club",
             "address": "Woodhead, Denholmegate Road, Hipperholme, Halifax,  West Yorkshire",
             "postcode": "HX3 8JU",
-            "id": "GB-CASC-a20c2fd4",
-            "active": true
+            "active": false
         },
         {
-            "name": "Old Brodleians Rugby Union Football Club  Limited",
-            "address": "Woodhead, Denholme Gate Road, Hipperholme, Halifax",
-            "postcode": "HX3 8JT",
+            "name": "Old Brodleians Rugby Union Football Club",
+            "address": "Woodhead, Denholmegate Road, Hipperholme, Halifax,  West Yorkshire",
+            "postcode": "HX3 8JU",
             "id": "GB-CASC-3cb5041e",
             "active": true
         },
@@ -41826,18 +41826,18 @@
             "active": true
         },
         {
-            "name": "Portsmouth Victoria Swimming Club",
-            "address": "91 HATHERLEY CRESCENT, FAREHAM, \u2014, \u2014",
-            "postcode": "PO16 9TW",
             "id": "GB-CASC-495848fe",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-9b27091d",
             "name": "Portsmouth Victoria Swimming Club",
             "address": "91 HATHERLEY CRESCENT, FAREHAM, \u2014, \u2014",
             "postcode": "PO16 9TW",
             "active": false
+        },
+        {
+            "name": "Portsmouth Victoria Swimming Club",
+            "address": "91 HATHERLEY CRESCENT, FAREHAM, \u2014, \u2014",
+            "postcode": "PO16 9TW",
+            "id": "GB-CASC-9b27091d",
+            "active": true
         },
         {
             "name": "Portsoy Coastal Rowing Club",
@@ -58423,18 +58423,18 @@
             "active": true
         },
         {
+            "name": "Widnes Golf Club",
+            "address": "Highfield Road, Widnes, Cheshire, \u2014",
+            "postcode": "WA8 7DT",
             "id": "GB-CASC-15e8147f",
+            "active": true
+        },
+        {
+            "id": "GB-CASC-bf68f4ab",
             "name": "Widnes Golf Club",
             "address": "Highfield Road, Widnes, Cheshire, \u2014",
             "postcode": "WA8 7DT",
             "active": false
-        },
-        {
-            "name": "Widnes Golf Club",
-            "address": "Highfield Road, Widnes, Cheshire, \u2014",
-            "postcode": "WA8 7DT",
-            "id": "GB-CASC-bf68f4ab",
-            "active": true
         },
         {
             "name": "Widnes R U F C",
