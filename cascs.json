@@ -4495,18 +4495,18 @@
             "active": true
         },
         {
+            "name": "Beith Golf Club (2023) Ltd",
+            "address": "THREEPWOOD ROAD, BEITH, \u2014, \u2014",
+            "postcode": "KA15 2JR",
             "id": "GB-CASC-8489523b",
+            "active": true
+        },
+        {
+            "id": "GB-CASC-e2217d6c",
             "name": "Beith Golf Club (2023) Ltd",
             "address": "THREEPWOOD ROAD, BEITH, \u2014, \u2014",
             "postcode": "KA15 2JR",
             "active": false
-        },
-        {
-            "name": "Beith Golf Club (2023) Ltd",
-            "address": "THREEPWOOD ROAD, BEITH, \u2014, \u2014",
-            "postcode": "KA15 2JR",
-            "id": "GB-CASC-e2217d6c",
-            "active": true
         },
         {
             "id": "GB-CASC-4461f982",
@@ -21260,18 +21260,18 @@
             "active": true
         },
         {
+            "id": "GB-CASC-b05e0b2f",
             "name": "Frimley Tennis Club",
             "address": "WATCHETTS RECREATION GROUND, PARK ROAD, CAMBERLEY, \u2014",
             "postcode": "GU15 2SR",
-            "id": "GB-CASC-b05e0b2f",
-            "active": true
+            "active": false
         },
         {
-            "id": "GB-CASC-d2aff3ae",
-            "name": "Frimley Tennis Club Limited",
+            "name": "Frimley Tennis Club",
             "address": "WATCHETTS RECREATION GROUND, PARK ROAD, CAMBERLEY, \u2014",
             "postcode": "GU15 2SR",
-            "active": false
+            "id": "GB-CASC-d2aff3ae",
+            "active": true
         },
         {
             "name": "Frindsbury Cricket Club",
@@ -22303,18 +22303,18 @@
             "active": true
         },
         {
-            "name": "Godalming Lawn Tennis Club",
-            "address": "Godalming Lawn Tennis Club, Summers Road, Godalming, \u2014",
-            "postcode": "GU7 3BH",
             "id": "GB-CASC-3fd4f401",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-359b1d67",
             "name": "Godalming Lawn Tennis Club",
             "address": "Godalming Lawn Tennis Club, Summers Road, Godalming, \u2014",
             "postcode": "GU7 3BH",
             "active": false
+        },
+        {
+            "name": "Godalming Lawn Tennis Club",
+            "address": "Godalming Lawn Tennis Club, Summers Road, Godalming, \u2014",
+            "postcode": "GU7 3BH",
+            "id": "GB-CASC-359b1d67",
+            "active": true
         },
         {
             "name": "Godalming and Farncombe Bowling Club",
@@ -23136,11 +23136,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-72dd0e44",
             "name": "Greenmount Cricket Club Limited",
             "address": "BRANDLESHOLME ROAD, GREENMOUNT, BURY, \u2014",
             "postcode": "BL8 4DX",
-            "active": false
+            "id": "GB-CASC-72dd0e44",
+            "active": true
         },
         {
             "name": "Greenock Wanderers Rugby Football Club",
@@ -32740,18 +32740,18 @@
             "active": true
         },
         {
-            "name": "Long Yang Club Badminton London",
-            "address": "FLAT 8, 300 STEPNEY WAY, LONDON, \u2014",
-            "postcode": "E1 3DW",
             "id": "GB-CASC-fa9297e7",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-589dedfc",
             "name": "Long Yang Club Badminton London",
             "address": "FLAT 8, 300 STEPNEY WAY, LONDON, \u2014",
             "postcode": "E1 3DW",
             "active": false
+        },
+        {
+            "name": "Long Yang Club Badminton London",
+            "address": "FLAT 8, 300 STEPNEY WAY, LONDON, \u2014",
+            "postcode": "E1 3DW",
+            "id": "GB-CASC-589dedfc",
+            "active": true
         },
         {
             "name": "Longlevens Rugby Football Club Ltd",
@@ -37402,18 +37402,18 @@
             "active": true
         },
         {
-            "name": "Norfolk Bowmen",
-            "address": "60 HAVERSCROFT CLOSE, TAVERHAM, NORWICH, \u2014",
-            "postcode": "NR8 6LU",
             "id": "GB-CASC-e98b7a57",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-5c7166e5",
             "name": "Norfolk Bowmen",
             "address": "60 HAVERSCROFT CLOSE, TAVERHAM, NORWICH, \u2014",
             "postcode": "NR8 6LU",
             "active": false
+        },
+        {
+            "name": "Norfolk Bowmen",
+            "address": "60 HAVERSCROFT CLOSE, TAVERHAM, NORWICH, \u2014",
+            "postcode": "NR8 6LU",
+            "id": "GB-CASC-5c7166e5",
+            "active": true
         },
         {
             "name": "Norfolk Brawds Roller Derby",
@@ -38872,16 +38872,16 @@
             "active": true
         },
         {
-            "id": "GB-CASC-a20c2fd4",
             "name": "Old Brodleians Rugby Union Football Club",
             "address": "Woodhead, Denholmegate Road, Hipperholme, Halifax,  West Yorkshire",
             "postcode": "HX3 8JU",
-            "active": false
+            "id": "GB-CASC-a20c2fd4",
+            "active": true
         },
         {
-            "name": "Old Brodleians Rugby Union Football Club",
-            "address": "Woodhead, Denholmegate Road, Hipperholme, Halifax,  West Yorkshire",
-            "postcode": "HX3 8JU",
+            "name": "Old Brodleians Rugby Union Football Club  Limited",
+            "address": "Woodhead, Denholme Gate Road, Hipperholme, Halifax",
+            "postcode": "HX3 8JT",
             "id": "GB-CASC-3cb5041e",
             "active": true
         },
@@ -41826,18 +41826,18 @@
             "active": true
         },
         {
+            "name": "Portsmouth Victoria Swimming Club",
+            "address": "91 HATHERLEY CRESCENT, FAREHAM, \u2014, \u2014",
+            "postcode": "PO16 9TW",
             "id": "GB-CASC-495848fe",
+            "active": true
+        },
+        {
+            "id": "GB-CASC-9b27091d",
             "name": "Portsmouth Victoria Swimming Club",
             "address": "91 HATHERLEY CRESCENT, FAREHAM, \u2014, \u2014",
             "postcode": "PO16 9TW",
             "active": false
-        },
-        {
-            "name": "Portsmouth Victoria Swimming Club",
-            "address": "91 HATHERLEY CRESCENT, FAREHAM, \u2014, \u2014",
-            "postcode": "PO16 9TW",
-            "id": "GB-CASC-9b27091d",
-            "active": true
         },
         {
             "name": "Portsoy Coastal Rowing Club",
@@ -42477,11 +42477,11 @@
             "active": true
         },
         {
+            "id": "GB-CASC-a3573619",
             "name": "Rainham Cricket Club",
             "address": "Rainham Cricket Club, Spring Farm Park, Lambs Lane North, Rainham,  Essex",
             "postcode": "RM13 9XF",
-            "id": "GB-CASC-a3573619",
-            "active": true
+            "active": false
         },
         {
             "name": "Rainy City Rollergirls Ltd",
@@ -58423,18 +58423,18 @@
             "active": true
         },
         {
-            "name": "Widnes Golf Club",
-            "address": "Highfield Road, Widnes, Cheshire, \u2014",
-            "postcode": "WA8 7DT",
             "id": "GB-CASC-15e8147f",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-bf68f4ab",
             "name": "Widnes Golf Club",
             "address": "Highfield Road, Widnes, Cheshire, \u2014",
             "postcode": "WA8 7DT",
             "active": false
+        },
+        {
+            "name": "Widnes Golf Club",
+            "address": "Highfield Road, Widnes, Cheshire, \u2014",
+            "postcode": "WA8 7DT",
+            "id": "GB-CASC-bf68f4ab",
+            "active": true
         },
         {
             "name": "Widnes R U F C",
