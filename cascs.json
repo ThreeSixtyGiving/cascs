@@ -18642,18 +18642,18 @@
             "active": true
         },
         {
+            "name": "East Hanningfield & Great Bursted Cricke T Club",
+            "address": "74 ELM VIEW ROAD, BENFLEET, No data, No data",
+            "postcode": "SS7 5AS",
             "id": "GB-CASC-a5bda8b7",
+            "active": true
+        },
+        {
+            "id": "GB-CASC-f00b0044",
             "name": "East Hanningfield & Great Bursted Cricke T Club",
             "address": "74 ELM VIEW ROAD, BENFLEET, No data, No data",
             "postcode": "SS7 5AS",
             "active": false
-        },
-        {
-            "name": "East Hanningfield & Great Bursted Cricke T Club",
-            "address": "74 ELM VIEW ROAD, BENFLEET, No data, No data",
-            "postcode": "SS7 5AS",
-            "id": "GB-CASC-f00b0044",
-            "active": true
         },
         {
             "name": "East Harlsey Cricket Club",
@@ -21995,14 +21995,14 @@
             "active": true
         },
         {
+            "id": "GB-CASC-d2aff3ae",
             "name": "Frimley Tennis Club",
             "address": "WATCHETTS RECREATION GROUND, PARK ROAD, CAMBERLEY, No data",
             "postcode": "GU15 2SR",
-            "id": "GB-CASC-d2aff3ae",
-            "active": true
+            "active": false
         },
         {
-            "name": "Frimley Tennis Club Limited",
+            "name": "Frimley Tennis Club",
             "address": "WATCHETTS RECREATION GROUND, PARK ROAD, CAMBERLEY, No data",
             "postcode": "GU15 2SR",
             "id": "GB-CASC-b05e0b2f",
@@ -38823,18 +38823,18 @@
             "active": true
         },
         {
+            "name": "Norfolk Bowmen",
+            "address": "60 HAVERSCROFT CLOSE, TAVERHAM, NORWICH, No data",
+            "postcode": "NR8 6LU",
             "id": "GB-CASC-e98b7a57",
+            "active": true
+        },
+        {
+            "id": "GB-CASC-5c7166e5",
             "name": "Norfolk Bowmen",
             "address": "60 HAVERSCROFT CLOSE, TAVERHAM, NORWICH, No data",
             "postcode": "NR8 6LU",
             "active": false
-        },
-        {
-            "name": "Norfolk Bowmen",
-            "address": "60 HAVERSCROFT CLOSE, TAVERHAM, NORWICH, No data",
-            "postcode": "NR8 6LU",
-            "id": "GB-CASC-5c7166e5",
-            "active": true
         },
         {
             "name": "Norfolk Brawds Roller Derby",
@@ -43394,18 +43394,18 @@
             "active": true
         },
         {
+            "name": "Portsmouth Victoria Swimming Club",
+            "address": "91 HATHERLEY CRESCENT, FAREHAM, No data, No data",
+            "postcode": "PO16 9TW",
             "id": "GB-CASC-495848fe",
+            "active": true
+        },
+        {
+            "id": "GB-CASC-9b27091d",
             "name": "Portsmouth Victoria Swimming Club",
             "address": "91 HATHERLEY CRESCENT, FAREHAM, No data, No data",
             "postcode": "PO16 9TW",
             "active": false
-        },
-        {
-            "name": "Portsmouth Victoria Swimming Club",
-            "address": "91 HATHERLEY CRESCENT, FAREHAM, No data, No data",
-            "postcode": "PO16 9TW",
-            "id": "GB-CASC-9b27091d",
-            "active": true
         },
         {
             "name": "Portsoy Coastal Rowing Club",
@@ -44066,18 +44066,18 @@
             "active": true
         },
         {
-            "name": "Rainham Cricket Club",
-            "address": "BERENGROVE PARK, BERENGRAVE LANE, RAINHAM, KENT",
-            "postcode": "ME8 7NA",
             "id": "GB-CASC-f7d93399",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-a3573619",
             "name": "Rainham Cricket Club",
             "address": "BERENGROVE PARK, BERENGRAVE LANE, RAINHAM, KENT",
             "postcode": "ME8 7NA",
             "active": false
+        },
+        {
+            "name": "Rainham Cricket Club",
+            "address": "BERENGROVE PARK, BERENGRAVE LANE, RAINHAM, KENT",
+            "postcode": "ME8 7NA",
+            "id": "GB-CASC-a3573619",
+            "active": true
         },
         {
             "name": "Rainy City Rollergirls Ltd",
@@ -60572,18 +60572,18 @@
             "active": true
         },
         {
-            "name": "Widnes Golf Club",
-            "address": "Highfield Road, Widnes, Cheshire, No data",
-            "postcode": "WA8 7DT",
             "id": "GB-CASC-15e8147f",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-bf68f4ab",
             "name": "Widnes Golf Club",
             "address": "Highfield Road, Widnes, Cheshire, No data",
             "postcode": "WA8 7DT",
             "active": false
+        },
+        {
+            "name": "Widnes Golf Club",
+            "address": "Highfield Road, Widnes, Cheshire, No data",
+            "postcode": "WA8 7DT",
+            "id": "GB-CASC-bf68f4ab",
+            "active": true
         },
         {
             "name": "Widnes R U F C",
