@@ -4635,18 +4635,18 @@
             "active": true
         },
         {
-            "name": "Beith Golf Club (2023) Ltd",
-            "address": "THREEPWOOD ROAD, BEITH, No data, No data",
-            "postcode": "KA15 2JR",
             "id": "GB-CASC-8489523b",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-e2217d6c",
             "name": "Beith Golf Club (2023) Ltd",
             "address": "THREEPWOOD ROAD, BEITH, No data, No data",
             "postcode": "KA15 2JR",
             "active": false
+        },
+        {
+            "name": "Beith Golf Club (2023) Ltd",
+            "address": "THREEPWOOD ROAD, BEITH, No data, No data",
+            "postcode": "KA15 2JR",
+            "id": "GB-CASC-e2217d6c",
+            "active": true
         },
         {
             "id": "GB-CASC-4461f982",
@@ -7617,15 +7617,15 @@
             "active": true
         },
         {
-            "id": "GB-CASC-34c78c8e",
             "name": "Brecon Bowling Club",
             "address": "Mill Green, The Promenade, Brecon, Powys",
             "postcode": "LD3 9BA",
-            "active": false
+            "id": "GB-CASC-34c78c8e",
+            "active": true
         },
         {
-            "name": "Brecon Bowling Club",
-            "address": "Mill Green, The Promenade, Brecon, Powys",
+            "name": "Brecon Bowling Club Ltd",
+            "address": "Brecon Bowling Club, MILL GREEN, BRECON, No data",
             "postcode": "LD3 9BA",
             "id": "GB-CASC-25f5d877",
             "active": true
@@ -19160,18 +19160,18 @@
             "active": true
         },
         {
-            "name": "Edgbaston Croquet Club",
-            "address": "18 RICHMOND HILL ROAD, BIRMINGHAM, No data, No data",
-            "postcode": "B15 3RP",
             "id": "GB-CASC-19bb2ea8",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-4000869b",
             "name": "Edgbaston Croquet Club",
             "address": "18 RICHMOND HILL ROAD, BIRMINGHAM, No data, No data",
             "postcode": "B15 3RP",
             "active": false
+        },
+        {
+            "name": "Edgbaston Croquet Club",
+            "address": "18 RICHMOND HILL ROAD, BIRMINGHAM, No data, No data",
+            "postcode": "B15 3RP",
+            "id": "GB-CASC-4000869b",
+            "active": true
         },
         {
             "name": "Edgehill Gliding Centre Limited",
@@ -21995,18 +21995,18 @@
             "active": true
         },
         {
-            "name": "Frimley Tennis Club",
-            "address": "WATCHETTS RECREATION GROUND, PARK ROAD, CAMBERLEY, No data",
-            "postcode": "GU15 2SR",
             "id": "GB-CASC-d2aff3ae",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-b05e0b2f",
             "name": "Frimley Tennis Club",
             "address": "WATCHETTS RECREATION GROUND, PARK ROAD, CAMBERLEY, No data",
             "postcode": "GU15 2SR",
             "active": false
+        },
+        {
+            "name": "Frimley Tennis Club",
+            "address": "WATCHETTS RECREATION GROUND, PARK ROAD, CAMBERLEY, No data",
+            "postcode": "GU15 2SR",
+            "id": "GB-CASC-b05e0b2f",
+            "active": true
         },
         {
             "name": "Frindsbury Cricket Club",
@@ -23052,18 +23052,18 @@
             "active": true
         },
         {
-            "name": "Godalming Lawn Tennis Club",
-            "address": "Godalming Lawn Tennis Club, Summers Road, Godalming, No data",
-            "postcode": "GU7 3BH",
             "id": "GB-CASC-3fd4f401",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-359b1d67",
             "name": "Godalming Lawn Tennis Club",
             "address": "Godalming Lawn Tennis Club, Summers Road, Godalming, No data",
             "postcode": "GU7 3BH",
             "active": false
+        },
+        {
+            "name": "Godalming Lawn Tennis Club",
+            "address": "Godalming Lawn Tennis Club, Summers Road, Godalming, No data",
+            "postcode": "GU7 3BH",
+            "id": "GB-CASC-359b1d67",
+            "active": true
         },
         {
             "name": "Godalming and Farncombe Bowling Club",
@@ -23374,18 +23374,18 @@
             "active": true
         },
         {
+            "name": "Grange Amateur Boxing Club",
+            "address": "134a Ninian Park Road, Riverside, Cardiff, No data",
+            "postcode": "CF11 6JE",
             "id": "GB-CASC-f9c7af11",
+            "active": true
+        },
+        {
+            "id": "GB-CASC-1d84986d",
             "name": "Grange Amateur Boxing Club",
             "address": "134a Ninian Park Road, Riverside, Cardiff, No data",
             "postcode": "CF11 6JE",
             "active": false
-        },
-        {
-            "name": "Grange Amateur Boxing Club",
-            "address": "134a Ninian Park Road, Riverside, Cardiff, No data",
-            "postcode": "CF11 6JE",
-            "id": "GB-CASC-1d84986d",
-            "active": true
         },
         {
             "name": "Grange Fell Golf Club Ltd",
@@ -38823,18 +38823,18 @@
             "active": true
         },
         {
-            "name": "Norfolk Bowmen",
-            "address": "60 HAVERSCROFT CLOSE, TAVERHAM, NORWICH, No data",
-            "postcode": "NR8 6LU",
             "id": "GB-CASC-e98b7a57",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-5c7166e5",
             "name": "Norfolk Bowmen",
             "address": "60 HAVERSCROFT CLOSE, TAVERHAM, NORWICH, No data",
             "postcode": "NR8 6LU",
             "active": false
+        },
+        {
+            "name": "Norfolk Bowmen",
+            "address": "60 HAVERSCROFT CLOSE, TAVERHAM, NORWICH, No data",
+            "postcode": "NR8 6LU",
+            "id": "GB-CASC-5c7166e5",
+            "active": true
         },
         {
             "name": "Norfolk Brawds Roller Derby",
@@ -38984,18 +38984,18 @@
             "active": true
         },
         {
+            "name": "North Duffield Bowling Club",
+            "address": "8 WENLOCK DRIVE, ESCRICK, YORK, No data",
+            "postcode": "YO19 6JB",
             "id": "GB-CASC-d7dabea8",
+            "active": true
+        },
+        {
+            "id": "GB-CASC-812991b8",
             "name": "North Duffield Bowling Club",
             "address": "8 WENLOCK DRIVE, ESCRICK, YORK, No data",
             "postcode": "YO19 6JB",
             "active": false
-        },
-        {
-            "name": "North Duffield Bowling Club",
-            "address": "8 WENLOCK DRIVE, ESCRICK, YORK, No data",
-            "postcode": "YO19 6JB",
-            "id": "GB-CASC-812991b8",
-            "active": true
         },
         {
             "name": "North Duffield Cricket Club",
@@ -40356,16 +40356,16 @@
             "active": true
         },
         {
-            "id": "GB-CASC-a20c2fd4",
             "name": "Old Brodleians Rugby Union Football Club",
             "address": "Woodhead, Denholmegate Road, Hipperholme, Halifax,  West Yorkshire",
             "postcode": "HX3 8JU",
-            "active": false
+            "id": "GB-CASC-a20c2fd4",
+            "active": true
         },
         {
-            "name": "Old Brodleians Rugby Union Football Club",
-            "address": "Woodhead, Denholmegate Road, Hipperholme, Halifax,  West Yorkshire",
-            "postcode": "HX3 8JU",
+            "name": "Old Brodleians Rugby Union Football Club  Limited",
+            "address": "Woodhead, Denholme Gate Road, Hipperholme, Halifax",
+            "postcode": "HX3 8JT",
             "id": "GB-CASC-3cb5041e",
             "active": true
         },
@@ -60572,18 +60572,18 @@
             "active": true
         },
         {
-            "name": "Widnes Golf Club",
-            "address": "Highfield Road, Widnes, Cheshire, No data",
-            "postcode": "WA8 7DT",
             "id": "GB-CASC-15e8147f",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-bf68f4ab",
             "name": "Widnes Golf Club",
             "address": "Highfield Road, Widnes, Cheshire, No data",
             "postcode": "WA8 7DT",
             "active": false
+        },
+        {
+            "name": "Widnes Golf Club",
+            "address": "Highfield Road, Widnes, Cheshire, No data",
+            "postcode": "WA8 7DT",
+            "id": "GB-CASC-bf68f4ab",
+            "active": true
         },
         {
             "name": "Widnes R U F C",
