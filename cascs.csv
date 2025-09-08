@@ -1494,8 +1494,8 @@ GB-CASC-f30de8e0,Carlisle Golf Club Ltd,"AGLIONBY, CARLISLE, CUMBRIA, No data",C
 GB-CASC-76a7f306,Carlisle Mountaineering Club Limited,"MEADOW VIEW, CARLETON DERRICK DRIVE, PENRITH, No data",CA11 8LS,True
 GB-CASC-911b5285,Carlisle Squash and Racketball Club Limi ted,"Carlisle Squash Club, Rugby Ground, Warwick Road, Carlisle",CA1 1LW,True
 GB-CASC-dec50fbc,Carloway Football Club,"CARLOWAY ALL WEATHER SPORTS, PENTLAND ROAD, CARLOWAY, ISLE OF LEWIS",HS2 9AX,True
-GB-CASC-63fbffb9,Carlton Cricket Club,"Town Street, Carlton, Wakefield, No data",WF3 3QU,True
-GB-CASC-c66defe5,Carlton Cricket Club,"Town Street, Carlton, Wakefield, No data",WF3 3QU,False
+GB-CASC-63fbffb9,Carlton Cricket Club,"Town Street, Carlton, Wakefield, No data",WF3 3QU,False
+GB-CASC-c66defe5,Carlton Cricket Club,"Town Street, Carlton, Wakefield, No data",WF3 3QU,True
 GB-CASC-17b5c603,Carlton Squash Club,"School Lane, Carlton, Bedford, No data",MK43 7LH,True
 GB-CASC-4ec95f22,Carmarthen Athletic Rugby Football Club,"Friars Park, Carmarthen, No data, No data",SA31 3AN,True
 GB-CASC-87f5811e,Carmarthen Golf Club,"Carmarthen Golf Club, Blaeny Coed Road, Carmarthen",SA33 6EH,False
@@ -2780,8 +2780,8 @@ GB-CASC-6a04efb5,Eldersfield Cricket Club,"Harp Meadow, Lime Street, Near Greyho
 GB-CASC-ce81dbd0,Eldwick Lawn Tennis Club,"Eldwick Lawn Tennis Club, rear of Eldwick Memorial Hall, Otley Road, Eldwick, Bingley",BD16 3EQ,True
 GB-CASC-04437fe2,Electricity Sports and Social Club,"Capenhurst Technology Park, Capenhurst, Nr Chester, No data",CH1 6EH,True
 GB-CASC-9ac6deae,Elford Boys Football Club,"20 CROFT CLOSE, ELFORD, TAMWORTH, No data",B79 9BU,True
-GB-CASC-1d8268e1,Elgin Curling Club,"4 LEONACH PLACE, ELGIN, No data, No data",IV30 6JT,False
-GB-CASC-4163577d,Elgin Curling Club,"4 LEONACH PLACE, ELGIN, No data, No data",IV30 6JT,True
+GB-CASC-1d8268e1,Elgin Curling Club,"4 LEONACH PLACE, ELGIN, No data, No data",IV30 6JT,True
+GB-CASC-4163577d,Elgin Curling Club,"4 LEONACH PLACE, ELGIN, No data, No data",IV30 6JT,False
 GB-CASC-c915bc44,Elgin Miniature Rifle Club,"9 Perimeter Road, Elgin, No data, No data",IV30 6AF,True
 GB-CASC-104416ae,Elham Valley Cricket Club,"Holloway Field, Elham, Canterbury",,False
 GB-CASC-c138b66f,Elham Valley Cricket Club,"Holloway Field, Elham, Canterbury, —",—,False
@@ -3141,8 +3141,8 @@ GB-CASC-3939b0c2,Friary Tennis Club,"102 WEST GROVE, WOODFORD GREEN, No data, No
 GB-CASC-257dbad6,Friends Sporting Club Manchester,"Friends Sporting Club Manchester, Alexandra Park Community Office, 180 Russel Street, Manchester",M16 7JL,True
 GB-CASC-fc356105,Friends of Allonby Canoe Club Liverpool,"33 SANDSTONE ROAD EAST, LIVERPOOL, No data, No data",L13 6QX,True
 GB-CASC-7f01d204,Friezland Bowling Club,"Waterside, Off Greenbridge Lane, Greenfield, Oldham",OL3 7EW,True
-GB-CASC-b05e0b2f,Frimley Tennis Club,"WATCHETTS RECREATION GROUND, PARK ROAD, CAMBERLEY, No data",GU15 2SR,False
 GB-CASC-d2aff3ae,Frimley Tennis Club,"WATCHETTS RECREATION GROUND, PARK ROAD, CAMBERLEY, No data",GU15 2SR,True
+GB-CASC-b05e0b2f,Frimley Tennis Club Limited,"WATCHETTS RECREATION GROUND, PARK ROAD, CAMBERLEY, No data",GU15 2SR,True
 GB-CASC-b1060841,Frindsbury Cricket Club,"Frindsbury Cricket Club, Sports Pavilion Frog Island, Upnor Road, Upnor Rochester",ME2 4UX,True
 GB-CASC-6aa69558,Frindsbury Lawn Tennis Club LTD,"Tennis Club Pavilion, Frog Island, Upnor Road, Rochester",ME2 4UX,True
 GB-CASC-ca568d59,Frinton Bowls Club,"Frinton Bowls Club, JUBILEE WAY, FRINTON ON SEA, No data",CO13 0AP,True
@@ -6110,8 +6110,8 @@ GB-CASC-8d6ced2c,Plockton Small Boat Sailing Club,"Rescue Boat House, Bank Stree
 GB-CASC-0a63681c,Plumpton Tennis Club,"31 ALEXANDRA ROAD, BURGESS HILL, No data, No data",RH15 0EN,True
 GB-CASC-3e237acd,Plumstead Runners,"6 LAPWINGS, LONGFIELD, No data, No data",DA3 7NH,True
 GB-CASC-67668666,Plumtree Cricket Club,"Plumtree Cricket Club, Plumtree Barn, Bradmore Lane, Plumtree Nottingham",NG12 5EW,True
-GB-CASC-43f1a315,Plymouth (Sir Francis Drake) Bowling Clu  B,"Whiteford Road, Mannamead, Plymouth, No data",PL3 5LZ,True
-GB-CASC-45c8e233,Plymouth (Sir Francis Drake) Bowling Clu  B,"Whiteford Road, Mannamead, Plymouth, No data",PL3 5LZ,False
+GB-CASC-43f1a315,Plymouth (Sir Francis Drake) Bowling Clu  B,"Whiteford Road, Mannamead, Plymouth, No data",PL3 5LZ,False
+GB-CASC-45c8e233,Plymouth (Sir Francis Drake) Bowling Clu  B,"Whiteford Road, Mannamead, Plymouth, No data",PL3 5LZ,True
 GB-CASC-d16698cd,Plymouth Amateur Rowing Club,"100 MOUNT GOULD ROAD, PLYMOUTH, No data, No data",PL4 7PX,True
 GB-CASC-8cb0035a,Plymouth City Motopark Community Club,"277 ERNESETTLE LANE, PLYMOUTH, No data, No data",PL5 2EY,True
 GB-CASC-6b044c84,Plymouth Civil Service Cricket Club,"Plymouth Civil Service Cricket Club, Recreation Ground, Beacon Down, Plymouth",PL2 3NA,True
@@ -6294,8 +6294,8 @@ GB-CASC-4508d5ec,Rainford Rangers Junior Football Club,"16 BUTTERMERE CRESCENT, 
 GB-CASC-91a7aecc,Rainford Table Tennis Club,"19 WILLOW HEY, LIVERPOOL, No data, No data",L31 3DL,True
 GB-CASC-f58524b6,Rainford Tennis Club,"Rainford Tennis Club, Jubilee Recreation Ground, Rainford, St Helens",WA11 8HE,True
 GB-CASC-90a2f04e,Rainham Bowls Club,"Rainham Bowls Club, Brights Avenue, Rainham, Essex",RM13 9LD,True
-GB-CASC-f7d93399,Rainham Cricket Club,"BERENGROVE PARK, BERENGRAVE LANE, RAINHAM, KENT",ME8 7NA,True
-GB-CASC-a3573619,Rainham Cricket Club,"BERENGROVE PARK, BERENGRAVE LANE, RAINHAM, KENT",ME8 7NA,False
+GB-CASC-f7d93399,Rainham Cricket Club,"Rainham Cricket Club, Spring Farm Park, Lambs Lane North, Rainham,  Essex",RM13 9XF,True
+GB-CASC-a3573619,Rainham Cricket Club,"BERENGROVE PARK, BERENGRAVE LANE, RAINHAM, KENT",ME8 7NA,True
 GB-CASC-8b990e35,Rainy City Rollergirls Ltd,"First floor, 1 King Street, Oldham, No data, No data",OL8 1EU,True
 GB-CASC-ea60d889,Rame Gig Club,"6 ARMADA ROAD, CAWSAND, TORPOINT, No data",PL10 1PQ,True
 GB-CASC-7a887d0a,Ramgarhia Hockey Club Derby,"14 Cobham Close, Stenson Fields, Derby, No data",DE24 3JL,True
@@ -8728,8 +8728,8 @@ GB-CASC-5d81dae9,Winnington Park Rugby Football Club,"BURROWS HILL, HARTFORD, CH
 GB-CASC-0161e560,Winsford Cricket Club,"CRICKET PAVILLION, KNIGHTS GRANGE, GRANGE LANE, WINSFORD",CW7 2PT,True
 GB-CASC-a08a723e,Winsford Lawn Tennis Club,"KNIGHTS GRANGE SPORTS COMPLEX, GRANGE LANE, WINSFORD, No data",CW7 2PT,True
 GB-CASC-f0521825,Winshill Football Club,"33 Greenway, Winshill, Burton on Trent, No data",DE15 0AR,True
-GB-CASC-03cc2bf6,Winsley Cricket Club,"93 LACOCK GARDENS, HILPERTON, TROWBRIDGE, No data",BA14 7TG,False
-GB-CASC-86cce889,Winsley Cricket Club,"93 LACOCK GARDENS, HILPERTON, TROWBRIDGE, No data",BA14 7TG,True
+GB-CASC-03cc2bf6,Winsley Cricket Club,"93 LACOCK GARDENS, HILPERTON, TROWBRIDGE, No data",BA14 7TG,True
+GB-CASC-86cce889,Winsley Cricket Club,"93 LACOCK GARDENS, HILPERTON, TROWBRIDGE, No data",BA14 7TG,False
 GB-CASC-5e26bd0b,Winsor United Football Club,"Hounsdown Secondary School, JACOBS GUTTER LANE, TOTTON, SOUTHAMPTON",SO40 9FT,True
 GB-CASC-8b9a71b8,Winstanley Park Tennis Club,"15 SITTINGBOURNE ROAD, WIGAN, No data, No data",WN1 2RR,True
 GB-CASC-f938351e,Winthorpe & Coddington Tigers F.C,"Winthorpe & Coddington Tigers F.C, Sports Ground, Stapleford Lane, Coddington,  Newark",NG24 2QZ,True
