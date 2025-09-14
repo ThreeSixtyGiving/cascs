@@ -7617,15 +7617,15 @@
             "active": true
         },
         {
+            "id": "GB-CASC-34c78c8e",
             "name": "Brecon Bowling Club",
             "address": "Mill Green, The Promenade, Brecon, Powys",
             "postcode": "LD3 9BA",
-            "id": "GB-CASC-34c78c8e",
-            "active": true
+            "active": false
         },
         {
-            "name": "Brecon Bowling Club Ltd",
-            "address": "Brecon Bowling Club, MILL GREEN, BRECON, No data",
+            "name": "Brecon Bowling Club",
+            "address": "Mill Green, The Promenade, Brecon, Powys",
             "postcode": "LD3 9BA",
             "id": "GB-CASC-25f5d877",
             "active": true
@@ -10466,18 +10466,18 @@
             "active": true
         },
         {
-            "name": "Carlton Cricket Club",
-            "address": "Town Street, Carlton, Wakefield, No data",
-            "postcode": "WF3 3QU",
             "id": "GB-CASC-63fbffb9",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-c66defe5",
             "name": "Carlton Cricket Club",
             "address": "Town Street, Carlton, Wakefield, No data",
             "postcode": "WF3 3QU",
             "active": false
+        },
+        {
+            "name": "Carlton Cricket Club",
+            "address": "Town Street, Carlton, Wakefield, No data",
+            "postcode": "WF3 3QU",
+            "id": "GB-CASC-c66defe5",
+            "active": true
         },
         {
             "name": "Carlton Squash Club",
@@ -18642,18 +18642,18 @@
             "active": true
         },
         {
-            "name": "East Hanningfield & Great Bursted Cricke T Club",
-            "address": "74 ELM VIEW ROAD, BENFLEET, No data, No data",
-            "postcode": "SS7 5AS",
             "id": "GB-CASC-a5bda8b7",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-f00b0044",
             "name": "East Hanningfield & Great Bursted Cricke T Club",
             "address": "74 ELM VIEW ROAD, BENFLEET, No data, No data",
             "postcode": "SS7 5AS",
             "active": false
+        },
+        {
+            "name": "East Hanningfield & Great Bursted Cricke T Club",
+            "address": "74 ELM VIEW ROAD, BENFLEET, No data, No data",
+            "postcode": "SS7 5AS",
+            "id": "GB-CASC-f00b0044",
+            "active": true
         },
         {
             "name": "East Harlsey Cricket Club",
@@ -21995,18 +21995,18 @@
             "active": true
         },
         {
+            "name": "Frimley Tennis Club",
+            "address": "WATCHETTS RECREATION GROUND, PARK ROAD, CAMBERLEY, No data",
+            "postcode": "GU15 2SR",
             "id": "GB-CASC-d2aff3ae",
+            "active": true
+        },
+        {
+            "id": "GB-CASC-b05e0b2f",
             "name": "Frimley Tennis Club",
             "address": "WATCHETTS RECREATION GROUND, PARK ROAD, CAMBERLEY, No data",
             "postcode": "GU15 2SR",
             "active": false
-        },
-        {
-            "name": "Frimley Tennis Club",
-            "address": "WATCHETTS RECREATION GROUND, PARK ROAD, CAMBERLEY, No data",
-            "postcode": "GU15 2SR",
-            "id": "GB-CASC-b05e0b2f",
-            "active": true
         },
         {
             "name": "Frindsbury Cricket Club",
@@ -23374,18 +23374,18 @@
             "active": true
         },
         {
+            "name": "Grange Amateur Boxing Club",
+            "address": "134a Ninian Park Road, Riverside, Cardiff, No data",
+            "postcode": "CF11 6JE",
             "id": "GB-CASC-f9c7af11",
+            "active": true
+        },
+        {
+            "id": "GB-CASC-1d84986d",
             "name": "Grange Amateur Boxing Club",
             "address": "134a Ninian Park Road, Riverside, Cardiff, No data",
             "postcode": "CF11 6JE",
             "active": false
-        },
-        {
-            "name": "Grange Amateur Boxing Club",
-            "address": "134a Ninian Park Road, Riverside, Cardiff, No data",
-            "postcode": "CF11 6JE",
-            "id": "GB-CASC-1d84986d",
-            "active": true
         },
         {
             "name": "Grange Fell Golf Club Ltd",
@@ -23927,11 +23927,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-72dd0e44",
             "name": "Greenmount Cricket Club Limited",
             "address": "BRANDLESHOLME ROAD, GREENMOUNT, BURY, No data",
             "postcode": "BL8 4DX",
-            "active": false
+            "id": "GB-CASC-72dd0e44",
+            "active": true
         },
         {
             "name": "Greenock Wanderers Rugby Football Club",
@@ -33972,18 +33972,18 @@
             "active": true
         },
         {
-            "name": "Long Yang Club Badminton London",
-            "address": "FLAT 8, 300 STEPNEY WAY, LONDON, No data",
-            "postcode": "E1 3DW",
             "id": "GB-CASC-fa9297e7",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-589dedfc",
             "name": "Long Yang Club Badminton London",
             "address": "FLAT 8, 300 STEPNEY WAY, LONDON, No data",
             "postcode": "E1 3DW",
             "active": false
+        },
+        {
+            "name": "Long Yang Club Badminton London",
+            "address": "FLAT 8, 300 STEPNEY WAY, LONDON, No data",
+            "postcode": "E1 3DW",
+            "id": "GB-CASC-589dedfc",
+            "active": true
         },
         {
             "name": "Longlevens Rugby Football Club Ltd",
@@ -38984,18 +38984,18 @@
             "active": true
         },
         {
-            "name": "North Duffield Bowling Club",
-            "address": "8 WENLOCK DRIVE, ESCRICK, YORK, No data",
-            "postcode": "YO19 6JB",
             "id": "GB-CASC-d7dabea8",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-812991b8",
             "name": "North Duffield Bowling Club",
             "address": "8 WENLOCK DRIVE, ESCRICK, YORK, No data",
             "postcode": "YO19 6JB",
             "active": false
+        },
+        {
+            "name": "North Duffield Bowling Club",
+            "address": "8 WENLOCK DRIVE, ESCRICK, YORK, No data",
+            "postcode": "YO19 6JB",
+            "id": "GB-CASC-812991b8",
+            "active": true
         },
         {
             "name": "North Duffield Cricket Club",
@@ -42778,18 +42778,18 @@
             "active": true
         },
         {
-            "name": "Plymouth (Sir Francis Drake) Bowling Clu  B",
-            "address": "Whiteford Road, Mannamead, Plymouth, No data",
-            "postcode": "PL3 5LZ",
             "id": "GB-CASC-43f1a315",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-45c8e233",
             "name": "Plymouth (Sir Francis Drake) Bowling Clu  B",
             "address": "Whiteford Road, Mannamead, Plymouth, No data",
             "postcode": "PL3 5LZ",
             "active": false
+        },
+        {
+            "name": "Plymouth (Sir Francis Drake) Bowling Clu  B",
+            "address": "Whiteford Road, Mannamead, Plymouth, No data",
+            "postcode": "PL3 5LZ",
+            "id": "GB-CASC-45c8e233",
+            "active": true
         },
         {
             "name": "Plymouth Amateur Rowing Club",
@@ -43394,18 +43394,18 @@
             "active": true
         },
         {
+            "name": "Portsmouth Victoria Swimming Club",
+            "address": "91 HATHERLEY CRESCENT, FAREHAM, No data, No data",
+            "postcode": "PO16 9TW",
             "id": "GB-CASC-495848fe",
+            "active": true
+        },
+        {
+            "id": "GB-CASC-9b27091d",
             "name": "Portsmouth Victoria Swimming Club",
             "address": "91 HATHERLEY CRESCENT, FAREHAM, No data, No data",
             "postcode": "PO16 9TW",
             "active": false
-        },
-        {
-            "name": "Portsmouth Victoria Swimming Club",
-            "address": "91 HATHERLEY CRESCENT, FAREHAM, No data, No data",
-            "postcode": "PO16 9TW",
-            "id": "GB-CASC-9b27091d",
-            "active": true
         },
         {
             "name": "Portsoy Coastal Rowing Club",
@@ -60572,18 +60572,18 @@
             "active": true
         },
         {
-            "name": "Widnes Golf Club",
-            "address": "Highfield Road, Widnes, Cheshire, No data",
-            "postcode": "WA8 7DT",
             "id": "GB-CASC-15e8147f",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-bf68f4ab",
             "name": "Widnes Golf Club",
             "address": "Highfield Road, Widnes, Cheshire, No data",
             "postcode": "WA8 7DT",
             "active": false
+        },
+        {
+            "name": "Widnes Golf Club",
+            "address": "Highfield Road, Widnes, Cheshire, No data",
+            "postcode": "WA8 7DT",
+            "id": "GB-CASC-bf68f4ab",
+            "active": true
         },
         {
             "name": "Widnes R U F C",
