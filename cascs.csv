@@ -1087,8 +1087,8 @@ GB-CASC-f7e4c5d3,Braveheart Fencing Club,"31 SHUNA PLACE, GLASGOW, No data, No d
 GB-CASC-8f99f09f,Breadsall Cricket Club,"BROOKSIDE ROAD, BREADSALL VILLAGE, DERBY, No data",DE21 5LF,True
 GB-CASC-c39732dd,Breckland Forest Gymnastics Club 2004,"Unit 14, Wimbledon Avenue, Brandon, Suffolk",IP27 0NZ,True
 GB-CASC-43bea2c5,Breckland Model Aero Club,"Two Mile Bottom Flying Field, Off A134, Mundford Road, Thetford",IP24 1LZ,True
-GB-CASC-34c78c8e,Brecon Bowling Club,"Mill Green, The Promenade, Brecon, Powys",LD3 9BA,False
-GB-CASC-25f5d877,Brecon Bowling Club,"Mill Green, The Promenade, Brecon, Powys",LD3 9BA,True
+GB-CASC-34c78c8e,Brecon Bowling Club,"Mill Green, The Promenade, Brecon, Powys",LD3 9BA,True
+GB-CASC-25f5d877,Brecon Bowling Club Ltd,"Brecon Bowling Club, MILL GREEN, BRECON, No data",LD3 9BA,True
 GB-CASC-ad0fb61f,Brecon Corinthians AFC,"Brecon Corinthians AFC, The Richfield, The Watton, Brecon",LD3 7HL,True
 GB-CASC-954be97a,Brecon Golf Club,"NEWTON PARK, BRECON, No data, No data",LD3 8PA,True
 GB-CASC-94f5f187,Brecon Rugby Football Club Limited,"63 WATTON, BRECON, No data, No data",LD3 7EL,True
@@ -3292,8 +3292,8 @@ GB-CASC-11b8bb9b,Godalming Amateur Swimming Club,"8 CHAPEL CLOSE, MILFORD, GODAL
 GB-CASC-10d03d6e,Godalming Badminton Club,"12 ORWELL ROAD, PETERSFIELD, No data, No data",GU31 4LQ,True
 GB-CASC-f2f57acd,Godalming Bowling Club,"The Burys, Godalming, Surrey, No data",GU7 1HT,True
 GB-CASC-d5a6ab2e,Godalming Cricket Club,"Holloway Hill, Busbridge Lane, Godalming, Surrey",GU7 1QD,True
-GB-CASC-3fd4f401,Godalming Lawn Tennis Club,"Godalming Lawn Tennis Club, Summers Road, Godalming, No data",GU7 3BH,True
-GB-CASC-359b1d67,Godalming Lawn Tennis Club,"Godalming Lawn Tennis Club, Summers Road, Godalming, No data",GU7 3BH,False
+GB-CASC-3fd4f401,Godalming Lawn Tennis Club,"Godalming Lawn Tennis Club, Summers Road, Godalming, No data",GU7 3BH,False
+GB-CASC-359b1d67,Godalming Lawn Tennis Club,"Godalming Lawn Tennis Club, Summers Road, Godalming, No data",GU7 3BH,True
 GB-CASC-8e864c39,Godalming and Farncombe Bowling Club,"The Burys, Godalming, Surrey, No data",GU7 1HT,True
 GB-CASC-16f22dbc,Golcar Cricket & Athletic Club,"Swallow Lane, Golcar, Huddersfield, No data",HD7 4NB,True
 GB-CASC-3eb73887,Golden Star ABC Sports and Fitness Centr  e,"Golden Star ABC Sports and Fitness, Princes Road, Ellesmere Port, No data",CH65 8EU,True
@@ -3338,8 +3338,8 @@ GB-CASC-b74a9cdf,Grampound Road Cricket Club,"The Playing Field, Grampound Road,
 GB-CASC-0a22b135,Grampound Road Cricket Club,"The Playing Field, Grampound Road, Truro, Cornwall",—,False
 GB-CASC-fe89ad00,Grampound Road Cricket Club,"The Playing Field, Grampound Road, Truro, Cornwall",No data,True
 GB-CASC-f4b1a158,Grandtully & Strathtay Bowling Club,"c/o Grianachan, Strathtay, Pitlochry, No data",PH9 0PG,True
-GB-CASC-f9c7af11,Grange Amateur Boxing Club,"134a Ninian Park Road, Riverside, Cardiff, No data",CF11 6JE,True
-GB-CASC-1d84986d,Grange Amateur Boxing Club,"134a Ninian Park Road, Riverside, Cardiff, No data",CF11 6JE,False
+GB-CASC-f9c7af11,Grange Amateur Boxing Club,"134a Ninian Park Road, Riverside, Cardiff, No data",CF11 6JE,False
+GB-CASC-1d84986d,Grange Amateur Boxing Club,"134a Ninian Park Road, Riverside, Cardiff, No data",CF11 6JE,True
 GB-CASC-fb787134,Grange Fell Golf Club Ltd,"Grange Fell Golf Club Ltd, GRANGE FELL ROAD, GRANGE OVER SANDS, No data",LA11 6HB,True
 GB-CASC-4d902f75,Grange Lawn Tennis Club,"St Paul's Square, Burton-On-Trent, Staffs, No data",DE14 2EF,True
 GB-CASC-9d749306,Grange Over Sands Golf Club Ltd,"Grange Over Sands Golf Club Ltd, Meathop Road, Grange Over Sands, Cumbria",LA11 6QX,True
@@ -3417,7 +3417,7 @@ GB-CASC-60d0d519,Greenhill JFC,"SPRINGS ACADEMY, HURLFIELD ROAD, SHEFFIELD, No d
 GB-CASC-62de582d,Greenisland Ladies Hockey Club,"63 Upper Road, Greenisland, No data, No data",BT38 8RH,True
 GB-CASC-fbddc97f,Greenisland War Memorial Sports Club,"63 Upper Road, Greenisland, Carrickfergus, Co Durham",BT38 8RH,True
 GB-CASC-90ffdf4a,Greenmount Cricket Club,"Greenmount Cricket Club, Brandlesholme Road, Greenmount, Bury",BL8 4DX,True
-GB-CASC-72dd0e44,Greenmount Cricket Club Limited,"BRANDLESHOLME ROAD, GREENMOUNT, BURY, No data",BL8 4DX,True
+GB-CASC-72dd0e44,Greenmount Cricket Club Limited,"BRANDLESHOLME ROAD, GREENMOUNT, BURY, No data",BL8 4DX,False
 GB-CASC-1f372d6a,Greenock Wanderers Rugby Football Club,"Greenock Wanderers Rugby Football Club, Octavia Terrace, Greenock, No data",PA16 7PX,True
 GB-CASC-a16fd530,Greenside Cricket Club,"Clubhouse, Low Greenside, Ryton, Tyne &Wear",NE40 4AA,True
 GB-CASC-8a2c1993,Greenways Aces Football Club,"38 GLOUCESTER ROAD, GRAVESEND, No data, No data",DA12 5JY,True
@@ -5545,8 +5545,8 @@ GB-CASC-f2a075e5,Norbury Amalgamated Sports Club,"Norbury Playing Fields, Off Ch
 GB-CASC-874c7fb2,Norbury Amalgamated Sports Club,"Norbury Playing Fields, Off Chester Road, Hazel Grove, Stockport,  Cheshire",No data,True
 GB-CASC-10857722,Nordic Divers British Sub-Aqua Club,"ll Billsdale Close, Worthallerton, North Yorkshire, No data",DL7 8FT,True
 GB-CASC-adb5cbf7,Norfolk Bowling Club,"444A Unthank Road, Norwich, Norfolk, No data",NR4 7QH,True
-GB-CASC-e98b7a57,Norfolk Bowmen,"60 HAVERSCROFT CLOSE, TAVERHAM, NORWICH, No data",NR8 6LU,False
-GB-CASC-5c7166e5,Norfolk Bowmen,"60 HAVERSCROFT CLOSE, TAVERHAM, NORWICH, No data",NR8 6LU,True
+GB-CASC-e98b7a57,Norfolk Bowmen,"60 HAVERSCROFT CLOSE, TAVERHAM, NORWICH, No data",NR8 6LU,True
+GB-CASC-5c7166e5,Norfolk Bowmen,"60 HAVERSCROFT CLOSE, TAVERHAM, NORWICH, No data",NR8 6LU,False
 GB-CASC-2dc43a62,Norfolk Brawds Roller Derby,"NBRD - The Treasurer, 1 West Gatehouse, St Andrews Park, Thorpe St Andrew, Norwich",NR7 0GP,True
 GB-CASC-6d179225,Norfolk Gliding Club Ltd,"NORFOLK GLIDING CLUB LTD, TIBENHAM AIRFIELD, DISS, NORFOLK",NR16 1NT,True
 GB-CASC-15f07825,Norfolk Hang Gliding & Paragliding Club,"HILL FARM, GREAT FRANSHAM, DEREHAM, NORFOLK",NR19 2JA,True
@@ -5749,8 +5749,8 @@ GB-CASC-f330c1ac,Okehampton Argyle Football Club,"Simmons Park, Okehampton, Devo
 GB-CASC-2f435572,Okehampton Argyle Football Club,"Simmons Park, Okehampton, Devon, —",—,False
 GB-CASC-a6fda1bc,Okehampton Argyle Football Club,"Simmons Park, Okehampton, Devon, No data",No data,True
 GB-CASC-8d03fe94,Okehampton Argyle Youth Football Club,"FOOTBALL CLUB, SIMMONS PARK, OKEHAMPTON, No data",EX20 1EP,True
-GB-CASC-fe48ca6c,Okehampton Golf Club Ltd,"TORS ROAD, OKEHAMPTON, No data, No data",EX20 1EF,False
-GB-CASC-96e4b653,Okehampton Golf Club Ltd,"TORS ROAD, OKEHAMPTON, No data, No data",EX20 1EF,True
+GB-CASC-fe48ca6c,Okehampton Golf Club Ltd,"TORS ROAD, OKEHAMPTON, No data, No data",EX20 1EF,True
+GB-CASC-96e4b653,Okehampton Golf Club Ltd,"TORS ROAD, OKEHAMPTON, No data, No data",EX20 1EF,False
 GB-CASC-34400e4b,Okehampton Rugby Football Club,"Oaklands Park, Okehampton, Devon, No data",EX20 1LN,True
 GB-CASC-0f1c6800,Okehampton Simmons Bowling Club,"55 RIVERS EDGE COURT, OAKLANDS DRIVE, OKEHAMPTON, No data",EX20 1FN,True
 GB-CASC-47b9a551,Okehampton Smallbore Club,"Mill Road, Okehampton, Devon, No data",EX20 1PR,True
@@ -5764,8 +5764,8 @@ GB-CASC-f9715c20,Old Bleach Bowling Club,"Neillsbrook Road, Neillsbrook, Randals
 GB-CASC-0fa0a321,Old Bleach Cycle Club,"ARCHES HOUSE, ARCHES LANE, MAIN STREET, RANDALSTOWN",BT41 3AB,True
 GB-CASC-9e755ffb,Old Boltonians AFC,"78 CHORLEY NEW ROAD, BOLTON, No data, No data",BL1 4BY,True
 GB-CASC-89c457da,Old Bordenian Hockey Club,"BORDEN GRAMMER SCHOOL, AVENUE OF REMEMBERANCE, SITTINGBOURNE, KENT",ME10 4DB,True
-GB-CASC-a20c2fd4,Old Brodleians Rugby Union Football Club,"Woodhead, Denholmegate Road, Hipperholme, Halifax,  West Yorkshire",HX3 8JU,False
-GB-CASC-3cb5041e,Old Brodleians Rugby Union Football Club,"Woodhead, Denholmegate Road, Hipperholme, Halifax,  West Yorkshire",HX3 8JU,True
+GB-CASC-a20c2fd4,Old Brodleians Rugby Union Football Club,"Woodhead, Denholmegate Road, Hipperholme, Halifax,  West Yorkshire",HX3 8JU,True
+GB-CASC-3cb5041e,Old Brodleians Rugby Union Football Club  Limited,"Woodhead, Denholme Gate Road, Hipperholme, Halifax",HX3 8JT,True
 GB-CASC-be7b5bb4,Old Bromleians Football Club,"Scrubs Farm, Lower Gravel Road, Bromley, Kent",BR2 8LL,True
 GB-CASC-c622d4d5,Old Camdenians Cricket Club,"Burtonhole Close, London, No data, No data",NW7 1AN,True
 GB-CASC-6ddae751,Old Chelmsfordians Association,"Lawford Lane, Chelmsford, No data, No data",CM1 2NS,True
@@ -6198,8 +6198,8 @@ GB-CASC-556c7515,Portsmouth Roller Wenches Limited,"Highbury Sports Centre, Tudo
 GB-CASC-fca3a3bd,Portsmouth Rugby Football Club,"RUGBY CAMP, NORWAY ROAD, HILSEA, PORTSMOUTH",PO3 5EP,True
 GB-CASC-084b26f5,Portsmouth Scurvy Dogs,"10 BURNS CLOSE, EASTLEIGH, No data, No data",SO50 5DU,True
 GB-CASC-b4e864ae,Portsmouth Table Tennis Club,"Admiral Lord Nelson School, Dundas Lane, Portsmouth, No data",PO3 5XT,True
-GB-CASC-495848fe,Portsmouth Victoria Swimming Club,"91 HATHERLEY CRESCENT, FAREHAM, No data, No data",PO16 9TW,False
-GB-CASC-9b27091d,Portsmouth Victoria Swimming Club,"91 HATHERLEY CRESCENT, FAREHAM, No data, No data",PO16 9TW,True
+GB-CASC-495848fe,Portsmouth Victoria Swimming Club,"91 HATHERLEY CRESCENT, FAREHAM, No data, No data",PO16 9TW,True
+GB-CASC-9b27091d,Portsmouth Victoria Swimming Club,"91 HATHERLEY CRESCENT, FAREHAM, No data, No data",PO16 9TW,False
 GB-CASC-12813783,Portsoy Coastal Rowing Club,"Portsoy New Harbour, Portsoy, Scotland, No data",AB45 2RX,True
 GB-CASC-38068eea,Poseidon Amateur Boxing Club,"17 LIPIZZANER FIELDS, WHITELEY, FAREHAM, No data",PO15 7BH,True
 GB-CASC-7f9966b0,Potten End Cricket Club,"Homefield, Potten End, Herts",,False
@@ -6294,8 +6294,8 @@ GB-CASC-4508d5ec,Rainford Rangers Junior Football Club,"16 BUTTERMERE CRESCENT, 
 GB-CASC-91a7aecc,Rainford Table Tennis Club,"19 WILLOW HEY, LIVERPOOL, No data, No data",L31 3DL,True
 GB-CASC-f58524b6,Rainford Tennis Club,"Rainford Tennis Club, Jubilee Recreation Ground, Rainford, St Helens",WA11 8HE,True
 GB-CASC-90a2f04e,Rainham Bowls Club,"Rainham Bowls Club, Brights Avenue, Rainham, Essex",RM13 9LD,True
-GB-CASC-f7d93399,Rainham Cricket Club,"BERENGROVE PARK, BERENGRAVE LANE, RAINHAM, KENT",ME8 7NA,False
-GB-CASC-a3573619,Rainham Cricket Club,"BERENGROVE PARK, BERENGRAVE LANE, RAINHAM, KENT",ME8 7NA,True
+GB-CASC-f7d93399,Rainham Cricket Club,"BERENGROVE PARK, BERENGRAVE LANE, RAINHAM, KENT",ME8 7NA,True
+GB-CASC-a3573619,Rainham Cricket Club,"BERENGROVE PARK, BERENGRAVE LANE, RAINHAM, KENT",ME8 7NA,False
 GB-CASC-8b990e35,Rainy City Rollergirls Ltd,"First floor, 1 King Street, Oldham, No data, No data",OL8 1EU,True
 GB-CASC-ea60d889,Rame Gig Club,"6 ARMADA ROAD, CAWSAND, TORPOINT, No data",PL10 1PQ,True
 GB-CASC-7a887d0a,Ramgarhia Hockey Club Derby,"14 Cobham Close, Stenson Fields, Derby, No data",DE24 3JL,True
@@ -6359,8 +6359,8 @@ GB-CASC-a391a3f7,Redditch Borough Football Club,"REDDITCH BOROUGH COMMUNITY SPOR
 GB-CASC-69843390,Redditch Cricket Hockey and Rugby Footba LL Club Limited,"60 WYCHBURY ROAD, BRIERLEY HILL, No data, No data",DY5 2XX,True
 GB-CASC-88a987bc,Redditch Sailing Club,"Proctors Barn Lane, Lakeside, Arrow Valley, Redditch,  Worcs",B98 8PT,True
 GB-CASC-e03aca0a,Redditch Tennis Club,"Redditch Borough FC Site, Cherry Tree Walk, Redditch, No data",B97 6PB,True
-GB-CASC-e4730665,Redesmere Sailing Club,"CAPESTHORNE, SIDDINGTON, MACCLESFIELD, No data",SK11 9JU,True
-GB-CASC-00b8651f,Redesmere Sailing Club,"CAPESTHORNE, SIDDINGTON, MACCLESFIELD, No data",SK11 9JU,False
+GB-CASC-e4730665,Redesmere Sailing Club,"CAPESTHORNE, SIDDINGTON, MACCLESFIELD, No data",SK11 9JU,False
+GB-CASC-00b8651f,Redesmere Sailing Club,"CAPESTHORNE, SIDDINGTON, MACCLESFIELD, No data",SK11 9JU,True
 GB-CASC-a0be1352,Redgrave Rangers Football Club,"Hat Trick, Half Moon Lane, Redgrave, Diss",IP22 1RX,True
 GB-CASC-bdcd37d4,Redhill Lawn Tennis Club,"Linkfield Lane, Redhill, Surrey, No data",RH1 1JW,True
 GB-CASC-9d62e14a,Redland Green Bowling Club,"Redland Green Road, Redland, Bristol, No data",BS6 7HE,True
@@ -8652,8 +8652,8 @@ GB-CASC-7bee6472,Wickham Park Sports Club Ltd,"Entrance between 228/230 Pickhurs
 GB-CASC-49afe444,Widden Old Boys RFC,"Memorial Ground, Tuffley Ground, Tuffley Avenue, Gloucester",GL1 5NS,True
 GB-CASC-5f46b31f,Wideopen & District Juniors AFC,"17 GREYFRIARS LANE, NEWCASTLE UPON TYNE, No data, No data",NE12 8SS,True
 GB-CASC-7db141fb,Widmer End Lawn Tennis Club,"Grange rd, Widmer End, High Wycombe, No data",HP15 6AD,True
-GB-CASC-15e8147f,Widnes Golf Club,"Highfield Road, Widnes, Cheshire, No data",WA8 7DT,False
-GB-CASC-bf68f4ab,Widnes Golf Club,"Highfield Road, Widnes, Cheshire, No data",WA8 7DT,True
+GB-CASC-15e8147f,Widnes Golf Club,"Highfield Road, Widnes, Cheshire, No data",WA8 7DT,True
+GB-CASC-bf68f4ab,Widnes Golf Club,"Highfield Road, Widnes, Cheshire, No data",WA8 7DT,False
 GB-CASC-f9ae4295,Widnes R U F C,"Widnes R U F C, Heath Road, Ditton, Widnes",WA8 7NU,True
 GB-CASC-6a8c29f2,Wigan St Judes ARLFC,"KEATS AVENUE, WIGAN, No data, No data",WN3 5UB,True
 GB-CASC-45881b5b,Wigan and Ashton Gymnastics Club Ltd,"1 RICHARD STREET, INCE, WIGAN, No data",WN3 4JN,True
@@ -8728,8 +8728,8 @@ GB-CASC-5d81dae9,Winnington Park Rugby Football Club,"BURROWS HILL, HARTFORD, CH
 GB-CASC-0161e560,Winsford Cricket Club,"CRICKET PAVILLION, KNIGHTS GRANGE, GRANGE LANE, WINSFORD",CW7 2PT,True
 GB-CASC-a08a723e,Winsford Lawn Tennis Club,"KNIGHTS GRANGE SPORTS COMPLEX, GRANGE LANE, WINSFORD, No data",CW7 2PT,True
 GB-CASC-f0521825,Winshill Football Club,"33 Greenway, Winshill, Burton on Trent, No data",DE15 0AR,True
-GB-CASC-03cc2bf6,Winsley Cricket Club,"93 LACOCK GARDENS, HILPERTON, TROWBRIDGE, No data",BA14 7TG,True
-GB-CASC-86cce889,Winsley Cricket Club,"93 LACOCK GARDENS, HILPERTON, TROWBRIDGE, No data",BA14 7TG,False
+GB-CASC-03cc2bf6,Winsley Cricket Club,"93 LACOCK GARDENS, HILPERTON, TROWBRIDGE, No data",BA14 7TG,False
+GB-CASC-86cce889,Winsley Cricket Club,"93 LACOCK GARDENS, HILPERTON, TROWBRIDGE, No data",BA14 7TG,True
 GB-CASC-5e26bd0b,Winsor United Football Club,"Hounsdown Secondary School, JACOBS GUTTER LANE, TOTTON, SOUTHAMPTON",SO40 9FT,True
 GB-CASC-8b9a71b8,Winstanley Park Tennis Club,"15 SITTINGBOURNE ROAD, WIGAN, No data, No data",WN1 2RR,True
 GB-CASC-f938351e,Winthorpe & Coddington Tigers F.C,"Winthorpe & Coddington Tigers F.C, Sports Ground, Stapleford Lane, Coddington,  Newark",NG24 2QZ,True
