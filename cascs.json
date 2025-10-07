@@ -4635,18 +4635,18 @@
             "active": true
         },
         {
-            "name": "Beith Golf Club (2023) Ltd",
-            "address": "THREEPWOOD ROAD, BEITH, No data, No data",
-            "postcode": "KA15 2JR",
             "id": "GB-CASC-8489523b",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-e2217d6c",
             "name": "Beith Golf Club (2023) Ltd",
             "address": "THREEPWOOD ROAD, BEITH, No data, No data",
             "postcode": "KA15 2JR",
             "active": false
+        },
+        {
+            "name": "Beith Golf Club (2023) Ltd",
+            "address": "THREEPWOOD ROAD, BEITH, No data, No data",
+            "postcode": "KA15 2JR",
+            "id": "GB-CASC-e2217d6c",
+            "active": true
         },
         {
             "id": "GB-CASC-4461f982",
@@ -10466,18 +10466,18 @@
             "active": true
         },
         {
+            "name": "Carlton Cricket Club",
+            "address": "Town Street, Carlton, Wakefield, No data",
+            "postcode": "WF3 3QU",
             "id": "GB-CASC-63fbffb9",
+            "active": true
+        },
+        {
+            "id": "GB-CASC-c66defe5",
             "name": "Carlton Cricket Club",
             "address": "Town Street, Carlton, Wakefield, No data",
             "postcode": "WF3 3QU",
             "active": false
-        },
-        {
-            "name": "Carlton Cricket Club",
-            "address": "Town Street, Carlton, Wakefield, No data",
-            "postcode": "WF3 3QU",
-            "id": "GB-CASC-c66defe5",
-            "active": true
         },
         {
             "name": "Carlton Squash Club",
@@ -18642,18 +18642,18 @@
             "active": true
         },
         {
+            "name": "East Hanningfield & Great Bursted Cricke T Club",
+            "address": "74 ELM VIEW ROAD, BENFLEET, No data, No data",
+            "postcode": "SS7 5AS",
             "id": "GB-CASC-a5bda8b7",
+            "active": true
+        },
+        {
+            "id": "GB-CASC-f00b0044",
             "name": "East Hanningfield & Great Bursted Cricke T Club",
             "address": "74 ELM VIEW ROAD, BENFLEET, No data, No data",
             "postcode": "SS7 5AS",
             "active": false
-        },
-        {
-            "name": "East Hanningfield & Great Bursted Cricke T Club",
-            "address": "74 ELM VIEW ROAD, BENFLEET, No data, No data",
-            "postcode": "SS7 5AS",
-            "id": "GB-CASC-f00b0044",
-            "active": true
         },
         {
             "name": "East Harlsey Cricket Club",
@@ -21995,18 +21995,18 @@
             "active": true
         },
         {
+            "name": "Frimley Tennis Club",
+            "address": "WATCHETTS RECREATION GROUND, PARK ROAD, CAMBERLEY, No data",
+            "postcode": "GU15 2SR",
             "id": "GB-CASC-b05e0b2f",
+            "active": true
+        },
+        {
+            "id": "GB-CASC-d2aff3ae",
             "name": "Frimley Tennis Club",
             "address": "WATCHETTS RECREATION GROUND, PARK ROAD, CAMBERLEY, No data",
             "postcode": "GU15 2SR",
             "active": false
-        },
-        {
-            "name": "Frimley Tennis Club",
-            "address": "WATCHETTS RECREATION GROUND, PARK ROAD, CAMBERLEY, No data",
-            "postcode": "GU15 2SR",
-            "id": "GB-CASC-d2aff3ae",
-            "active": true
         },
         {
             "name": "Frindsbury Cricket Club",
@@ -23052,18 +23052,18 @@
             "active": true
         },
         {
-            "name": "Godalming Lawn Tennis Club",
-            "address": "Godalming Lawn Tennis Club, Summers Road, Godalming, No data",
-            "postcode": "GU7 3BH",
             "id": "GB-CASC-3fd4f401",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-359b1d67",
             "name": "Godalming Lawn Tennis Club",
             "address": "Godalming Lawn Tennis Club, Summers Road, Godalming, No data",
             "postcode": "GU7 3BH",
             "active": false
+        },
+        {
+            "name": "Godalming Lawn Tennis Club",
+            "address": "Godalming Lawn Tennis Club, Summers Road, Godalming, No data",
+            "postcode": "GU7 3BH",
+            "id": "GB-CASC-359b1d67",
+            "active": true
         },
         {
             "name": "Godalming and Farncombe Bowling Club",
@@ -23374,18 +23374,18 @@
             "active": true
         },
         {
-            "name": "Grange Amateur Boxing Club",
-            "address": "134a Ninian Park Road, Riverside, Cardiff, No data",
-            "postcode": "CF11 6JE",
             "id": "GB-CASC-f9c7af11",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-1d84986d",
             "name": "Grange Amateur Boxing Club",
             "address": "134a Ninian Park Road, Riverside, Cardiff, No data",
             "postcode": "CF11 6JE",
             "active": false
+        },
+        {
+            "name": "Grange Amateur Boxing Club",
+            "address": "134a Ninian Park Road, Riverside, Cardiff, No data",
+            "postcode": "CF11 6JE",
+            "id": "GB-CASC-1d84986d",
+            "active": true
         },
         {
             "name": "Grange Fell Golf Club Ltd",
@@ -44521,18 +44521,18 @@
             "active": true
         },
         {
-            "name": "Redesmere Sailing Club",
-            "address": "CAPESTHORNE, SIDDINGTON, MACCLESFIELD, No data",
-            "postcode": "SK11 9JU",
             "id": "GB-CASC-e4730665",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-00b8651f",
             "name": "Redesmere Sailing Club",
             "address": "CAPESTHORNE, SIDDINGTON, MACCLESFIELD, No data",
             "postcode": "SK11 9JU",
             "active": false
+        },
+        {
+            "name": "Redesmere Sailing Club",
+            "address": "CAPESTHORNE, SIDDINGTON, MACCLESFIELD, No data",
+            "postcode": "SK11 9JU",
+            "id": "GB-CASC-00b8651f",
+            "active": true
         },
         {
             "name": "Redgrave Rangers Football Club",
