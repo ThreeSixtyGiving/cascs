@@ -10466,18 +10466,18 @@
             "active": true
         },
         {
+            "name": "Carlton Cricket Club",
+            "address": "Town Street, Carlton, Wakefield, No data",
+            "postcode": "WF3 3QU",
             "id": "GB-CASC-c66defe5",
+            "active": true
+        },
+        {
+            "id": "GB-CASC-63fbffb9",
             "name": "Carlton Cricket Club",
             "address": "Town Street, Carlton, Wakefield, No data",
             "postcode": "WF3 3QU",
             "active": false
-        },
-        {
-            "name": "Carlton Cricket Club",
-            "address": "Town Street, Carlton, Wakefield, No data",
-            "postcode": "WF3 3QU",
-            "id": "GB-CASC-63fbffb9",
-            "active": true
         },
         {
             "name": "Carlton Squash Club",
@@ -40356,16 +40356,16 @@
             "active": true
         },
         {
-            "id": "GB-CASC-a20c2fd4",
             "name": "Old Brodleians Rugby Union Football Club",
             "address": "Woodhead, Denholmegate Road, Hipperholme, Halifax,  West Yorkshire",
             "postcode": "HX3 8JU",
-            "active": false
+            "id": "GB-CASC-a20c2fd4",
+            "active": true
         },
         {
-            "name": "Old Brodleians Rugby Union Football Club",
-            "address": "Woodhead, Denholmegate Road, Hipperholme, Halifax,  West Yorkshire",
-            "postcode": "HX3 8JU",
+            "name": "Old Brodleians Rugby Union Football Club  Limited",
+            "address": "Woodhead, Denholme Gate Road, Hipperholme, Halifax",
+            "postcode": "HX3 8JT",
             "id": "GB-CASC-3cb5041e",
             "active": true
         },
@@ -60572,18 +60572,18 @@
             "active": true
         },
         {
+            "name": "Widnes Golf Club",
+            "address": "Highfield Road, Widnes, Cheshire, No data",
+            "postcode": "WA8 7DT",
             "id": "GB-CASC-15e8147f",
+            "active": true
+        },
+        {
+            "id": "GB-CASC-bf68f4ab",
             "name": "Widnes Golf Club",
             "address": "Highfield Road, Widnes, Cheshire, No data",
             "postcode": "WA8 7DT",
             "active": false
-        },
-        {
-            "name": "Widnes Golf Club",
-            "address": "Highfield Road, Widnes, Cheshire, No data",
-            "postcode": "WA8 7DT",
-            "id": "GB-CASC-bf68f4ab",
-            "active": true
         },
         {
             "name": "Widnes R U F C",
@@ -61104,18 +61104,18 @@
             "active": true
         },
         {
+            "name": "Winsley Cricket Club",
+            "address": "93 LACOCK GARDENS, HILPERTON, TROWBRIDGE, No data",
+            "postcode": "BA14 7TG",
             "id": "GB-CASC-03cc2bf6",
+            "active": true
+        },
+        {
+            "id": "GB-CASC-86cce889",
             "name": "Winsley Cricket Club",
             "address": "93 LACOCK GARDENS, HILPERTON, TROWBRIDGE, No data",
             "postcode": "BA14 7TG",
             "active": false
-        },
-        {
-            "name": "Winsley Cricket Club",
-            "address": "93 LACOCK GARDENS, HILPERTON, TROWBRIDGE, No data",
-            "postcode": "BA14 7TG",
-            "id": "GB-CASC-86cce889",
-            "active": true
         },
         {
             "name": "Winsor United Football Club",
