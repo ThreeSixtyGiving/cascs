@@ -20658,18 +20658,18 @@
             "active": true
         },
         {
-            "name": "Edgbaston Croquet Club",
-            "address": "18 RICHMOND HILL ROAD, BIRMINGHAM, NA, NA",
-            "postcode": "B15 3RP",
             "id": "GB-CASC-19bb2ea8",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-4000869b",
             "name": "Edgbaston Croquet Club",
             "address": "18 RICHMOND HILL ROAD, BIRMINGHAM, NA, NA",
             "postcode": "B15 3RP",
             "active": false
+        },
+        {
+            "name": "Edgbaston Croquet Club",
+            "address": "18 RICHMOND HILL ROAD, BIRMINGHAM, NA, NA",
+            "postcode": "B15 3RP",
+            "id": "GB-CASC-4000869b",
+            "active": true
         },
         {
             "name": "Edgehill Gliding Centre Limited",
@@ -21008,18 +21008,18 @@
             "active": true
         },
         {
-            "name": "Elgin Curling Club",
-            "address": "4 LEONACH PLACE, ELGIN, NA, NA",
-            "postcode": "IV30 6JT",
             "id": "GB-CASC-1d8268e1",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-4163577d",
             "name": "Elgin Curling Club",
             "address": "4 LEONACH PLACE, ELGIN, NA, NA",
             "postcode": "IV30 6JT",
             "active": false
+        },
+        {
+            "name": "Elgin Curling Club",
+            "address": "4 LEONACH PLACE, ELGIN, NA, NA",
+            "postcode": "IV30 6JT",
+            "id": "GB-CASC-4163577d",
+            "active": true
         },
         {
             "name": "Elgin Miniature Rifle Club",
@@ -25159,18 +25159,18 @@
             "active": true
         },
         {
-            "name": "Grange Amateur Boxing Club",
-            "address": "134a Ninian Park Road, Riverside, Cardiff, NA",
-            "postcode": "CF11 6JE",
             "id": "GB-CASC-f9c7af11",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-1d84986d",
             "name": "Grange Amateur Boxing Club",
             "address": "134a Ninian Park Road, Riverside, Cardiff, NA",
             "postcode": "CF11 6JE",
             "active": false
+        },
+        {
+            "name": "Grange Amateur Boxing Club",
+            "address": "134a Ninian Park Road, Riverside, Cardiff, NA",
+            "postcode": "CF11 6JE",
+            "id": "GB-CASC-1d84986d",
+            "active": true
         },
         {
             "name": "Grange Fell Golf Club Ltd",
@@ -25768,11 +25768,11 @@
             "active": true
         },
         {
-            "id": "GB-CASC-72dd0e44",
             "name": "Greenmount Cricket Club Limited",
             "address": "BRANDLESHOLME ROAD, GREENMOUNT, BURY, NA",
             "postcode": "BL8 4DX",
-            "active": false
+            "id": "GB-CASC-72dd0e44",
+            "active": true
         },
         {
             "name": "Greenock Wanderers Rugby Football Club",
@@ -43597,18 +43597,18 @@
             "active": true
         },
         {
+            "name": "Okehampton Golf Club Ltd",
+            "address": "TORS ROAD, OKEHAMPTON, NA, NA",
+            "postcode": "EX20 1EF",
             "id": "GB-CASC-fe48ca6c",
+            "active": true
+        },
+        {
+            "id": "GB-CASC-96e4b653",
             "name": "Okehampton Golf Club Ltd",
             "address": "TORS ROAD, OKEHAMPTON, NA, NA",
             "postcode": "EX20 1EF",
             "active": false
-        },
-        {
-            "name": "Okehampton Golf Club Ltd",
-            "address": "TORS ROAD, OKEHAMPTON, NA, NA",
-            "postcode": "EX20 1EF",
-            "id": "GB-CASC-96e4b653",
-            "active": true
         },
         {
             "name": "Okehampton Rugby Football Club",
@@ -47006,18 +47006,18 @@
             "active": true
         },
         {
-            "name": "Portsmouth Victoria Swimming Club",
-            "address": "91 HATHERLEY CRESCENT, FAREHAM, NA, NA",
-            "postcode": "PO16 9TW",
             "id": "GB-CASC-495848fe",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-9b27091d",
             "name": "Portsmouth Victoria Swimming Club",
             "address": "91 HATHERLEY CRESCENT, FAREHAM, NA, NA",
             "postcode": "PO16 9TW",
             "active": false
+        },
+        {
+            "name": "Portsmouth Victoria Swimming Club",
+            "address": "91 HATHERLEY CRESCENT, FAREHAM, NA, NA",
+            "postcode": "PO16 9TW",
+            "id": "GB-CASC-9b27091d",
+            "active": true
         },
         {
             "name": "Portsoy Coastal Rowing Club",
