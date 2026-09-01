@@ -20098,18 +20098,18 @@
             "active": true
         },
         {
+            "name": "East Hanningfield & Great Bursted Cricke T Club",
+            "address": "74 ELM VIEW ROAD, BENFLEET, NA, NA",
+            "postcode": "SS7 5AS",
             "id": "GB-CASC-a5bda8b7",
+            "active": true
+        },
+        {
+            "id": "GB-CASC-f00b0044",
             "name": "East Hanningfield & Great Bursted Cricke T Club",
             "address": "74 ELM VIEW ROAD, BENFLEET, NA, NA",
             "postcode": "SS7 5AS",
             "active": false
-        },
-        {
-            "name": "East Hanningfield & Great Bursted Cricke T Club",
-            "address": "74 ELM VIEW ROAD, BENFLEET, NA, NA",
-            "postcode": "SS7 5AS",
-            "id": "GB-CASC-f00b0044",
-            "active": true
         },
         {
             "name": "East Harlsey Cricket Club",
@@ -20658,18 +20658,18 @@
             "active": true
         },
         {
+            "name": "Edgbaston Croquet Club",
+            "address": "18 RICHMOND HILL ROAD, BIRMINGHAM, NA, NA",
+            "postcode": "B15 3RP",
             "id": "GB-CASC-19bb2ea8",
+            "active": true
+        },
+        {
+            "id": "GB-CASC-4000869b",
             "name": "Edgbaston Croquet Club",
             "address": "18 RICHMOND HILL ROAD, BIRMINGHAM, NA, NA",
             "postcode": "B15 3RP",
             "active": false
-        },
-        {
-            "name": "Edgbaston Croquet Club",
-            "address": "18 RICHMOND HILL ROAD, BIRMINGHAM, NA, NA",
-            "postcode": "B15 3RP",
-            "id": "GB-CASC-4000869b",
-            "active": true
         },
         {
             "name": "Edgehill Gliding Centre Limited",
@@ -24830,18 +24830,18 @@
             "active": true
         },
         {
+            "name": "Godalming Lawn Tennis Club",
+            "address": "Godalming Lawn Tennis Club, Summers Road, Godalming, NA",
+            "postcode": "GU7 3BH",
             "id": "GB-CASC-3fd4f401",
+            "active": true
+        },
+        {
+            "id": "GB-CASC-359b1d67",
             "name": "Godalming Lawn Tennis Club",
             "address": "Godalming Lawn Tennis Club, Summers Road, Godalming, NA",
             "postcode": "GU7 3BH",
             "active": false
-        },
-        {
-            "name": "Godalming Lawn Tennis Club",
-            "address": "Godalming Lawn Tennis Club, Summers Road, Godalming, NA",
-            "postcode": "GU7 3BH",
-            "id": "GB-CASC-359b1d67",
-            "active": true
         },
         {
             "name": "Godalming and Farncombe Bowling Club",
@@ -25159,18 +25159,18 @@
             "active": true
         },
         {
+            "name": "Grange Amateur Boxing Club",
+            "address": "134a Ninian Park Road, Riverside, Cardiff, NA",
+            "postcode": "CF11 6JE",
             "id": "GB-CASC-f9c7af11",
+            "active": true
+        },
+        {
+            "id": "GB-CASC-1d84986d",
             "name": "Grange Amateur Boxing Club",
             "address": "134a Ninian Park Road, Riverside, Cardiff, NA",
             "postcode": "CF11 6JE",
             "active": false
-        },
-        {
-            "name": "Grange Amateur Boxing Club",
-            "address": "134a Ninian Park Road, Riverside, Cardiff, NA",
-            "postcode": "CF11 6JE",
-            "id": "GB-CASC-1d84986d",
-            "active": true
         },
         {
             "name": "Grange Fell Golf Club Ltd",
@@ -36688,18 +36688,18 @@
             "active": true
         },
         {
+            "name": "Long Yang Club Badminton London",
+            "address": "FLAT 8, 300 STEPNEY WAY, LONDON, NA",
+            "postcode": "E1 3DW",
             "id": "GB-CASC-fa9297e7",
+            "active": true
+        },
+        {
+            "id": "GB-CASC-589dedfc",
             "name": "Long Yang Club Badminton London",
             "address": "FLAT 8, 300 STEPNEY WAY, LONDON, NA",
             "postcode": "E1 3DW",
             "active": false
-        },
-        {
-            "name": "Long Yang Club Badminton London",
-            "address": "FLAT 8, 300 STEPNEY WAY, LONDON, NA",
-            "postcode": "E1 3DW",
-            "id": "GB-CASC-589dedfc",
-            "active": true
         },
         {
             "name": "Longlevens Rugby Football Club Ltd",
@@ -47006,18 +47006,18 @@
             "active": true
         },
         {
-            "name": "Portsmouth Victoria Swimming Club",
-            "address": "91 HATHERLEY CRESCENT, FAREHAM, NA, NA",
-            "postcode": "PO16 9TW",
             "id": "GB-CASC-495848fe",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-9b27091d",
             "name": "Portsmouth Victoria Swimming Club",
             "address": "91 HATHERLEY CRESCENT, FAREHAM, NA, NA",
             "postcode": "PO16 9TW",
             "active": false
+        },
+        {
+            "name": "Portsmouth Victoria Swimming Club",
+            "address": "91 HATHERLEY CRESCENT, FAREHAM, NA, NA",
+            "postcode": "PO16 9TW",
+            "id": "GB-CASC-9b27091d",
+            "active": true
         },
         {
             "name": "Portsoy Coastal Rowing Club",
@@ -65626,18 +65626,18 @@
             "active": true
         },
         {
-            "name": "Widnes Golf Club",
-            "address": "Highfield Road, Widnes, Cheshire, NA",
-            "postcode": "WA8 7DT",
             "id": "GB-CASC-15e8147f",
-            "active": true
-        },
-        {
-            "id": "GB-CASC-bf68f4ab",
             "name": "Widnes Golf Club",
             "address": "Highfield Road, Widnes, Cheshire, NA",
             "postcode": "WA8 7DT",
             "active": false
+        },
+        {
+            "name": "Widnes Golf Club",
+            "address": "Highfield Road, Widnes, Cheshire, NA",
+            "postcode": "WA8 7DT",
+            "id": "GB-CASC-bf68f4ab",
+            "active": true
         },
         {
             "name": "Widnes R U F C",
