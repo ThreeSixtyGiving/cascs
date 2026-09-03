@@ -11,7 +11,7 @@ dependencies = [
     "pyexcel-ods3",
     "titlecase",
     "lxml[html_clean]",
-    "urllib3>=2.6.3",
+    "urllib3>=2.7.0",
 ]
 
 
