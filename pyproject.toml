@@ -4,7 +4,7 @@ version = "1.0.0"
 description = "This project creates and stores a list of Community Amateur Sports Clubs (CASC), a type of non profit organisation registered in the UK with HMRC."
 readme = "readme.md"
 authors = [{ name = "David Kane", email = "david@threesixtygiving.org" }]
-requires-python = ">=3.13"
+requires-python = ">=3.14"
 dependencies = [
     "requests-html",
     "ruff",
